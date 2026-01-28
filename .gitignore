@@ -11,3 +11,4 @@ wheels/
 
 src/scraper
 src/utils/scraper.py
+**/result.json
