@@ -57,7 +57,7 @@ def parse_numbered_sections(text: str, numbering_style: str) -> dict | str:
         regex = r"\n?([A-Za-z])\.\s+(.*?)(?=\n[A-Za-z]\.|\Z)"
         first_match = r"[A-Za-z]\.\s+"
     else:
-        raise ValueError("numbering_style must be 'number', 'uppercase' or 'lowercase'")
+        raise ValueError("Invalid numbering_style")
 
     matches = re.findall(regex, text, re.DOTALL)
     response = {}
@@ -317,7 +317,7 @@ def main():
         "economie",
         "filosofie",
         "istorie",
-        # "logica",
+        "logica",
         "psihologie",
         "sociologie",
     ]
