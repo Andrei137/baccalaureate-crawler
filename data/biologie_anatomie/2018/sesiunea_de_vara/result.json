@@ -1,0 +1,59 @@
+{
+  "subiectul_1": {
+    "subiect": {
+      "exercitiul_A": "Scrieţi, pe foaia de examen, noţiunile cu care trebuie să completaţi spaţiile libere din afirmaţia următoare, astfel încât aceasta să fie corectă. Tarsienele, metatarsienele şi ............ sunt oase ale scheletului membrelor ............ .",
+      "exercitiul_B": "Numiţi două organe localizate în cavitatea toracică. Asociaţi fiecare organ numit cu rolul îndeplinit în organism.",
+      "exercitiul_C": {
+        "enunt": "Scrieţi, pe foaia de examen, litera corespunzătoare răspunsului corect. Este corectă o singură variantă de răspuns.",
+        "subpunctul_1": "Vasul de sânge care transportă sânge cu O 2 , de la plămâni la inimă este: a) artera aortă b) artera pulmonară c) vena cavă d) vena pulmonară",
+        "subpunctul_2": "STH-ul (hormonul somatotrop) este secretat de: a) gonada masculină b) hipofiză c) pancreasul endocrin d) tiroidă",
+        "subpunctul_3": "Celula sexuală feminină (gametul feminin) este: a) ovarul b) ovulul c) spermatozoidul d) testiculul",
+        "subpunctul_4": "În timpul unei inspiraţii normale: a) aerul din plămâni iese la exterior b) diafragma se contractă c) presiunea aerului din plămâni creşte d) volumul cutiei toracice scade",
+        "subpunctul_5": "Muşchi al membrului superior este: a) bicepsul b) croitorul c) oblicul d) trapezul"
+      },
+      "exercitiul_D": {
+        "enunt": "Citiţi, cu atenţie, afirmaţiile următoare. Dacă apreciaţi că afirmaţia este adevărată, scrieţi, pe foaia de examen, în dreptul cifrei corespunzătoare afirmaţiei, litera A. Dacă apreciaţi că afirmaţia este falsă, scrieţi, pe foaia de examen, în dreptul cifrei corespunzătoare afirmaţiei, litera F şi modificaţi parţial afirmaţia pentru ca aceasta să devină adevărată. Nu se acceptă folosirea negaţiei.",
+        "subpunctul_1": "Boala Basedow-Graves este provocată de o disfuncţie a pancreasului endocrin.",
+        "subpunctul_2": "Ecosistemele naturale sunt create şi dirijate de către om.",
+        "subpunctul_3": "Celulele cu conuri şi celulele cu bastonaşe din retină conţin pigmenţi fotosensibili."
+      }
+    },
+    "barem": {
+      "exercitiul_A": "Se acordă câte 2p. pentru fiecare noţiune corectă. 2 x 2p.= 4 puncte",
+      "exercitiul_B": "- numirea a două organe localizate în cavitatea toracică; 2 x 1p.= 2 puncte - asocierea fiecărui organ numit cu rolul îndeplinit în organism. 2 x 2p.= 4 puncte",
+      "exercitiul_C": "Se acordă câte 2p. pentru fiecare răspuns corect: 1d; 2b; 3b; 4b; 5a. 5 x 2p.= 10 puncte",
+      "exercitiul_D": "Se acordă câte 2p. pentru fiecare răspuns corect: 1F; 2F; 3A. 3 x 2p.= 6 puncte Se acordă câte 2p. pentru modificarea corectă a fiecărei afirmaţii false. 2 x 2p.= 4 puncte"
+    }
+  },
+  "subiectul_2": {
+    "subiect": {
+      "exercitiul_A": {
+        "enunt": "Celulele eucariotelor conţin mai multe tipuri de ARN, printre care şi ARN mesager.",
+        "subpunctul_a": "Numiţi alte două tipuri de ARN; precizaţi funcţia îndeplinită de fiecare tip de ARN numit.",
+        "subpunctul_b": "Sinteza unei proteine din celula musculară se realizează pe baza informaţiei unui fragment de ADN bicatenar, alcătuit din 912 nucleotide, dintre care 248 de nucleotide conţin citozină. Stabiliţi următoarele: - numărul de nucleotide cu adenină din fragmentul de ADN bicatenar; (scrieţi toate etapele necesare rezolvării acestei cerinţe); - numărul legăturilor duble şi al legăturilor triple din fragmentul de ADN bicatenar; - numărul codonilor din ARN-ul mesager format prin procesul de transcripţie.",
+        "subpunctul_c": "Completaţi problema de la punctul b) cu o altă cerinţă pe care o formulaţi voi, folosind informaţii ştiinţifice specifice biologiei; rezolvaţi cerinţa pe care aţi propus-o."
+      },
+      "exercitiul_B": {
+        "enunt": "Doi pacienţi ai unui spital au fost supuşi unei operaţii de transplant hepatic. În ambele cazuri, este necesară o transfuzie cu o cantitate mică de sânge. La spital s-au prezentat rude ale celor doi pacienţi, în vederea donării de sânge. Grupele sanguine ale acestora sunt: O, A, AB. Ţinând cont de faptul că un pacient are grupa sanguină A, iar celălalt pacient are grupa sanguină AB, precizaţi următoarele:",
+        "subpunctul_a": "grupele sanguine ale donatorilor comuni pentru cei doi pacienţi;",
+        "subpunctul_b": "consecinţa în cazul transfuziei cu sânge provenit de la un donator incompatibil din punctul de vedere al sistemului Rh;",
+        "subpunctul_c": "aglutinina (anticorpul) din sângele pacientului cu grupa A.",
+        "subpunctul_d": "Completaţi această problemă cu o altă cerinţă pe care o formulaţi voi, folosind informaţii ştiinţifice specifice biologiei; rezolvaţi cerinţa pe care aţi propus-o."
+      }
+    },
+    "barem": {
+      "exercitiul_A": "a) numirea altor două tipuri de ARN; 2 x 1p.= 2 puncte - precizarea funcţiei îndeplinite de fiecare tip de ARN numit; 2 x 1p.= 2 puncte b) - numărul de nucleotide care conţin adenină – etapele rezolvării: - stabilirea numărului de nucleotide care conţin guanină (248); 1 punct - stabilirea numărului de nucleotide care conţin citozină + guanină (496); 1 punct - stabilirea numărului de nucleotide care conţin adenină + timină (416); 1 punct - stabilirea numărului de nucleotide care conţin adenină (208); 1 punct - numărul legăturilor duble din fragmentul de ADN bicatenar (208); 2 puncte - numărul legăturilor triple din fragmentul de ADN bicatenar (248); 2 puncte - numărul codonilor din ARN-ul mesager format prin procesul de transcripţie (152). 2 puncte Notă Pentru raţionamentul corect, neînsoţit de calcule, se acordă jumătate din punctajul repartizat etapelor calculării numărului de nucleotide cu adenină. c) - formularea cerinţei; 2 puncte - rezolvarea cerinţei. 2 puncte",
+      "exercitiul_B": "a) grupele sanguine ale donatorilor comuni pentru cei doi pacienţi (O; A); 2 x 2p.= 4 puncte b) consecinţa în cazul transfuziei cu sânge provenit de la un donator incompatibil din punctul de vedere al sistemului Rh; 2 puncte c) aglutinina (anticorpul) din sângele pacientului cu grupa A; 2 puncte d) formularea cerinţei; 2 puncte - rezolvarea cerinţei. 2 puncte"
+    }
+  },
+  "subiectul_3": {
+    "subiect": {
+      "exercitiul_1": "Sistemul nervos, unitar ca structură şi funcţie, se clasifică din punct de vedere funcţional în somatic şi vegetativ. a) Clasificaţi sistemul nervos din punct de vedere topografic. b) Precizaţi două deosebiri dintre sistemul nervos somatic şi sistemul nervos vegetativ. c) Construiţi patru enunţuri afirmative, câte două pentru fiecare conţinut, utilizând limbajul ştiinţific adecvat. Folosiţi, în acest scop, informaţii referitoare la următoarele conţinuturi: - Clasificarea căilor de conducere medulare. - Segmentul periferic al analizatorului auditiv.",
+      "exercitiul_2": "Sistemul excretor, împreună cu alte sisteme de organe, participă la realizarea funcţiilor de nutriţie ale organismului uman. a) Enumeraţi alte trei sisteme de organe care participă, împreună cu sistemul excretor, la realizarea funcţiilor de nutriţie. b) Precizaţi trei afecţiuni ale sistemului excretor. c) Alcătuiţi un minieseu intitulat „Formarea urinei”, folosind informaţia ştiinţifică adecvată. În acest scop, respectaţi următoarele etape: - enumerarea a şase noţiuni specifice acestei teme; - construirea, cu ajutorul acestora, a unui text coerent, format din maximum trei-patru fraze, folosind corect şi în corelaţie noţiunile enumerate."
+    },
+    "barem": {
+      "exercitiul_1": "14 puncte a) clasificarea sistemului nervos din punct de vedere topografic; 2 x 1p.= 2 puncte b) precizarea a două deosebiri dintre sistemul nervos somatic şi sistemul nervos vegetativ; 2 x 2p.= 4 puncte c) construirea a patru enunţuri afirmative, utilizând limbajul ştiinţific adecvat, folosind, în acest scop, informaţii referitoare la conţinuturile indicate. 4 x 2p. = 8 puncte",
+      "exercitiul_2": "16 puncte a) enumerarea altor trei sisteme de organe care participă, împreună cu sistemul excretor, la realizarea funcţiilor de nutriţie; 3 x 1p.= 3 puncte b) precizarea a trei afecţiuni ale sistemului excretor; 3 x 1p.= 3 puncte c) alcătuirea minieseului, folosindu-se informaţia ştiinţifică adecvată, respectându-se cerinţele: - pentru fiecare noţiune enumerată, specifică temei, se acordă câte 1p.; 6 x 1p.= 6 puncte - pentru coerenţa textului, de maximum trei-patru fraze, în alcătuirea căruia fiecare noţiune este folosită corect, în corelaţie cu celelalte noţiuni, se acordă 4 p. 4 puncte"
+    }
+  }
+}

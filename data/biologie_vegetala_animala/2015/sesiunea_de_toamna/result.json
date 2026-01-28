@@ -1,0 +1,61 @@
+{
+  "subiectul_1": {
+    "subiect": {
+      "exercitiul_A": "Scrieţi, pe foaia de examen, noţiunile cu care trebuie să completaţi spaţiile libere din afirmaţia următoare, astfel încât aceasta să fie corectă. Căi respiratorii sunt ............ şi ............ .",
+      "exercitiul_B": "Daţi două exemple de componente ale nucleului unei celule animale; scrieţi în dreptul fiecărei componente câte o caracteristică.",
+      "exercitiul_C": {
+        "enunt": "Scrieţi, pe foaia de examen, litera corespunzătoare răspunsului corect. Este corectă o singură variantă de răspuns.",
+        "subpunctul_1": "Sunt cordate: a) artropodele b) insectele c) moluştele d) reptilele",
+        "subpunctul_2": "Briofitele fac parte din regnul: a) Fungi b) Monera c) Plante d) Protiste",
+        "subpunctul_3": "Fiecare dintre celulele-fiice formate prin diviziunea mitotică a unei celule-mamă cu 2n = 34 cromozomi are: a) 2n = 34 cromozomi b) 2n = 17 cromozomi c) n = 34 cromozomi d) n = 17 cromozomi",
+        "subpunctul_4": "La mamifere, măduva spinării: a) are substanţă albă organizată în coarne b) este componentă a sistemului nervos central c) conţine substanţă cenuşie la periferie d) conduce spre creier impulsurile nervoase motorii",
+        "subpunctul_5": "Spermatozoidul: a) este celulă diploidă b) participă la procesul de fecundaţie c) reprezintă gonada masculină d) se formează în veziculele seminale"
+      },
+      "exercitiul_D": {
+        "enunt": "Citiţi, cu atenţie, afirmaţiile următoare. Dacă apreciaţi că afirmaţia este adevărată, scrieţi, pe foaia de examen, în dreptul cifrei corespunzătoare afirmaţiei, litera A. Dacă apreciaţi că afirmaţia este falsă, scrieţi, pe foaia de examen, în dreptul cifrei corespunzătoare afirmaţiei, litera F şi modificaţi parţial afirmaţia pentru ca aceasta să devină adevărată. Folosiţi, în acest scop, informaţia ştiinţifică adecvată. Nu se acceptă folosirea negaţiei.",
+        "subpunctul_1": "La mamifere, în timpul inspiraţiei, muşchiul diafragm se relaxează.",
+        "subpunctul_2": "Nervul optic este alcătuit din axonii neuronilor bipolari.",
+        "subpunctul_3": "În mucoasa limbii există chemoreceptori numiţi muguri gustativi."
+      }
+    },
+    "barem": {
+      "exercitiul_A": "Se acordă câte 2p. pentru fiecare noţiune corectă. 2 x 2p. = 4 puncte",
+      "exercitiul_B": "- două exemple de componente ale nucleului unei celule animale; 2 x 1p. = 2 puncte - câte o caracteristică pentru fiecare componentă a nucleului. 2 x 2p. = 4 puncte",
+      "exercitiul_C": "Se acordă câte 2p. pentru fiecare răspuns corect: 1d; 2c; 3a; 4b; 5b. 5 x 2p. = 10 puncte",
+      "exercitiul_D": "Se acordă câte 2p. pentru fiecare răspuns corect: 1F; 2F; 3A. 3 x 2p.= 6 puncte Se acordă câte 2p. pentru modificarea corectă a fiecărei afirmaţii false. 2 x 2p.= 4 puncte"
+    }
+  },
+  "subiectul_2": {
+    "subiect": {
+      "exercitiul_A": {
+        "enunt": "Sângele, component al mediului intern al mamiferelor, este alcătuit din plasmă şi elemente figurate.",
+        "subpunctul_a": "Numiţi două boli ale sistemului circulator la om, precizând pentru fiecare boală câte o manifestare.",
+        "subpunctul_b": "Precizaţi o deosebire structurală şi una funcţională dintre leucocite şi trombocite.",
+        "subpunctul_c": "Calculaţi masa apei din plasma sângelui unei atlete, ştiind următoarele: - sângele reprezintă 7% din masa corpului; - plasma sangvină reprezintă 55% din masa sângelui; - apa reprezintă 90% din masa plasmei sangvine; - masa corpului atletei este de 60 Kg. Scrieţi toate etapele parcurse pentru rezolvarea cerinţei.",
+        "subpunctul_d": "Completaţi problema de la punctul c) cu o altă cerinţă pe care o formulaţi voi, folosind informaţii ştiinţifice specifice biologiei; rezolvaţi cerinţa pe care aţi propus-o."
+      },
+      "exercitiul_B": {
+        "enunt": "Se încrucişează două soiuri de gutui care se deosebesc prin mărimea şi culoarea fructelor. Fructele mari (M) şi de culoare galben-portocalie (P) sunt caractere dominante, iar fructele mijlocii (",
+        "subpunctul_m": "şi de culoare aurie (p) sunt caractere recesive. Un soi de gutui are fructe mari şi de culoare galben-portocalie, fiind homozigot pentru ambele caractere, iar celălalt soi de gutui are fructe mijlocii şi de culoare aurie. În prima generaţie, F 1 , se obţin organisme hibride. Prin încrucişarea între ei a indivizilor din F 1 , se obţin, în F 2 , 16 combinaţii de factori ereditari. Stabiliţi următoarele:",
+        "subpunctul_a": "genotipurile celor două soiuri de gutui;",
+        "subpunctul_b": "trei exemple de tipuri de gameţi produşi de indivizii din F 1 ;",
+        "subpunctul_c": "numărul combinaţiilor din F 2 , homozigote pentru ambele caractere; genotipul indivizilor din F 2 cu fructe mari şi de culoare aurie.",
+        "subpunctul_d": "Completaţi această problemă cu o altă cerinţă pe care o formulaţi voi, folosind informaţii ştiinţifice specifice biologiei; rezolvaţi cerinţa pe care aţi propus-o. Scrieţi toate etapele rezolvării problemei."
+      }
+    },
+    "barem": {
+      "exercitiul_A": "a) numirea a două boli ale sistemului circulator la om; 2 x 1p. = 2 puncte - precizarea pentru fiecare boală numită a câte unei manifestări; 2 x 1p. = 2 puncte b) precizarea unei deosebiri structurale şi a unei deosebiri funcţionale dintre leucocite şi trombocite; 2 x 2p. = 4 puncte c) - calcularea masei sângelui atletei; 2 puncte 60 x 7 : 100 = 4,2 kg; - calcularea masei plasmei sangvine; 2 puncte 4,2 x 55 : 100 = 2,31 kg; - calcularea masei apei din plasma sangvină; 2 puncte 2,31 x 90 : 100 = 2,079 kg; d) - formularea cerinţei; 2 puncte - rezolvarea cerinţei. 2 puncte Notă Se punctează oricare altă modalitate de rezolvare a problemei. Pentru raţionamentul corect, neînsoţit de calcule, se acordă jumătate din punctajul repartizat rezolvării problemei.",
+      "exercitiul_B": "a) genotipurile celor două soiuri de gutui: MMPP; mmpp; 2 x 1p. = 2 puncte b) trei exemple de tipuri de gameţi produşi de indivizii din F 1 ; 3 x 1p. = 3 puncte c) numărul combinaţiilor din F 2 , homozigote pentru ambele caractere: 4 (4/16); 1 punct - genotipul indivizilor din F 2 cu fructe mari şi de culoare aurie (MMpp; Mmpp); 2 x 1p. = 2 puncte d) - formularea cerinţei; 2 puncte - rezolvarea cerinţei. 2 puncte"
+    }
+  },
+  "subiectul_3": {
+    "subiect": {
+      "exercitiul_1": "Sistemul digestiv al mamiferelor este alcătuit din tub digestiv şi glande anexe. a) Caracterizaţi o glandă anexă a tubului digestiv al mamiferelor precizând: numele glandei anexe, localizarea ei şi sucul digestiv secretat. b) Scrieţi un argument în favoarea importanţei respectării de către om a unor reguli de igienă a sistemului digestiv şi digestiei. c) Construiţi patru enunţuri afirmative, utilizând limbajul ştiinţific adecvat. Folosiţi, în acest scop, informaţii referitoare la următoarele conţinuturi: - Nutriţia heterotrofă. - Intestinul gros.",
+      "exercitiul_2": "Excreţia este una dintre funcţiile vitale ale organismelor. a) Enumeraţi trei căi urinare ale sistemului excretor al mamiferelor. b) Explicaţi rolul stomatelor în realizarea transpiraţiei la plante. c) Alcătuiţi un minieseu intitulat „Rinichii mamiferelor”, folosind informaţia ştiinţifică adecvată. În acest scop, respectaţi următoarele etape: - enumerarea a şase noţiuni specifice acestei teme; - construirea, cu ajutorul acestora, a unui text coerent, format din maximum trei-patru fraze, folosind corect şi în corelaţie noţiunile enumerate."
+    },
+    "barem": {
+      "exercitiul_1": "14 puncte a) caracterizarea unei glande anexe a tubului digestiv al mamiferelor precizând: - numele glandei anexe; 1 punct - localizarea glandei anexe; 1 punct - sucul digestiv secretat de glanda anexă; 1 punct b) scrierea unui argument; 3 puncte c) construirea a patru enunţuri afirmative, utilizând limbajul ştiinţific adecvat, folosind informaţii referitoare la conţinuturile indicate. 4 x 2p. = 8 puncte",
+      "exercitiul_2": "16 puncte a) enumerarea a trei căi urinare ale sistemului excretor al mamiferelor; 3 x 1p. = 3 puncte b) explicarea corectă; 3 puncte c) alcătuirea minieseului, folosindu-se informaţia ştiinţifică adecvată, respectându-se cerinţele: - pentru fiecare noţiune enumerată, specifică temei, se acordă câte 1p.; 6 x 1p.= 6 puncte - pentru coerenţa textului, de maximum trei-patru fraze, în alcătuirea căruia fiecare noţiune este folosită corect, în corelaţie cu celelalte noţiuni, se acordă 4 p. 4 puncte"
+    }
+  }
+}

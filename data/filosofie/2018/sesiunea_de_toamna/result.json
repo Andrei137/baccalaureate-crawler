@@ -1,0 +1,49 @@
+{
+  "subiectul_1": {
+    "subiect": {
+      "enunt": "Scrieţi pe foaia de examen litera corespunzătoare răspunsului corect, pentru fiecare dintre situaţiile de mai jos. Este corectă o singură variantă de răspuns.",
+      "exercitiul_1": "L. Blaga apreciază că sensul existenţei umane constă în: a. sociabilitate b. principiul egalității șanselor c. responsabilitatea de sine d. destinul creator",
+      "exercitiul_2": "Teoriile care au la bază conceptele de bine și de rău sunt: a. teorii științifice b. teorii morale c. teorii epistemologice d. teorii ale adevărului",
+      "exercitiul_3": "O problemă controversată din punct de vedere moral precum eutanasia este abordată, în mod explicit, de: a. etica deontologică b. etica aplicată c. hedonism d. eudaimonism",
+      "exercitiul_4": "În sens general, libertatea se referă la: a. absența constrângerilor b. numeroase limitări c. prezența constrângerilor d. interzicerea drepturilor",
+      "exercitiul_5": "În vederea unei bune conviețuiri cu ceilalți în societate, libertatea trebuie asociată cu: a. dictatura b. frumosul c. plăcerea d. responsabilitatea",
+      "exercitiul_6": "Dreptul la concediu de îngrijire al copilului este: a. un drept negativ b. un drept natural c. un drept fundamental d. un drept pozitiv",
+      "exercitiul_7": "Filosoful J. P. Sartre considera că: a. omul este condamnat să fie liber b. ființa umană este dependentă de constrângeri c. omul este supus unei libertăți limitate d. existența umană este condiționată de divinitate",
+      "exercitiul_8": "Restrângerea libertății individuale este legitimă, doar atunci când: a. se previne lezarea libertății celorlalți b. se urmărește sporirea puterii statului c. se dorește creșterea autorității politice d. se încearcă supunerea cetățenilor",
+      "exercitiul_9": "Potrivit concepţiei lui Im. Kant, fundamentul moralei este: a. imperativul categoric b. principiul maximizării fericirii c. utilitatea d. pragmatismul",
+      "exercitiul_10": "Datorită garantării drepturilor negative, libertatea individului este protejată împotriva: a. liberului arbitru b. intervenției divine c. destinului d. imixtiunii statului"
+    },
+    "barem": "câte 3 puncte pentru fiecare răspuns corect, astfel: 1-d, 2-b, 3-b, 4-a, 5-d, 6-d, 7-a, 8-a, 9-a, 10-d 10x3p= 30 puncte"
+  },
+  "subiectul_2": {
+    "subiect": {
+      "exercitiul_A": "În coloana din stânga sunt enumerate concepte și teorii specifice filosofiei politice, iar în coloana din dreapta sunt numerotate enunţuri adevărate referitoare la acestea. Scrieţi pe foaia de examen asocierile corecte dintre fiecare literă din coloana din stânga şi cifra corespunzătoare din coloana din dreapta. a. Liberalismul b. Filosofia politică c. Democrația d. Etatismul 1. Se referă la ideea conform căreia societatea trebuie să se supună statului. 2. Consideră că principala funcție a statului o reprezintă garantarea drepturilor și libertăților individuale. 3. Face parte din categoria teoriilor epistemologice. 4. Analizează fundamentele și scopurile guvernării, exercitarea autorității, drepturile și obligațiile guvernământului, formele de guvernare etc. 5. Semnifică puterea poporului.",
+      "exercitiul_B": "Argumentați, în aproximativ zece rânduri, în favoarea sau împotriva necesității limitării puterii statului.",
+      "exercitiul_C": "Construiți un exemplu prin care să evidențiați rolul/importanţa statului în garantarea libertății individuale."
+    },
+    "barem": {
+      "exercitiul_A": "câte 4 puncte pentru fiecare asociere corectă, astfel: a-2 b-4 c-5 d-1 4x4p=16 puncte",
+      "exercitiul_B": "- argumentarea în favoarea sau împotriva necesității limitării puterii statului 6 puncte - încadrarea în limita de spaţiu precizată 2 puncte",
+      "exercitiul_C": "construirea unui exemplu care evidențiază rolul/importanţa statului în garantarea libertății individuale 6 puncte"
+    }
+  },
+  "subiectul_3": {
+    "subiect": {
+      "exercitiul_A": {
+        "enunt": "Citiți, cu atenție, textul de mai jos: Aș vrea ca oamenii să se gândească că trei lucruri vor afla în ei înșiși. Aceste trei sunt diferite de Trinitate, dar totuși le menționez pentru ca oamenii să-și încerce mintea și să cerceteze cât de diferite sunt. Cele trei lucruri de care vorbesc sunt: existența, cunoașterea și voința. Pentru că eu sunt, eu cunosc și eu vreau. Eu sunt o ființă care cunoaște și vrea: eu cunosc că sunt și că vreau; eu vreau să fiu și să cunosc. Iar în aceste trei, viața este inseparabilă – o viață unică, un suflet unic, o esență unică; și totuși, cu toate că distincția este inseparabilă, cele trei lucruri sunt diferite. (Augustin, Confesiuni) Răspundeți următoarelor cerințe:",
+        "subpunctul_1": "Menţionaţi, pe baza textului dat, două caracteristici ale omului interior.",
+        "subpunctul_2": "Evidenţiaţi, în aproximativ o jumătate de pagină, o corelaţie existentă între termenii natură umană şi cunoaștere.",
+        "subpunctul_3": "Formulaţi un punct de vedere personal referitor la actualitatea perspectivei filosofice prezentată în textul dat."
+      },
+      "exercitiul_B": {
+        "enunt": "Știind că, filosofia are o relevanță educativă pentru viață:",
+        "subpunctul_1": "Argumentați, în aproximativ cinci rânduri, în favoarea ideii/tezei filosofice prezentată în enunț.",
+        "subpunctul_2": "Ilustraţi, printr-un exemplu concret, modul în care filosofia poate influența deciziile unei persoane."
+      }
+    },
+    "barem": {
+      "exercitiul_A": "1. câte 2 puncte pentru menționarea, pe baza textului dat, a fiecăreia dintre cele două caracteristici ale omului interior 2x2p= 4 puncte 2. - câte 1 punct pentru utilizarea fiecăruia dintre cei doi termeni daţi în sens filosofic 2x1p= 2 puncte - evidenţierea unei corelaţii existente între termenii dați 4 puncte - coerenţa textului redactat 2 puncte - încadrarea în limita de spaţiu precizată 2 puncte 3. formularea unui punct de vedere personal referitor la actualitatea perspectivei filosofice prezentată în textul dat 4 puncte",
+      "exercitiul_B": "1. - argumentarea în favoarea ideii/tezei filosofice prezentată în enunț 4 puncte - încadrarea în limita de spaţiu precizată 2 puncte 2. ilustrarea, printr-un exemplu concret, a modului în care filosofia poate influența deciziile unei persoane 6 puncte"
+    }
+  }
+}

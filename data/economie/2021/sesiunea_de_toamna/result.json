@@ -1,0 +1,40 @@
+{
+  "subiectul_1": {
+    "subiect": {
+      "exercitiul_A": {
+        "enunt": "Pentru fiecare item scrieţi, pe foaia de examen, cifra corespunzătoare şi notaţi în dreptul ei litera răspunsului pe care îl apreciaţi ca fiind corect:",
+        "subpunctul_1": "Caracteristica dominantă a bunurilor economice este: a. raritatea b. standardizarea c. convertibilitatea d. omogenitatea",
+        "subpunctul_2": "Profitul se calculează ca diferență între: a. valoarea vânzărilor și costul total b. dobânda activă și dobânda pasivă c. încasările totale și cheltuielile salariale d. cifra de afaceri și costul de desfacere",
+        "subpunctul_3": "Atâta timp cât, la creșterea producției, costul mediu este mai mare decât costul marginal: a. costul pe unitatea de produs va crește, odată cu sporirea costului fix mediu b. costul unitar va rămâne constant, odată cu creșterea costului variabil mediu c. costul fix mediu va crește, odată cu fluctuația cantității d. costul total mediu va scădea, odată cu scăderea costului fix unitar",
+        "subpunctul_4": "Coeficientul de elasticitate a cererii (unde Q este cantitatea cerută) în funcție de preț (P) se calculează conform formulei: a. +(ΔQ/ΔP) x (Q 0 /P 0 ) b. -(ΔQ/Q 0 ) x (ΔP/P 0 ) c. -(ΔQ/ΔP) x (P 0 /Q 0 ) d. +(ΔP/ΔQ) x (P 0 /Q 0 )",
+        "subpunctul_5": "Resursele și nevoile au în comun faptul că sunt: a. limitate b. nelimitate c. tangibile d. dinamice",
+        "subpunctul_6": "Situația în care consumatorul nu este încurajat să cumpere este dată de: a. creșterea volumului nevoilor c. creșterea veniturilor consumatorilor b. creșterea nivelului prețurilor d. creșterea calității bunurilor"
+      },
+      "exercitiul_B": {
+        "enunt": "Pentru fiecare enunț scrieţi, pe foaia de examen, cifra corespunzătoare şi notaţi în dreptul ei litera A, dacă apreciaţi că enunţul este adevărat, sau F, dacă apreciaţi că enunţul este fals:",
+        "subpunctul_1": "Aprecierea utilităţii economice are un caracter obiectiv.",
+        "subpunctul_2": "Scăderea cantității oferite dintr-un bun economic este o consecință a reducerii prețului acelui bun.",
+        "subpunctul_3": "Piața este locul de manifestare a concurenței.",
+        "subpunctul_4": "Piața de monopol este cel mai răspândit tip de piață în economiile moderne.",
+        "subpunctul_5": "Când utilitatea marginală este pozitivă, utilitatea totală crește cu o rată descrescătoare.",
+        "subpunctul_6": "Pe piața cu concurență de oligopol se pot tranzacționa mărfuri omogene."
+      }
+    },
+    "barem": "A. câte 3 puncte pentru fiecare dintre cele 6 răspunsuri corecte, astfel: 1-a, 2-a, 3-d, 4-c, 5-d, 6-b 6x3p=18 puncte B. câte 2 puncte pentru fiecare dintre cele 6 răspunsuri corecte, astfel: 1-F, 2-A, 3-A, 4-F, 5-A, 6-A 6x2p=12 puncte"
+  },
+  "subiectul_2": {
+    "subiect": "1. Transcrieți pe foaia de examen tabelul de mai jos, unde Q reprezintă numărul de unită ț i intrate în consum, Umg este utilitatea marginală, iar UT este utilitatea totală: Q 1 2 3 4 Umg A 12 11 10 8 Umg B 11 10 8 6 UT A UT B a) Completați spațiile libere din tabelul dat, menționând totodată formula utilizată pentru calcule. b) Reprezentați, în același sistem de axe, utilitățile marginală și totală ale bunului A. c) Verificați explicit, prin examinarea încadrării în venitul cumpărătorului și îndeplinirea ecuației de echilibru a consumatorului, dacă programul de achiziții care maximizează utilitatea totală este de 1 unitate din bunul A și 4 unități din bunul B, știind că prețul bunului A este de 10 u.m., prețul bunului B este de 5 u.m., iar venitul disponibil este de 33 u.m. 2. La o bancă volumul depozitelor este egal cu cel al creditelor, fiind în valoare de 50 mil. u.m. Diferența dintre rata dobânzii încasate și rata dobânzii plătite este de 10%. Cheltuielile de funcționare ale băncii reprezintă 40% din câștigul bancar, iar profitul net al băncii este de 2,52 mil. u.m. a) Precizați: - cuantumul total al împrumuturilor acordate de bancă; - nivelul profitului admis al băncii. b) Ştiind că banca plăteşte statului un impozit pe profit de 0,48 mil. u.m., determinați, scriind algoritmul folosit pentru efectuarea calculelor şi precizând semnificația notațiilor din formulele utilizate: - câștigul băncii, - profitul brut obținut de bancă.",
+    "barem": "1. a) - precizarea formulei utilizate pentru calcule 2 puncte - câte 1 punct pentru completarea valorilor pentru fiecare dintre cele două rânduri, astfel: UT A (12, 23, 33, 41); UT B (11, 21, 29, 35) 2x1p=2 puncte b) construirea graficului cerut (în același sistem de axe) 5 puncte c) verificarea explicită cerută: - examinarea încadrării în venitul cumpărătorului 4 puncte - îndeplinirea ecuației de echilibru a consumatorului 4 puncte - precizarea concluziei verificării făcute 1 punct 2. a) câte 3 puncte pentru precizarea fiecăruia dintre cei doi indicatori ceruți, astfel: - cuantumul total al împrumuturilor acordate de bancă este 50 mil. u.m.; - nivelul profitului admis al băncii este 2,52 mil. u.m. 2x3p=6 puncte b) - câte 5 puncte pentru scrierea algoritmului în vederea determinării fiecăruia dintre cei doi indicatori ceruți: algoritm complet în care se face precizarea semnificației notațiilor din formulele utilizate – 5p./ algoritm complet, dar fără a preciza semnificația notațiilor făcute – 4p./ precizarea corectă a tuturor formulelor de calcul, dar fără corelarea corectă a valorilor – 3p./ scrierea corectă doar a unor formule disparate, dar fără ca acestea să se constituie într-un algoritm de lucru – 2p. 2x5p=10 puncte - câte 3 puncte pentru precizarea valorilor determinate în cazul fiecăruia dintre cei doi indicatori ceruți, astfel: - câștigul băncii este 5 mil. u.m.; - profitul brut obținut de bancă este 3 mil. u.m. 2x3p=6 puncte Notă: În situația în care candidatul nu obține valorile din barem din cauza unor erori de calcul se acordă 1 punct din cele 3 puncte posibile."
+  },
+  "subiectul_3": {
+    "subiect": {
+      "enunt": "Răspundeţi la fiecare dintre următoarele cerinţe:",
+      "exercitiul_1": "a) Formulați ideea principală a următorului text: Conform legislației în vigoare privind instituțiile de credit și adecvarea capitalului, instituția de credit este o entitate a cărei activitate constă în atragerea de depozite sau de alte fonduri rambursabile de la agenții economici și în acordarea de credite în cont propriu. Activitatea băncilor constă, deci, în asigurarea încheierii tranzacțiilor între purtătorii cererii de bani cu purtătorii ofertei de moneda disponibilă. b) Enumerați patru noțiuni economice din textul dat la subpunctul a). c) Menționați câte o caracteristică pentru două dintre noțiunile enumerate la subpunctul b).",
+      "exercitiul_2": "Știind că modificările intervenite pe o anumită piață afectează și piețele corelate acesteia, precizați ce efect va avea creșterea salariilor actorilor asupra cererii de bilete la teatru și a prețului biletului la teatru."
+    },
+    "barem": {
+      "exercitiul_1": "a) formularea ideii principale a textului 2 puncte b) câte 1 punct pentru enumerarea oricăror patru noțiuni economice din textul dat 4x1p=4 puncte c) câte 3 puncte pentru menționarea oricărei caracteristici corecte pentru fiecare dintre cele două noțiuni 2x3p=6 puncte",
+      "exercitiul_2": "câte 4 puncte pentru precizarea efectelor cerute în condițiile date, astfel: cererea de bilete la teatru rămâne constantă, prețul biletului la teatru va crește 2x4p=8 puncte"
+    }
+  }
+}

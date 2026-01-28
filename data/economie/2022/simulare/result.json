@@ -1,0 +1,40 @@
+{
+  "subiectul_1": {
+    "subiect": {
+      "exercitiul_A": {
+        "enunt": "Scrieţi pe foaia de examen litera corespunzătoare răspunsului corect, pentru fiecare dintre enunțurile de mai jos. Este corectă o singură variantă de răspuns.",
+        "subpunctul_1": "Sectorul instituțional în cadrul căruia se produc servicii nemarfare pentru populație și se redistribuie veniturile este reprezentat de: a. administrațiile publice c. băncile și alte instituții financiare b. administrațiile private d. întreprinderile și firmele",
+        "subpunctul_2": "Creșterea veniturilor cumpărătorilor determină: a. reducerea cantității cerute, în cazul bunurilor inferioare b. creșterea cantității cerute, în cazul bunurilor inferioare c. scăderea cantității cerute, în cazul bunurilor normale d. reducerea cantității oferite, în cazul bunurilor inferioare",
+        "subpunctul_3": "Aprecierea utilității economice a unui bun are caracter: a. unitar b. eminamente subiectiv c. contradictoriu d. exclusiv obiectiv",
+        "subpunctul_4": "Factorul de producție care este afectat atât de uzura morală, cât și de uzura fizică este: a. capitalul consumat b. capitalul circulant c. capitalul fix d. capitalul bănesc",
+        "subpunctul_5": "Productivitatea marginală a muncii: a. se determină ca raport între variația absolută a producției obținute și volumul de muncă utilizat b. reprezintă eficiența primei unități de muncă implicate în activitatea economică c. se determină ca raport între variația absolută a muncii utilizate și volumul producției obținute d. reprezintă eficiența ultimei unități de muncă implicate în activitatea economică",
+        "subpunctul_6": "Când prețul scade cu 20%, iar cantitatea cerută crește cu 30%, atunci înseamnă că: a. cheltuielile cumpărătorilor au scăzut b. veniturile vânzătorilor au crescut c. veniturile vânzătorilor se vor diminua d. cheltuielile cumpărătorilor vor rămâne constante"
+      },
+      "exercitiul_B": {
+        "enunt": "Pentru fiecare enunț scrieţi, pe foaia de examen, cifra corespunzătoare şi notaţi în dreptul ei litera A, dacă apreciaţi că enunţul este adevărat, sau F, dacă apreciaţi că enunţul este fals:",
+        "subpunctul_1": "Dacă o carte face obiectul unui împrumut, atunci proprietarul acesteia cedează atât dreptul de posesiune, cât și dreptul de dispoziție.",
+        "subpunctul_2": "În situația în care un anumit consumator nu dispune de suficienți bani pentru a achiziționa toate bunurile dorite, costul său de oportunitate va fi reprezentat de cea mai bună alternativă aleasă de consumator.",
+        "subpunctul_3": "Dacă volumul producției unei firme crește mai mult decât volumul de muncă utilizat, atunci productivitatea muncii crește.",
+        "subpunctul_4": "Costurile materiale ale unei întreprinderi exprimă valoarea capitalului tehnic utilizat.",
+        "subpunctul_5": "Rata profitului în funcție de cost reprezintă rata rentabilității și este un indicator al gradului de profitabilitate a firmei.",
+        "subpunctul_6": "Consumatorul rațional realizează acel program de consum care îi asigură o utilitate totală minimă pentru venitul disponibil cheltuit."
+      }
+    },
+    "barem": "A. câte 3 puncte pentru fiecare dintre cele 6 răspunsuri corecte, astfel: 1-a, 2-a, 3-b, 4-c, 5-d, 6-b 6x3p=18 puncte B. câte 2 puncte pentru fiecare dintre cele 6 răspunsuri corecte, astfel: 1-F, 2-F, 3-A, 4-F, 5-A, 6-F 6x2p=12 puncte"
+  },
+  "subiectul_2": {
+    "subiect": "1. Transcrieți pe foaia de examen tabelul de mai jos care ilustrează situația economică a unei firme agricole cultivatoare de grâu: Suprafața cultivată (ha) Producția obținută (tone) Productivitatea medie Productivitatea marginală 0 0 0 0 1 100 3 450 5 1000 6 1200 8 1400 a) Completați coloanele tabelului dat, precizând totodată formulele utilizate pentru efectuarea calculelor. b) Reprezentați grafic, în același sistem de axe, productivitatea medie și productivitatea marginală. c) Precizați care este, conform graficului, producția optimă pentru firma agricolă. 2. O firmă produce, în T 0 , 2000 buc. dintr-un bun, având o cheltuială totală de 80.000 u.m., iar nivelul salariilor este de 25% din costul total. Firma vinde întreaga producţie la preţul de 50 u.m/buc. În T 1 firma nu modifică nivelul producţiei, însă cheltuielile materiale cresc cu 10%, ceea ce determină o creştere a preţului de vânzare cu 10%. Salariul fiecărui angajat rămâne constant, iar producătorul nu concediază şi nu angajează lucrători. a) Precizați: - nivelul cantității de bunuri vândute de firmă în T 1 ; - cuantumul cheltuielilor salariale în T 0 . b) Determinați, scriind algoritmul folosit pentru efectuarea calculelor şi precizând semnificația notațiilor din formulele utilizate: - costul total în T 1 ; - profitul în T 0 .",
+    "barem": "1. a) - câte 2 puncte pentru precizarea fiecăreia dintre cele două formule (productivitatea medie și productivitatea marginală) 2x2p=4 puncte - câte 3 puncte pentru completarea fiecăreia dintre cele două coloane ale tabelului dat – productivitatea medie: 100, 150, 200, 200, 175; productivitatea marginală: 100, 175, 275, 200, 100 2x3p=6 puncte b) construirea graficului cerut 4 puncte c) precizarea producției optime pentru firma agricolă: 1200 de tone 4 puncte 2. a) câte 3 puncte pentru precizarea fiecăruia dintre cei doi indicatori ceruți, astfel: - nivelul cantității de bunuri vândute de firmă în T 1 : 2000 buc.; - cuantumul cheltuielilor salariale în T 0 este 20.000 u.m. 2x3p=6 puncte b) - câte 5 puncte pentru scrierea algoritmului în vederea determinării fiecăruia dintre cei doi indicatori ceruți: algoritm complet în care se face precizarea semnificației notațiilor din formulele utilizate – 5p./ algoritm complet, dar fără a preciza semnificația notațiilor făcute – 4p./ precizarea corectă a tuturor formulelor de calcul, dar fără corelarea corectă a valorilor – 3p./ scrierea corectă doar a unor formule disparate, dar fără ca acestea să se constituie într-un algoritm de lucru – 2p. 2x5p=10 puncte - câte 3 puncte pentru precizarea valorilor determinate în cazul fiecăruia dintre cei doi indicatori ceruți, astfel: - costul total în T 1 = 86.000 u.m.; - profitul în T 0 = 20.000 u.m. 2x3p=6 puncte Notă: În situația în care candidatul nu obține valorile din barem din cauza unor erori de calcul se acordă 1 punct din cele 3 puncte posibile."
+  },
+  "subiectul_3": {
+    "subiect": {
+      "enunt": "Răspundeţi la fiecare dintre următoarele cerinţe:",
+      "exercitiul_1": "Se dă următorul text: Pentru orice agent economic cunoașterea nevoilor și trebuinţelor consumatorilor, pe segmente ale acestora, reprezintă o necesitate, fiind o condiţie a reușitei în afaceri. Producătorii investesc resurse în preocupări sistematice de identificare a clienților, reușind să-și fundamenteze știinţific activitatea de satisfacere a pieței. a) Formulați ideea principală a textului. b) Enumerați patru noțiuni economice din textul dat. c) Menționați câte o caracteristică pentru două dintre noțiunile enumerate la subpunctul b).",
+      "exercitiul_2": "Știind că modificările intervenite pe o anumită piață afectează și piețele corelate acesteia, precizați ce efect va avea creșterea cheltuielilor cu întreținerea utilajelor din industria prelucrării petrolului asupra cererii de carburanți auto și a prețului carburanților auto."
+    },
+    "barem": {
+      "exercitiul_1": "a) formularea ideii principale a textului 2 puncte b) câte 1 punct pentru enumerarea oricăror patru noțiuni economice din textul dat 4x1p=4 puncte c) câte 3 puncte pentru menționarea oricărei caracteristici corecte pentru fiecare dintre cele două noțiuni 2x3p=6 puncte",
+      "exercitiul_2": "câte 4 puncte pentru precizarea efectelor cerute în condițiile date, astfel: cererea de carburanți auto rămâne nemodificată și prețul carburanților auto va crește 2x4p=8 puncte"
+    }
+  }
+}

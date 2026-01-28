@@ -1,0 +1,61 @@
+{
+  "subiectul_1": {
+    "subiect": {
+      "exercitiul_A": "Scrieţi, pe foaia de examen, noţiunile cu care trebuie să completaţi spaţiile libere din afirmaţia următoare, astfel încât aceasta să fie corectă. Floarea angiospermelor are ............ alcătuită din totalitatea ............ .",
+      "exercitiul_B": "Numiți două tipuri de diviziune celulară; scrieţi în dreptul fiecărui tip de diviziune celulară câte o caracteristică.",
+      "exercitiul_C": {
+        "enunt": "Scrieţi, pe foaia de examen, litera corespunzătoare răspunsului corect. Este corectă o singură variantă de răspuns.",
+        "subpunctul_1": "Scleroza în plăci este boală a sistemului: a) digestiv b) excretor c) nervos central d) reproducător masculin",
+        "subpunctul_2": "Os al membrului superior al omului este: a) fibula b) femurul c) humerusul d) tibia",
+        "subpunctul_3": "Rinichii mamiferelor sunt: a) alcătuiți din nefroni b) acoperiți de o pleură fibroasă c) componente ale căilor urinare d) localizați în cavitatea toracică",
+        "subpunctul_4": "Celulele cu conuri şi celulele cu bastonaşe au în comun următoarea caracteristică: a) au rol în realizarea vederii în culori b) lipsesc în pata galbenă c) sunt localizate în retină d) sunt componente ale nervului optic",
+        "subpunctul_5": "Respiraţia anaerobă: a) constă în oxidarea completă a substanțelor organice b) este specifică plantelor superioare c) produce o cantitate mare de energie d) se mai numeşte fermentaţie, la microorganisme"
+      },
+      "exercitiul_D": {
+        "enunt": "Citiţi, cu atenţie, afirmaţiile următoare. Dacă apreciaţi că afirmaţia este adevărată, scrieţi, pe foaia de examen, în dreptul cifrei corespunzătoare afirmaţiei, litera A. Dacă apreciaţi că afirmaţia este falsă, scrieţi, pe foaia de examen, în dreptul cifrei corespunzătoare afirmaţiei, litera F şi modificaţi parţial afirmaţia pentru ca aceasta să devină adevărată. Folosiţi, în acest scop, informaţia ştiinţifică adecvată. Nu se acceptă folosirea negaţiei.",
+        "subpunctul_1": "Gonadele feminine conţin numeroase tuburi seminifere.",
+        "subpunctul_2": "Una dintre enzimele conţinute de sucul pancreatic este tripsina, cu rol în digestia glucidelor.",
+        "subpunctul_3": "Cerebelul are rol în menţinerea echilibrului corpului."
+      }
+    },
+    "barem": {
+      "exercitiul_A": "Se acordă câte 2p. pentru fiecare noţiune corectă. 2 x 2p. = 4 puncte",
+      "exercitiul_B": "- două tipuri de diviziune celulară; 2 x 1p. = 2 puncte - câte o caracteristică pentru fiecare tip de diviziune celulară. 2 x 2p. = 4 puncte",
+      "exercitiul_C": "Se acordă câte 2p. pentru fiecare răspuns corect: 1c; 2c; 3a; 4c; 5d. 5 x 2p. = 10 puncte",
+      "exercitiul_D": "Se acordă câte 2p. pentru fiecare răspuns corect: 1F; 2F; 3A. 3 x 2p. = 6 puncte Se acordă câte 2p. pentru modificarea corectă a fiecărei afirmaţii false. 2 x 2p. = 4 puncte"
+    }
+  },
+  "subiectul_2": {
+    "subiect": {
+      "exercitiul_A": {
+        "enunt": "La mamifere, sângele pompat de inimă circulă într-un sistem închis de vase, reprezentate de artere, vene și capilare.",
+        "subpunctul_a": "Caracterizaţi o arteră precizând: denumirea arterei, tipul de sânge transportat, sensul circulaţiei sângelui prin artera respectivă, compartimentul inimii cu care comunică.",
+        "subpunctul_b": "Explicați afirmația următoare: „Hematiile au rol în transportul gazelor respiratorii”.",
+        "subpunctul_c": "Calculaţi masa apei din plasma sângelui unui sportiv de performanță, ştiind următoarele: - sângele reprezintă 8% din masa corpului; - plasma sangvină reprezintă 55% din masa sângelui; - apa reprezintă 90% din masa plasmei sangvine; - masa corpului sportivului este de 89 Kg. Scrieţi toate etapele parcurse pentru rezolvarea cerinţei.",
+        "subpunctul_d": "Completaţi problema de la punctul c) cu o altă cerinţă pe care o formulaţi voi, folosind informaţii ştiinţifice specifice biologiei; rezolvaţi cerinţa pe care aţi propus-o."
+      },
+      "exercitiul_B": {
+        "enunt": "Se încrucişează două soiuri de castraveți, unul cu fructe mari (M) și cu țepi (ț) şi altul cu fructe mici (",
+        "subpunctul_m": "și fără țepi (Ț). Părinţii sunt homozigoţi pentru ambele caractere. În F 1 se obțin organisme hibride. Prin încrucişarea între ei a hibrizilor din F 1 , se obţin în F 2 16 combinaţii de factori ereditari. Stabiliţi următoarele:",
+        "subpunctul_a": "genotipul părinților;",
+        "subpunctul_b": "tipurile de gameţi formaţi de organismele din F 1 ;",
+        "subpunctul_c": "numărul combinațiilor din F 2 care sunt homozigote pentru ambele caractere; genotipul organismelor din F 2 care au fructe mici, cu țepi.",
+        "subpunctul_d": "Completaţi această problemă cu o altă cerinţă pe care o formulaţi voi, folosind informaţii ştiinţifice specifice biologiei; rezolvaţi cerinţa pe care aţi propus-o. Scrieţi toate etapele rezolvării problemei."
+      }
+    },
+    "barem": {
+      "exercitiul_A": "a) Caracterizarea unei artere precizând: - denumirea arterei; 1 punct - tipul de sânge transportat; 2 puncte - sensul circulaţiei sângelui prin artera respectivă; 1 punct - compartimentul inimii cu care comunică; 1 punct b) explicarea corectă; 3 puncte c) - calcularea masei sângelui sportivului; 2 puncte 89 x 8 : 100 = 7,12 kg; - calcularea masei plasmei sangvine; 2 puncte 7,12 x 55 : 100 = 3,916 kg; - calcularea masei apei din plasma sangvină; 2 puncte 3,916 x 90 : 100 = 3,5244 kg; d) - formularea cerinţei; 2 puncte - rezolvarea cerinţei. 2 puncte Notă Se punctează oricare altă modalitate de rezolvare a problemei. Pentru raţionamentul corect, neînsoţit de calcule, se acordă jumătate din punctajul repartizat rezolvării problemei.",
+      "exercitiul_B": "a) genotipul părinților: MMțț; mmȚȚ; 2 x 1p. = 2 puncte b) tipurile de gameţi formaţi de organismele din F 1 : MȚ; Mț; mȚ; mț; 4 x 1p. = 4 puncte c) numărul combinațiilor din F 2 care sunt homozigote pentru ambele caractere: 4 (4/16); 1 punct - genotipul organismelor din F 2 care au fructe mici, cu țepi: mmțț; 1 punct d) - formularea cerinţei; 2 puncte - rezolvarea cerinţei. 2 puncte"
+    }
+  },
+  "subiectul_3": {
+    "subiect": {
+      "exercitiul_1": "Organismele pluricelulare sunt alcătuite din celule grupate în ţesuturi. a) Numiți trei componente ale țesutului osos compact. b) Explicați afirmaţia următoare: „Epiteliile senzoriale intră în alcătuirea unor organe de simț”. c) Construiţi patru enunţuri afirmative, câte două pentru fiecare conţinut, utilizând limbajul ştiinţific adecvat. Folosiţi, în acest scop, informaţii referitoare la următoarele conţinuturi: - Țesuturile vegetale embrionare. - Țesutul nervos.",
+      "exercitiul_2": "Organismele vii sunt încadrate în cinci regnuri: Monera, Protiste, Fungi, Plante și Animale. a) Numiți două grupe de vertebrate și câte un exemplu reprezentativ pentru fiecare grupă. b) Scrieţi un argument în favoarea afirmaţiei următoare: „Eubacteriile sunt încadrate în regnul Monera”. c) Alcătuiţi un minieseu intitulat „Regnul Plante”, folosind informaţia ştiinţifică adecvată. În acest scop, respectaţi următoarele etape: - enumerarea a şase noţiuni specifice acestei teme; - construirea, cu ajutorul acestora, a unui text coerent, format din maximum trei-patru fraze, folosind corect şi în corelaţie noţiunile enumerate."
+    },
+    "barem": {
+      "exercitiul_1": "14 puncte a) trei componente ale țesutului osos compact; 3 x 1p. = 3 puncte b) explicarea corectă; 3 puncte c) construirea a patru enunţuri afirmative, utilizând limbajul ştiinţific adecvat, folosind informaţii referitoare la conţinuturile indicate. 4 x 2p. = 8 puncte",
+      "exercitiul_2": "16 puncte a) două grupe de vertebrate; 2 x 1p. = 2 puncte - câte un exemplu reprezentativ pentru fiecare grupă de vertebrate; 2 x 1p. = 2 puncte b) scrierea unui argument; 2 puncte c) alcătuirea minieseului, folosindu-se informaţia ştiinţifică adecvată, respectându-se cerinţele: - pentru fiecare noţiune enumerată, specifică temei, se acordă câte 1p.; 6 x 1p.= 6 puncte - pentru coerenţa textului, în alcătuirea căruia fiecare noţiune este folosită corect, în corelaţie cu celelalte noţiuni, se acordă 2 p.; 2 puncte - pentru respectarea lungimii textului - maxim trei-patru fraze - se acordă 2 p. 2 puncte"
+    }
+  }
+}

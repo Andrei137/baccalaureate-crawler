@@ -1,0 +1,37 @@
+{
+  "subiectul_1": {
+    "subiect": "Scrieţi pe foaia de examen litera corespunzătoare răspunsului corect, pentru fiecare dintre situaţiile de mai jos. Este corectă o singură variantă de răspuns. 1. Funcția economică a familiei se referă la: a. pregătirea copiilor pentru rolurile de adulți în familie și în alte grupuri sociale b. menținerea ordinii între membrii familiei, între aceștia și străini c. subzistența fizică a membrilor familiei prin procurare de hrană, adăpost și îmbrăcaminte d. creșterea numărului de membri ai familiei, prin adopție 2. Principiul separării puterilor în stat este specific regimului politic: a. totalitar b. democratic c. comunist d. autoritar 3. Organizații publice sunt: a. firmele private b. hotelurile c. companiile de asigurări d. primăriile 4. În situația în care, în urma căsătoriei, soții și copiii lor locuiesc împreună cu alte rude în aceeași gospodărie atunci ei constituie o: a. familie extinsă b. familie nucleară c. familie monoparentală d. uniune consensuală 5. Problemele sociale apar datorită: a. utilizării mijloacelor legale în vederea atingerii scopurilor b. conduitei conforme cu normele sociale c. socializării concordante d. abaterii de la scopurile și mijloacele legale 6. Corupţia reprezintă: a. o formă de socializare specifică adolescenților b. folosirea autorității în scopul obținerii de foloase necuvenite c. reacții de aprobare din partea grupului de prieteni față de comportamentele conforme d. recunoștința publică, acordarea de distincții, recompensele legale 7. Funcția socială a religiei este de a: a. asigura resursele necesare traiului clasei de mijloc b. menține liniștea și ordinea publică c. verifica respectarea legilor juridice d. aduna oamenii într-o comunitate numită Biserică 8. Una dintre funcţiile școlii este: a. biologică b. obţinerea de profit c. integrarea socială d. inhibarea culturii 9. O caracteristică a statului democratic este: a. desființarea proprietății private b. consacrarea drepturilor fundamentale ale omului c. împiedicarea dezvoltării economice d. abuzul de putere 10. O formă gravă de infracţiune este: a. aruncarea pe stradă a deșeurilor b. nerespectarea participanților la trafic c. perturbarea liniștii publice d. consumul de droguri",
+    "barem": "câte 3 puncte pentru fiecare răspuns corect, astfel: 1-c, 2-b, 3-d, 4-a, 5-d, 6-b, 7-d, 8-c, 9-b, 10-d 10x3p= 30 puncte"
+  },
+  "subiectul_2": {
+    "subiect": {
+      "exercitiul_A": "În coloana din stânga sunt enumerate probleme sociale, iar în coloana din dreapta sunt numerotate enunţuri adevărate referitoare la acestea. Scrieţi pe foaia de examen asocierile corecte dintre fiecare literă din coloana din stânga şi cifra corespunzătoare din coloana din dreapta.",
+      "exercitiul_a": "Discriminarea",
+      "exercitiul_b": "Prejudecata",
+      "exercitiul_c": "Sărăcia",
+      "exercitiul_d": "Infracționalitatea 1. Totaliatea comportamentelor și manifestarilor ilegale cu un anumit grad de periculozitate socială și care sunt sancționate în plan penal. 2. Constă în excluderea unei persoane sau categorii de persoane de la beneficiul unui anumit drept datorită unei caracteristici a acelei persoane sau grup de persoane. 3. Se referă la opiniile preconcepute față de anumiți oameni sau față de o persoană, din motive de rasă/etnie, sex etc. 4. Semnifică absența resurselor necesare unui trai decent. 5. Presupune respectarea normelor sociale și morale.",
+      "exercitiul_B": "Citiți, cu atenție, textul de mai jos: Trăsăturile culturale ale unei societăți generează anumite particularități în socializarea copiilor. Procesul de socializare cuprinde atât elemente specifice, diferite de la un grup la altul, sau chiar de la o persoana la alta, cât și elemente generale, comune majorității sau totalității membrilor unei societăți. Pornind de la textul dat, răspundeți următoarelor cerințe: 1. Formulați ideea principală a textului. 2. Explicaţi, în aproximativ o jumătate de pagină, modul specific în care interacţionează două concepte sociologice la care face referire textul. 3. Construiţi un argument care să confirme sau să infirme ipoteza potrivit căreia socializarea pozitivă poate conduce la respectarea normelor și valorilor sociale. 4. Prezentaţi un punct de vedere personal referitor la importanța școlii în integrarea socială a adolescenților."
+    },
+    "barem": {
+      "exercitiul_A": "câte 3 puncte pentru fiecare asociere corectă, astfel: a-2 b-3 c-4 d-1 4x3p=12 puncte",
+      "exercitiul_B": "1. formularea ideii principale a textului 2 puncte 2. - câte 1 punct pentru menționarea fiecăruia dintre cele două concepte sociologice la care face referire textul 2x1p=2 puncte - explicarea modului specific în care interacţionează conceptele menționate 4 puncte - coerenţa textului redactat 2 puncte - încadrarea în limita de spaţiu precizată 2 puncte 3. construirea unui argument care să confirme sau să infirme ipoteza dată 3 puncte 4. prezentarea unui punct de vedere personal referitor la la importanța școlii în integrarea socială a adolescenților 3 puncte"
+    }
+  },
+  "subiectul_3": {
+    "subiect": {
+      "enunt": "Răspundeţi fiecăreia dintre următoarele cerinţe:",
+      "exercitiul_1": "Precizaţi înțelesul noţiunii de status atribuit.",
+      "exercitiul_2": "Menționați două caracteristici ale grupului informal.",
+      "exercitiul_3": "Evidenţiaţi o corelaţie existentă între termenii de sondaj de opinie şi de chestionar, redactând un text coerent, de o jumătate de pagină, în care să îi utilizaţi în sensul specific sociologiei.",
+      "exercitiul_4": "Ilustraţi, printr-un exemplu concret, modul în care apartenența la un grup social poate influența alegerea unei meserii.",
+      "exercitiul_5": "Argumentaţi, în aproximativ zece rânduri, afirmaţia potrivit căreia coeziunea grupului depinde de mărimea acestuia."
+    },
+    "barem": {
+      "exercitiul_1": "precizarea înţelesului noţiunii de status atribuit 4 puncte",
+      "exercitiul_2": "câte 3 puncte pentru menţionarea oricăror două caracteristici ale grupului informal 2x3p= 6 puncte",
+      "exercitiul_3": "- câte 1 punct pentru utilizarea fiecăruia dintre termenii daţi în sensul specific sociologiei 2x1p= 2 puncte - evidenţierea unei corelaţii existente între termenii daţi 4 puncte - coerenţa textului redactat 2 puncte - încadrarea în limita de spaţiu precizată 2 puncte",
+      "exercitiul_4": "ilustrarea, printr-un exemplu concret, a modului în care apartenența la un grup social poate influența alegerea unei meserii 4 puncte",
+      "exercitiul_5": "- argumentarea afirmaţiei potrivit căreia coeziunea grupului depinde de mărimea acestuia 4 puncte - încadrarea în limita de spaţiu precizată 2 puncte"
+    }
+  }
+}

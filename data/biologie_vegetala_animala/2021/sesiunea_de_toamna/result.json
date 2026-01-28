@@ -1,0 +1,61 @@
+{
+  "subiectul_1": {
+    "subiect": {
+      "exercitiul_A": "Scrieţi, pe foaia de examen, noţiunile cu care trebuie să completaţi spaţiile libere din afirmaţia următoare, astfel încât aceasta să fie corectă. Gimnospermele și ............ aparțin regnului ............ .",
+      "exercitiul_B": "Dați două exemple de componente specifice celulei vegetale; scrieţi în dreptul fiecărui component rolul îndeplinit.",
+      "exercitiul_C": {
+        "enunt": "Scrieţi, pe foaia de examen, litera corespunzătoare răspunsului corect. Este corectă o singură variantă de răspuns.",
+        "subpunctul_1": "Sunt viermi: a) anelidele b) arahnidele c) cefalopodele d) crustaceii",
+        "subpunctul_2": "Boală cu transmitere sexuală este: a) astmul bronșic b) ateroscleroza c) epilepsia d) sifilisul",
+        "subpunctul_3": "La plante, fotosinteza: a) este procesul sintezei de substanţe anorganice b) este independentă de prezenţa clorofilei c) este un tip de nutriţie heterotrofă d) necesită prezenţa luminii",
+        "subpunctul_4": "Retina este: a) componentă a sistemului optic b) în contact direct cu sclerotica c) învelişul extern al globului ocular d) sediul receptorilor vizuali",
+        "subpunctul_5": "Fiecare dintre celulele-fiice formate prin diviziunea mitotică a unei celule-mamă cu 2n = 44 cromozomi are: a) 2n = 44 cromozomi b) 2n = 22 cromozomi c) n = 44 cromozomi d) n = 22 cromozomi"
+      },
+      "exercitiul_D": {
+        "enunt": "Citiţi, cu atenţie, afirmaţiile următoare. Dacă apreciaţi că afirmaţia este adevărată, scrieţi, pe foaia de examen, în dreptul cifrei corespunzătoare afirmaţiei, litera A. Dacă apreciaţi că afirmaţia este falsă, scrieţi, pe foaia de examen, în dreptul cifrei corespunzătoare afirmaţiei, litera F şi modificaţi parţial afirmaţia pentru ca aceasta să devină adevărată. Folosiţi, în acest scop, informaţia ştiinţifică adecvată. Nu se acceptă folosirea negaţiei.",
+        "subpunctul_1": "La plante, ţesuturile conducătoare lemnoase au rol în transportul sevei brute.",
+        "subpunctul_2": "Receptorii auditivi ai mamiferelor sunt localizaţi în urechea externă.",
+        "subpunctul_3": "Căile urinare ale mamiferelor sunt reprezentate de nefroni, vezica urinară și uretră."
+      }
+    },
+    "barem": {
+      "exercitiul_A": "Se acordă câte 2p. pentru fiecare noţiune corectă. 2 x 2p. = 4 puncte",
+      "exercitiul_B": "- două exemple de componente specifice celulei vegetale; 2 x 1p. = 2 puncte - rolul îndeplinit de fiecare component specific celulei vegetale. 2 x 2p. = 4 puncte",
+      "exercitiul_C": "Se acordă câte 2p. pentru fiecare răspuns corect: 1a; 2d; 3d; 4d; 5a. 5 x 2p. = 10 puncte",
+      "exercitiul_D": "Se acordă câte 2p. pentru fiecare răspuns corect: 1A; 2F; 3F. 3 x 2p. = 6 puncte Se acordă câte 2p. pentru modificarea corectă a fiecărei afirmaţii false. 2 x 2p. = 4 puncte"
+    }
+  },
+  "subiectul_2": {
+    "subiect": {
+      "exercitiul_A": {
+        "enunt": "Inima mamiferelor este un organ musculos, alcătuit din două atrii şi două ventricule. Sângele circulă într-un sistem închis de vase, reprezentate de artere, vene şi capilare.",
+        "subpunctul_a": "Precizați: numele unui vas mare de sânge care comunică cu atriul drept al inimii și numele unui vas mare de sânge care comunică cu atriul stâng al inimii, tipul de sânge transportat și sensul circulației sângelui prin vasele respective.",
+        "subpunctul_b": "Explicați diferenţa de grosime dintre pereţii ventriculului drept şi cei ai ventriculului stâng.",
+        "subpunctul_c": "Calculaţi masa apei din plasma sângelui unui copil, ştiind următoarele: - sângele reprezintă 7% din masa corpului; - plasma sangvină reprezintă 55% din masa sângelui; - apa reprezintă 90% din masa plasmei sangvine; - masa corpului copilului este de 21 Kg. Scrieţi toate etapele parcurse pentru rezolvarea cerinţei.",
+        "subpunctul_d": "Completaţi problema de la punctul c) cu o altă cerinţă pe care o formulaţi voi, folosind informaţii ştiinţifice specifice biologiei; rezolvaţi cerinţa pe care aţi propus-o."
+      },
+      "exercitiul_B": {
+        "enunt": "Se încrucişează două plante de mazăre care se deosebesc prin două perechi de caractere: forma și culoarea păstăii. O plantă de mazăre are păstăi lățite (L) și galbene (v), iar cealaltă plantă de mazăre are păstăi înguste (",
+        "subpunctul_l": "şi verzi (V). Părinţii sunt homozigoţi pentru ambele caractere. În F 1 se obțin organisme hibride. Prin încrucişarea între ei a hibrizilor din F 1 , se obţin în F 2 16 combinaţii de factori ereditari. Stabiliţi următoarele:",
+        "subpunctul_a": "genotipul celor două plante de mazăre;",
+        "subpunctul_b": "tipurile de gameţi formaţi de organismele din F 1 ;",
+        "subpunctul_c": "numărul combinațiilor din F 2 cu păstăi galbene; genotipul organismelor din F 2 care au păstăi înguste și galbene.",
+        "subpunctul_d": "Completaţi această problemă cu o altă cerinţă pe care o formulaţi voi, folosind informaţii ştiinţifice specifice biologiei; rezolvaţi cerinţa pe care aţi propus-o. Scrieţi toate etapele rezolvării problemei."
+      }
+    },
+    "barem": {
+      "exercitiul_A": "a) Precizarea: - numelui unui vas mare de sânge care comunică cu atriul drept al inimii; 1 punct - numelui unui vas mare de sânge care comunică cu atriul stâng al inimii; 1 punct - tipului de sânge transportat prin vasele respective; 2 x 1p. = 2 puncte - sensului circulației sângelui prin vasele respective; 2 x 1p. = 2 puncte b) explicarea corectă; 2 puncte c) - calcularea masei sângelui copilului; 2 puncte 21 x 7 : 100 = 1,47 kg; - calcularea masei plasmei sangvine; 2 puncte 1,47 x 55 : 100 = 0,8085 kg; - calcularea masei apei din plasma sangvină; 2 puncte 0,8085 x 90 : 100 = 0,72765 kg; d) - formularea cerinţei; 2 puncte - rezolvarea cerinţei. 2 puncte Notă Se punctează oricare altă modalitate de rezolvare a problemei. Pentru raţionamentul corect, neînsoţit de calcule, se acordă jumătate din punctajul repartizat rezolvării problemei.",
+      "exercitiul_B": "a) genotipul celor două plante de mazăre: LLvv; llVV; 2 x 1p. = 2 puncte b) tipurile de gameţi formaţi de organismele din F 1 : LV; Lv; lV; lv; 4 x 1p. = 4 puncte c) numărul combinațiilor din F 2 cu păstăi galbene: 4 (4/16); 1 punct - genotipul organismelor din F 2 care au păstăi înguste și galbene: llvv; 1 punct d) - formularea cerinţei; 2 puncte - rezolvarea cerinţei. 2 puncte"
+    }
+  },
+  "subiectul_3": {
+    "subiect": {
+      "exercitiul_1": "Viețuitoarele obțin energia necesară desfășurării diferitelor activități prin respirație. a) Scrieți ecuația chimică a respirației aerobe. b) Formulați un argument în favoarea afirmaţiei următoare: „Cantitatea de energie obținută prin respirația aerobă este mai mare decât cantitatea de energie obținută prin respirația anaerobă”. c) Construiţi patru enunţuri afirmative, câte două pentru fiecare conţinut, utilizând limbajul ştiinţific adecvat. Folosiţi, în acest scop, informaţii referitoare la următoarele conţinuturi: - Mecanismul ventilației pulmonare. - Fermentația lactică.",
+      "exercitiul_2": "Autotrofia și heterotrofia sunt tipuri de nutriție întâlnite în lumea vie. Mamiferele au nutriție heterotrofă. Sistemul digestiv al mamiferelor este alcătuit din tub digestiv și glande anexe. a) Numiți trei componente ale tubului digestiv al mamiferelor. b) Explicaţi afirmaţia următoare: „Unele plante au nutriție heterotrofă”. c) Alcătuiţi un minieseu intitulat „Digestia chimică a alimentelor de-a lungul tubului digestiv”, folosind informaţia ştiinţifică adecvată. În acest scop, respectaţi următoarele etape: - enumerarea a şase noţiuni specifice acestei teme; - construirea, cu ajutorul acestora, a unui text coerent, format din maximum trei-patru fraze, folosind corect şi în corelaţie noţiunile enumerate."
+    },
+    "barem": {
+      "exercitiul_1": "14 puncte a) ecuația chimică a respirației aerobe; 3 puncte b) formularea unui argument; 3 puncte c) construirea a patru enunţuri afirmative, utilizând limbajul ştiinţific adecvat, folosind informaţii referitoare la conţinuturile indicate. 4 x 2p. = 8 puncte",
+      "exercitiul_2": "16 puncte a) numirea a trei componente ale tubului digestiv al mamiferelor; 3 x 1p. = 3 puncte b) explicarea corectă; 3 puncte c) alcătuirea minieseului, folosindu-se informaţia ştiinţifică adecvată, respectându-se cerinţele: - pentru fiecare noţiune enumerată, specifică temei, se acordă câte 1p.; 6 x 1p.= 6 puncte - pentru coerenţa textului, în alcătuirea căruia fiecare noţiune este folosită corect, în corelaţie cu celelalte noţiuni, se acordă 2 p. 2 puncte - pentru respectarea lungimii textului - maxim trei-patru fraze - se acordă 2 p. 2 puncte"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "subiectul_1": {
+    "subiect": {
+      "enunt": "Scrieţi pe foaia de examen litera corespunzătoare răspunsului corect, pentru fiecare dintre situaţiile de mai jos. Este corectă o singură variantă de răspuns.",
+      "exercitiul_1": "În viziunea lui J. P. Sartre, omul: a. este condamnat să fie constrâns b. este rezultatul alegerilor pe care le face c. este o trestie cugetătoare d. este obligat să aleagă ceea ce nu vrea",
+      "exercitiul_2": "Morala pune accent pe valorile de: a. adevăr și fals b. frumos și urât c. bine și rău d. drept și nedrept",
+      "exercitiul_3": "Etica aplicată: a. are drept obiect probleme morale controversate b. este o ramură a eticii teleologice c. derivă principii morale din analiza adevărului d. este varianta modernă a hedonismului",
+      "exercitiul_4": "Potrivit concepției lui J. St. Mill, libertatea individuală poate fi diminuată în mod legitim în situația în care: a. se urmărește creșterea autorității politice b. se dorește subordonarea individului de către stat c. se previne încălcarea libertății celorlalți d. se dorește suspendarea drepturilor individuale",
+      "exercitiul_5": "În cadrul filosofiei politice, conceptul de libertate se corelează cu cel de: a. certitudine politică b. responsabilitate social-politică c. înclinație social-politică d. spontaneitate politică",
+      "exercitiul_6": "În concepția lui L. Blaga, omul se aseamănă cu animalele prin: a. înzestrarea cu categorii abisale b. destinul creator de cultură c. existența întru imediat și pentru securitate d. situarea în orizontul misterului",
+      "exercitiul_7": "Pentru R. Descartes, o idee clară și distinctă este: a. înnăscută b. provenită din simțuri c. dependentă de senzație d. empirică"
+    },
+    "barem": "câte 3 puncte pentru fiecare răspuns corect, astfel: 1-b, 2-c, 3-a, 4-c, 5-b, 6-c, 7-a, 8-b, 9-b, 10-c 10x3p= 30 puncte"
+  },
+  "subiectul_2": {
+    "subiect": {
+      "exercitiul_A": "În coloana din stânga sunt enumerate concepte și teorii specifice politicii moderne, iar în coloana din dreapta sunt numerotate enunţuri adevărate referitoare la acestea. Scrieţi pe foaia de examen asocierile corecte dintre fiecare literă din coloana din stânga şi cifra corespunzătoare din coloana din dreapta. a. Democrația b. Liberalismul c. Legitimitate d. Etatism 1. Teorie conform căreia o acțiune poate să fie considerată dreaptă, bună în măsura în care contribuie la fericirea unui număr cât mai mare de persoane. 2. Teorie care supraevaluează importanța statului în dinamica vieții sociale, considerând indivizii mijloace de înfăptuire a idealurilor comunitare, a scopurilor generale. 3. Regim politic care, potrivit lui Karl R. Popper, trebuie să ofere posibilitatea de schimbare a guvernului fără vărsare de sânge atunci când acesta comite încălcări ale drepturilor individului. 4. Concept potrivit căruia exercitarea puterii se bazează pe încrederea pe care cetățenii au acordat-o guvernanților. 5. Concepție potrivit căreia rolul statului este de a asigura libertatea individului.",
+      "exercitiul_B": "Argumentați, în aproximativ zece rânduri, în favoarea sau împotriva teoriei potrivit căreia un enunţ este adevărat doar dacă, prin aplicare în practică, se dovedeşte util (productiv, avantajos).",
+      "exercitiul_C": "Construiți un exemplu prin care să evidențiați rolul/importanţa testării autocritice a propriilor teorii în cunoaștere."
+    },
+    "barem": {
+      "exercitiul_A": "câte 4 puncte pentru fiecare asociere corectă, astfel: a-3 b-5 c-4 d-2 4x4p=16 puncte",
+      "exercitiul_B": "- argumentarea în favoarea sau împotriva teoriei potrivit căreia un enunţ este adevărat doar dacă, prin aplicare în practică, se dovedeşte util (productiv, avantajos): argumentare convingătoare -6p./ argumentare neconvingătoare, superficială -2p. 6 puncte - încadrarea în limita de spaţiu precizată 2 puncte",
+      "exercitiul_C": "construirea unui exemplu care evidențiază rolul/importanţa testării autocritice a propriilor teorii în cunoaștere (în situația în care candidatul tratează subiectul la nivel teoretic, fără a formula un exemplu, se acordă 2 puncte din cele 6 puncte posibile) 6 puncte"
+    }
+  },
+  "subiectul_3": {
+    "subiect": {
+      "exercitiul_A": {
+        "enunt": "Citiți, cu atenție, textul de mai jos: Omul este o ființă mai socială decât orice albină și orice ființă gregară; căci natura nu creează nimic fără scop. Însă grai are numai omul dintre toate vietățile (...) Și această însușire este caracteristică omului, spre deosebire de toate vietățile, așa că singur el are simțirea binelui și răului, a dreptului și a nedreptului și a tuturor celorlalte stări morale. (Aristotel, Politica)",
+        "subpunctul_8": "Conform teoriei adevărului coerență, un enunț este adevărat dacă: a. se află în opoziție cu alte enunțuri din același domeniu de referință b. se află în concordanță cu alte enunțuri deja acceptate ca adevărate c. poate fi confruntat cu realitatea d. exprimă o relație de tipul cauză-efect",
+        "subpunctul_9": "Potrivit lui Aristotel, fericirea este: a. o sumă a plăcerilor prezente b. un scop în sine c. un mijloc de a obține plăcerea d. un mijloc de a deține adevărul",
+        "subpunctul_10": "Întreaga cunoaștere își are fundamentul în experiență, potrivit: a. antropologiei b. ontologiei c. empirismului d. raționalismului Răspundeți următoarelor cerințe:",
+        "subpunctul_1": "Menționați, pe baza textului dat, două caracteristici ale naturii umane.",
+        "subpunctul_2": "Evidențiați, în aproximativ o jumătate de pagină, o corelație existentă între termenii sociabilitate și simțirea binelui, utilizând termenii menționați în sens filosofic.",
+        "subpunctul_3": "Formulați un punct de vedere personal referitor la actualitatea perspectivei filosofice prezentată în textul dat."
+      },
+      "exercitiul_B": {
+        "enunt": "John Locke consideră că puterea societății nu se întinde niciodată dincolo de binele comun, ci este obligată să protejeze proprietatea fiecăruia.",
+        "subpunctul_1": "Menționați trei caracteristici ale unei organizări sociale care are ca fundament supremația legii.",
+        "subpunctul_2": "Ilustrați, printr-un exemplu concret, relația existentă între dreptatea procedurală și respectul față de individ ca om, în cadrul unei guvernări de tip democratic."
+      }
+    },
+    "barem": {
+      "exercitiul_A": "1. câte 2 puncte pentru menționarea, pe baza textului dat, a fiecăreia dintre cele două caracteristici ale naturii umane 2x2p= 4 puncte 2. - câte 1 punct pentru utilizarea fiecăruia dintre cei doi termeni daţi în sens filosofic 2x1p= 2 puncte - evidenţierea unei corelaţii existente între termenii dați 4 puncte - coerenţa textului redactat 2 puncte - încadrarea în limita de spaţiu precizată 2 puncte 3. formularea unui punct de vedere personal referitor la actualitatea perspectivei filosofice prezentată în textul dat (în situația în care candidatul formulează punctul de vedere personal, fără sa-l prezinte adecvat, se acordă 2 puncte din cele 6 puncte posibile) 6 puncte",
+      "exercitiul_B": "1. câte 2 puncte pentru menționarea fiecărei caracteristici a unei organizări sociale care are ca fundament supremația legii 3x2p= 6 puncte 2. ilustrarea, printr-un exemplu concret, a relației existente între dreptatea procedurală și respectul față de individ ca om, în cadrul unei guvernări democratice (în situația în care candidatul tratează subiectul la nivel teoretic, fără a formula un exemplu concret, se acordă 1 punct din cele 4 puncte posibile) 4 puncte"
+    }
+  }
+}

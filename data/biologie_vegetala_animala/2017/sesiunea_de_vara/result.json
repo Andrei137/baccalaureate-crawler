@@ -1,0 +1,60 @@
+{
+  "subiectul_1": {
+    "subiect": {
+      "exercitiul_A": "Scrieţi, pe foaia de examen, noţiunile cu care trebuie să completaţi spaţiile libere din afirmaţia următoare, astfel încât aceasta să fie corectă. În timpul ............., muşchiul diafragm se contractă şi volumul cavităţii toracice ............. .",
+      "exercitiul_B": "Daţi două exemple de grupe de vertebrate; scrieţi câte un tip de locomoţie pentru fiecare dintre cele două grupe de vertebrate.",
+      "exercitiul_C": {
+        "enunt": "Scrieţi, pe foaia de examen, litera corespunzătoare răspunsului corect. Este corectă o singură variantă de răspuns.",
+        "subpunctul_1": "Componentă a sistemului excretor al mamiferelor este: a) inima b) rinichiul c) stomacul d) traheea",
+        "subpunctul_2": "Melcul membranos: a) adăposteşte ciocanul, nicovala şi scăriţa b) conţine celule fotosensibile c) este localizat în urechea internă d) se continuă cu trompa lui Eustachio",
+        "subpunctul_3": "Gineceul florii angiospermelor este alcătuit din totalitatea: a) carpelelor b) petalelor c) sepalelor d) staminelor",
+        "subpunctul_4": "Gimnosperme sunt: a) briofitele b) coniferele c) dicotiledonatele d) pteridofitele",
+        "subpunctul_5": "Emisferele cerebrale: a) au la exterior scoarţa cerebeloasă b) sunt componente ale trunchiului cerebral c) sunt unite prin punţi de substanţă cenuşie d) sunt separate printr-un şanţ interemisferic"
+      },
+      "exercitiul_D": {
+        "enunt": "Citiţi, cu atenţie, afirmaţiile următoare. Dacă apreciaţi că afirmaţia este adevărată, scrieţi, pe foaia de examen, în dreptul cifrei corespunzătoare afirmaţiei, litera A. Dacă apreciaţi că afirmaţia este falsă, scrieţi, pe foaia de examen, în dreptul cifrei corespunzătoare afirmaţiei, litera F şi modificaţi parţial afirmaţia pentru ca aceasta să devină adevărată. Folosiţi, în acest scop, informaţia ştiinţifică adecvată. Nu se acceptă folosirea negaţiei.",
+        "subpunctul_1": "La plante, respiraţia poate fi evidenţiată după consumul de CO 2 .",
+        "subpunctul_2": "Gonadele masculine conţin numeroşi foliculi ovarieni.",
+        "subpunctul_3": "La mamifere, nervul optic este alcătuit din axonii neuronilor multipolari."
+      }
+    },
+    "barem": {
+      "exercitiul_A": "Se acordă câte 2p. pentru fiecare noţiune corectă. 2 x 2p. = 4 puncte",
+      "exercitiul_B": "- două exemple de grupe de vertebrate; 2 x 1p. = 2 puncte - câte un tip de locomoţie pentru fiecare dintre cele două grupe de vertebrate. 2 x 2p. = 4 puncte",
+      "exercitiul_C": "Se acordă câte 2p. pentru fiecare răspuns corect: 1b; 2c; 3a; 4b; 5d. 5 x 2p. = 10 puncte",
+      "exercitiul_D": "Se acordă câte 2p. pentru fiecare răspuns corect: 1F; 2F; 3A. 3 x 2p.= 6 puncte Se acordă câte 2p. pentru modificarea corectă a fiecărei afirmaţii false. 2 x 2p.= 4 puncte"
+    }
+  },
+  "subiectul_2": {
+    "subiect": {
+      "exercitiul_A": {
+        "enunt": "Sistemul circulator sangvin al mamiferelor este alcătuit din inimă și vase de sânge, reprezentate de artere, vene şi capilare.",
+        "subpunctul_a": "Precizaţi rolul valvulelor atrio-ventriculare şi al valvulelor semilunare.",
+        "subpunctul_b": "Comparaţi artera pulmonară cu artera aortă, precizând o asemănare şi o deosebire între aceste vase de sânge.",
+        "subpunctul_c": "Calculaţi masa apei din plasma sângelui unui atlet, ştiind următoarele: - sângele reprezintă 7% din masa corpului; - plasma sangvină reprezintă 55% din masa sângelui; - apa reprezintă 90% din masa plasmei sangvine; - masa corpului atletului este de 71 Kg. Scrieţi toate etapele parcurse pentru rezolvarea cerinţei.",
+        "subpunctul_d": "Completaţi problema de la punctul c) cu o altă cerinţă pe care o formulaţi voi, folosind informaţii ştiinţifice specifice biologiei; rezolvaţi cerinţa pe care aţi propus-o."
+      },
+      "exercitiul_B": {
+        "enunt": "Se încrucişează un soi de trandafir cu flori mari (M), de culoare galbenă (G), fiind heterozigot pentru ambele caractere, cu un soi de trandafir cu flori mici (m), de culoare albă (g). Stabiliţi următoarele:",
+        "subpunctul_a": "genotipurile celor doi părinţi;",
+        "subpunctul_b": "tipurile de gameţi formaţi de părintele heterozigot pentru ambele caractere;",
+        "subpunctul_c": "genotipul descendenţilor din F 1 care au flori mici şi de culoare galbenă.",
+        "subpunctul_d": "Completaţi această problemă cu o altă cerinţă pe care o formulaţi voi, folosind informaţii ştiinţifice specifice biologiei; rezolvaţi cerinţa pe care aţi propus-o. Scrieţi toate etapele rezolvării problemei."
+      }
+    },
+    "barem": {
+      "exercitiul_A": "a) precizarea rolului valvulelor atrio-ventriculare; 2 puncte - precizarea rolului valvulelor semilunare; 2 puncte b) precizarea unei asemănări şi a unei deosebiri între artera pulmonară şi artera aortă; 2 x 2p. = 4 puncte c) - calcularea masei sângelui atletului; 2 puncte 71 x 7 : 100 = 4,97 kg; - calcularea masei plasmei sangvine; 2 puncte 4,97 x 55 : 100 = 2,7335 kg; - calcularea masei apei din plasma sangvină; 2 puncte 2,7335 x 90 : 100 = 2,46015 kg; d) - formularea cerinţei; 2 puncte - rezolvarea cerinţei. 2 puncte Notă Se punctează oricare altă modalitate de rezolvare a problemei. Pentru raţionamentul corect, neînsoţit de calcule, se acordă jumătate din punctajul repartizat rezolvării problemei.",
+      "exercitiul_B": "a) genotipurile celor doi părinţi: MmGg; mmgg; 2 x 1p. = 2 puncte b) tipurile de gameţi formaţi de părintele heterozigot pentru ambele caractere: MG; Mg; mG; mg; 4 x 1p. = 4 puncte c) genotipul descendenţilor din F 1 care au flori mici şi de culoare galbenă: mmGg; 2 puncte d) - formularea cerinţei; 2 puncte - rezolvarea cerinţei. 2 puncte"
+    }
+  },
+  "subiectul_3": {
+    "subiect": {
+      "exercitiul_1": "Nutriţia este una dintre funcţiile vitale ale organismelor. În funcţie de sursa de carbon, există două tipuri fundamentale de nutriţie: autotrofă şi heterotrofă. a) Precizaţi o asemănare între nutriţia saprofită şi nutriţia parazită; numiţi un grup de vieţuitoare cu nutriţie heterotrofă. b) Explicaţi afirmaţia următoare: „Fotosinteza are rol în menţinerea constantă a compoziţiei atmosferei”. c) Construiţi patru enunţuri afirmative, utilizând limbajul ştiinţific adecvat. Folosiţi, în acest scop, informaţii referitoare la următoarele conţinuturi: - Sistemul digestiv la mamifere. - Prevenirea bolilor sistemului digestiv la om.",
+      "exercitiul_2": "În lumea vie există două tipuri fundamentale de organizare celulară: procariot şi eucariot. Celula vegetală şi celula animală au organizare de tip eucariot. a) Enumeraţi trei componente ale unei celule procariote. b) Scrieţi un argument în favoarea afirmaţiei următoare: „Cloroplastele lipsesc din structura celulei animale”. c) Alcătuiţi un minieseu intitulat „Structura şi ultrastructura celulei animale”, folosind informaţia ştiinţifică adecvată. În acest scop, respectaţi următoarele etape: - enumerarea a şase noţiuni specifice acestei teme; - construirea, cu ajutorul acestora, a unui text coerent, format din maximum trei-patru fraze, folosind corect şi în corelaţie noţiunile enumerate."
+    },
+    "barem": {
+      "exercitiul_1": "14 puncte a) precizarea unei asemănări între nutriţia saprofită şi nutriţia parazită; 2 puncte - numirea unui grup de vieţuitoare cu nutriţie heterotrofă; 1 punct b) explicarea corectă; 3 puncte c) construirea a patru enunţuri afirmative, utilizând limbajul ştiinţific adecvat, folosind informaţii referitoare la conţinuturile indicate. 4 x 2p. = 8 puncte",
+      "exercitiul_2": "16 puncte a) enumerarea a trei componente ale unei celule procariote; 3 x 1p. = 3 puncte b) scrierea unui argument; 3 puncte c) alcătuirea minieseului, folosindu-se informaţia ştiinţifică adecvată, respectându-se cerinţele: - pentru fiecare noţiune enumerată, specifică temei, se acordă câte 1p.; 6 x 1p.= 6 puncte - pentru coerenţa textului, de maximum trei-patru fraze, în alcătuirea căruia fiecare noţiune este folosită corect, în corelaţie cu celelalte noţiuni, se acordă 4 p. 4 puncte"
+    }
+  }
+}

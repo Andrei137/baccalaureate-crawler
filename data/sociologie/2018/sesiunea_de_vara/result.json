@@ -1,0 +1,41 @@
+{
+  "subiectul_1": {
+    "subiect": "A. Scrieţi pe foaia de examen litera corespunzătoare răspunsului corect, pentru fiecare dintre situaţiile de mai jos. Este corectă o singură variantă de răspuns. 1. Calitatea de consumator a familiei contemporane este o expresie a: a. funcției afective a familiei b. funcției economice a familiei c. funcției protective a familiei d. funcției de socializare a familiei 2. Secularizarea obiectivă în societatea contemporană presupune că: a. mass-media nu este o putere în stat b. ONG-urile sunt o putere în stat c. biserica nu este o putere în stat d. instituțiile financiare sunt o putere în stat 3. O funcție a partidelor de opoziție este aceea de a propune alternative la politicile inițiate de: a. guvern b. justiţie c. biserică d. familie 4. Acordarea unor drepturi suplimentare unei categorii sociale defavorizate este un exemplu de: a. discriminare pozitivă b. infracţionalitate c. discriminare negativă d. prejudecată 5. Conflictul social existent între angajați și angajator poate lua forma: a. concediului de odihnă b. fenomenului copiii străzii c. delincvenţei juvenile d. grevei 6. Pretinderea de bani de către un avocat de la clientul său, sub pretextul cumpărării de bunăvoință de la judecător, este un exemplu de: a. corupție b. sărăcie c. coeziune d. impietate B. Precizaţi două consecințe ale încălcării principiului separării puterilor în stat. C. Construiţi un enunţ, corect din punct de vedere sociologic, care să evidenţieze o relaţie între familie şi educaţie.",
+    "barem": "A. câte 3 puncte pentru fiecare răspuns corect, astfel: 1-b, 2-c, 3-a, 4-a, 5-d, 6-a 6x3p= 18 puncte B. câte 3 puncte pentru precizarea oricăror două consecințe ale încălcării principiului separării puterilor în stat 2x3p=6 puncte C. construirea unui enunţ, corect din punct de vedere sociologic, care să evidenţieze o relaţie între familie şi educaţie 6 puncte"
+  },
+  "subiectul_2": {
+    "subiect": {
+      "enunt": "Una dintre consecințele socializării este interiorizarea normelor de comportamen",
+      "exercitiul_t": "Această interiorizare a normelor și a valorilor permite însușirea regulilor sociale, creșterea solidarității dintre membrii grupului şi o integrare conformă a individului în societate.",
+      "exercitiul_A": "Formulaţi ideea principală a textului.",
+      "exercitiul_B": "Menționați două concepte sociologice la care se face referire în text.",
+      "exercitiul_C": "Explicaţi, în aproximativ o jumătate de pagină, modul specific în care interacţionează conceptele sociologice menționate la punctul B.",
+      "exercitiul_D": "Construiţi un argument care să confirme sau să infirme ipoteza potrivit căreia sărăcia are utilitatea ei socială și din acest motiv ea nu poate să dispară din societate, ci cel mult să își ridice constant pragurile.",
+      "exercitiul_E": "Prezentaţi un punct de vedere personal referitor la necesitatea discriminării pozitive în societatea contemporană."
+    },
+    "barem": {
+      "exercitiul_A": "formularea ideii principale a textului 4 puncte",
+      "exercitiul_B": "câte 2 puncte pentru menţionarea oricăror două concepte sociologice la care face referire textul 2x2p= 4 puncte",
+      "exercitiul_C": "- explicarea modului specific în care interacţionează conceptele sociologice menționate la punctul B 6 puncte - coerenţa textului redactat 2 puncte - încadrarea în limita de spaţiu precizată 2 puncte",
+      "exercitiul_D": "construirea unui argument care să confirme sau să infirme ipoteza dată 6 puncte",
+      "exercitiul_E": "prezentarea unui punct de vedere personal referitor la necesitatea discriminării pozitive în societatea contemporană 6 puncte"
+    }
+  },
+  "subiectul_3": {
+    "subiect": {
+      "enunt": "Răspundeţi fiecăreia dintre următoarele cerinţe:",
+      "exercitiul_1": "Precizaţi înțelesul noţiunii de eșantionare.",
+      "exercitiul_2": "Enumeraţi două caracteristici ale grupului de similaritate sau de egali.",
+      "exercitiul_3": "Evidenţiaţi o corelaţie existentă între termenii de status şi de rol social, redactând un text coerent, de o jumătate de pagină, în care să îi utilizaţi în sensul specific sociologiei.",
+      "exercitiul_4": "Ilustraţi, printr-un exemplu concret, o relație de tip formal.",
+      "exercitiul_5": "Argumentaţi, în aproximativ zece rânduri, afirmaţia potrivit căreia familia este simultan o instituţie şi un microgrup."
+    },
+    "barem": {
+      "exercitiul_1": "precizarea înţelesului noţiunii de eșantionare 4 puncte",
+      "exercitiul_2": "câte 3 puncte pentru enumerarea oricăror două caracteristici ale grupului de similaritate sau de egali 2x3p= 6 puncte",
+      "exercitiul_3": "- câte 1 punct pentru utilizarea fiecăruia dintre termenii daţi în sensul specific sociologiei 2x1p= 2 puncte - evidenţierea unei corelaţii existente între termenii daţi 4 puncte - coerenţa textului redactat 2 puncte - încadrarea în limita de spaţiu precizată 2 puncte",
+      "exercitiul_4": "ilustrarea, printr-un exemplu concret, a unei relații de tip formal 4 puncte",
+      "exercitiul_5": "- argumentarea afirmaţiei potrivit căreia familia este simultan o instituţie şi un microgrup 4 puncte - încadrarea în limita de spaţiu precizată 2 puncte"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "subiectul_1": {
+    "subiect": {
+      "exercitiul_A": "Scrieţi, pe foaia de examen, noţiunile cu care trebuie să completaţi spaţiile libere din afirmaţia următoare, astfel încât aceasta să fie corectă. Tibia, ............ şi falangele sunt oase ale scheletului membrului ............ .",
+      "exercitiul_B": "Numiţi o arteră şi o venă care aparţin circulaţiei mici a sângelui. Asociaţi fiecare vas de sânge numit cu denumirea compartimentului inimii cu care comunică.",
+      "exercitiul_C": {
+        "enunt": "Scrieţi, pe foaia de examen, litera corespunzătoare răspunsului corect. Este corectă o singură variantă de răspuns.",
+        "subpunctul_1": "Cauza guşei endemice este dereglarea activităţii: a) ovarului b) pancreasului c) suprarenalei d) tiroidei",
+        "subpunctul_2": "Ovarele: a) produc ovule b) sunt gameţii feminini c) sunt localizate în torace d) sunt lipsite de vascularizaţie",
+        "subpunctul_3": "Hipofiza secretă: a) adrenalină b) insulină c) prolactină d) tiroxină",
+        "subpunctul_4": "Receptorii vizuali sunt: a) lipsiţi de pigmenţi b) localizaţi în retină c) sediul senzaţiei vizuale d) stimulaţi de substanţe chimice",
+        "subpunctul_5": "Una dintre afecţiunile sistemului excretor este: a) acromegalia b) epilepsia c) glaucomul d) glomerulonefrita"
+      },
+      "exercitiul_D": {
+        "enunt": "Citiţi, cu atenţie, afirmaţiile următoare. Dacă apreciaţi că afirmaţia este adevărată, scrieţi, pe foaia de examen, în dreptul cifrei corespunzătoare afirmaţiei, litera A. Dacă apreciaţi că afirmaţia este falsă, scrieţi, pe foaia de examen, în dreptul cifrei corespunzătoare afirmaţiei, litera F şi modificaţi parţial afirmaţia pentru ca aceasta să devină adevărată. Nu se acceptă folosirea negaţiei.",
+        "subpunctul_1": "Defrişarea, urbanizarea şi industrializarea sunt exemple de activităţi umane care pot contribui la protejarea unui ecosistem natural.",
+        "subpunctul_2": "Pectoralii sunt muşchi ai gâtului.",
+        "subpunctul_3": "Din punct de vedere topografic, sistemul nervos se clasifică în central şi periferic."
+      }
+    },
+    "barem": {
+      "exercitiul_A": "Se acordă câte 2p. pentru fiecare noţiune corectă. 2 x 2p.= 4 puncte",
+      "exercitiul_B": "- numirea unei artere şi a unei vene care aparţin circulaţiei mici a sângelui; 2 x 1p.= 2 puncte - asocierea fiecărui vas de sânge numit cu denumirea compartimentului inimii cu care comunică. 2 x 2p.= 4 puncte",
+      "exercitiul_C": "Se acordă câte 2p. pentru fiecare răspuns corect: 1d; 2a; 3c; 4b; 5d. 5 x 2p.= 10 puncte",
+      "exercitiul_D": "Se acordă câte 2p. pentru fiecare răspuns corect: 1F; 2F; 3A. 3 x 2p.= 6 puncte Se acordă câte 2p. pentru modificarea corectă a fiecărei afirmaţii false. 2 x 2p.= 4 puncte"
+    }
+  },
+  "subiectul_2": {
+    "subiect": {
+      "exercitiul_A": {
+        "enunt": "ADN-ul şi ARN-ul sunt formaţi din nucleotide.",
+        "subpunctul_a": "Precizaţi două deosebiri dintre o nucleotidă ADN şi o nucleotidă ARN.",
+        "subpunctul_b": "Sinteza unei enzime pancreatice cu rol în digestia glucidelor se realizează pe baza informaţiei unui fragment de ADN bicatenar alcătuit din 486 nucleotide, dintre care 98 conţin timină. Stabiliţi următoarele: - secvenţa de nucleotide din ARN-ul mesager complementar catenei de ADN care are următoarea succesiune de nucleotide: AGCTAT; - numărul nucleotidelor cu citozină conţinute de fragmentul de ADN bicatenar (scrieţi toate etapele necesare rezolvării acestei cerinţe); - numărul legăturilor duble şi al legăturilor triple din fragmentul de ADN bicatenar.",
+        "subpunctul_c": "Completaţi problema de la punctul b) cu o altă cerinţă pe care o formulaţi voi, folosind informaţii ştiinţifice specifice biologiei; rezolvaţi cerinţa pe care aţi propus-o."
+      },
+      "exercitiul_B": {
+        "enunt": "La spitalul de urgenţă este adus un bolnav care va fi supus unei intervenţii chirurgicale. Acesta are nevoie de transfuzie cu o cantitate mică de sânge. Analiza sângelui bolnavului evidenţiază prezenţa pe suprafaţa hematiilor a ambelor tipuri de aglutinogene/antigene. În spital există rezerve de sânge aparţinând următoarelor grupe: A, B şi O. Stabiliţi următoarele:",
+        "subpunctul_a": "grupa de sânge a bolnavului care are nevoie de transfuzie;",
+        "subpunctul_b": "aglutinina/anticorpul din plasma sângelui cu grupa A;",
+        "subpunctul_c": "un exemplu de grupă de sânge care poate fi folosit de medici pentru transfuzie, din rezervele de sânge ale spitalului; motivaţi răspunsul dat;",
+        "subpunctul_d": "Completaţi această problemă cu o altă cerinţă pe care o formulaţi voi, folosind informaţii ştiinţifice specifice biologiei; rezolvaţi cerinţa pe care aţi propus-o."
+      }
+    },
+    "barem": {
+      "exercitiul_A": "a) precizarea a două deosebiri dintre o nucleotidă ADN şi o nucleotidă ARN; 2 x 2p.= 4 puncte b) – secvenţa de nucleotide din ARN-ul mesager complementar catenei de ADN: UCGAUA; 2 puncte - numărul de nucleotide cu citozină conţinute de fragmentul de ADN bicatenar – etapele rezolvării: - stabilirea numărului de nucleotide care conţin adenină (98); 1 punct - stabilirea numărului de nucleotide care conţin adenină + timină (196); 1 punct - stabilirea numărului de nucleotide care conţin citozină + guanină (290); 1 punct - stabilirea numărului de nucleotide care conţin citozină (145); 1 punct - numărul legăturilor duble din fragmentul de ADN bicatenar (98); 2 puncte - numărul legăturilor triple din fragmentul de ADN bicatenar (145). 2 puncte Notă Pentru raţionamentul corect, neînsoţit de calcule, se acordă jumătate din punctajul repartizat etapelor calculării numărului de nucleotide cu citozină. c) - formularea cerinţei; 2 puncte - rezolvarea cerinţei. 2 puncte",
+      "exercitiul_B": "a) grupa de sânge a bolnavului care are nevoie de transfuzie (AB); 2 puncte b) aglutinina/anticorpul din plasma sângelui cu grupa A; 2 puncte c) un exemplu de grupă de sânge care poate fi folosit de medici pentru transfuzie, din rezervele de sânge ale spitalului; 2 puncte - motivarea răspunsului dat; 2 puncte d) formularea cerinţei; 2 puncte - rezolvarea cerinţei. 2 puncte"
+    }
+  },
+  "subiectul_3": {
+    "subiect": {
+      "exercitiul_1": "Una dintre funcţiile organismului uman este digestia. a) Caracterizaţi sucul digestiv care participă la transformările chimice ale alimentelor în stomac precizând: numele sucului digestiv, un exemplu de enzimă din compoziţia sucului digestiv, un exemplu de substanţe asupra cărora acţionează enzima respectivă. b) Explicaţi în ce constă absorbţia intestinală. c) Construiţi patru enunţuri afirmative, câte două pentru fiecare conţinut, utilizând limbajul ştiinţific adecvat. Folosiţi, în acest scop, informaţii referitoare la următoarele conţinuturi: - Transformări fizico-chimice ale alimentelor în cavitatea bucală. - Litiaza biliară.",
+      "exercitiul_2": "Respiraţia participă, împreună cu digestia, circulaţia şi excreţia la realizarea funcţiilor de nutriţie ale organismului uman. a) Numiţi cele trei volume respiratorii care formează capacitatea vitală. b) Precizaţi trei caracteristici ale expiraţiei. c) Alcătuiţi un minieseu intitulat „Schimburile de gaze respiratorii”, folosind informaţia ştiinţifică adecvată. În acest scop, respectaţi următoarele etape: - enumerarea a şase noţiuni specifice acestei teme; - construirea, cu ajutorul acestora, a unui text coerent, format din maximum trei-patru fraze, folosind corect şi în corelaţie noţiunile enumerate."
+    },
+    "barem": {
+      "exercitiul_1": "14 puncte a) caracterizarea sucului digestiv care participă la transformările chimice ale alimentelor în stomac: - numele sucului digestiv; 1 punct - un exemplu de enzimă din compoziţia acestui suc digestiv; 1 punct - un exemplu de substanţe asupra cărora acţionează enzima respectivă; 1 punct b) explicarea corectă; 3 puncte c) construirea a patru enunţuri afirmative, utilizând limbajul ştiinţific adecvat, folosind, în acest scop, informaţii referitoare la conţinuturile indicate. 4 x 2p. = 8 puncte",
+      "exercitiul_2": "16 puncte a) numirea celor trei volume respiratorii care formează capacitatea vitală; 3 x 1p.= 3 puncte b) precizarea a trei caracteristici ale expiraţiei; 3 x 1p.= 3 puncte c) alcătuirea minieseului, folosindu-se informaţia ştiinţifică adecvată, respectându-se cerinţele: - pentru fiecare noţiune enumerată, specifică temei, se acordă câte 1p. 6 x 1p.= 6 puncte - pentru coerenţa textului, de maximum trei-patru fraze, în alcătuirea căruia fiecare noţiune este folosită corect, în corelaţie cu celelalte noţiuni, se acordă 4 p. 4 puncte"
+    }
+  }
+}

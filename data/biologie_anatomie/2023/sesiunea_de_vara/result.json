@@ -1,0 +1,59 @@
+{
+  "subiectul_1": {
+    "subiect": {
+      "exercitiul_A": "Scrieţi, pe foaia de examen, noţiunile cu care trebuie să completaţi spaţiile libere din afirmaţia următoare, astfel încât aceasta să fie corectă. Sistemele muscular, ............ şi ............ participă la realizarea funcţiilor de relaţie.",
+      "exercitiul_B": "Numiţi două tipuri de contracţii musculare. Asociaţi fiecare tip de contracţie musculară cu câte o caracteristică a ei.",
+      "exercitiul_C": {
+        "enunt": "Scrieţi, pe foaia de examen, litera corespunzătoare răspunsului corect. Este corectă o singură variantă de răspuns.",
+        "subpunctul_1": "Afecţiune a sistemului reproducător masculin este: a) anexita b) adenomul de prostată c) cistita d) glomerulonefrita",
+        "subpunctul_2": "Humerusul și radiusul sunt oase ale: a) capului b) membrului inferior c) membrului superior d) trunchiului",
+        "subpunctul_3": "Componenta rinichiului cu rol în formarea de urină este: a) calicele b) nefronul c) pelvisul renal d) vezica urinară",
+        "subpunctul_4": "Sângele oxigenat este propulsat în artera aortă prin contracţia: a) atriului drept al inimii b) atriului stâng al inimii c) ventriculului drept al inimii d) ventriculului stâng al inimii",
+        "subpunctul_5": "Receptorii analizatorului vizual: a) conţin pigmenţi b) participă la formarea nervului optic c) sunt localizaţi în sclerotică d) sunt stimulaţi chimic"
+      },
+      "exercitiul_D": {
+        "enunt": "Citiţi, cu atenţie, afirmaţiile următoare. Dacă apreciaţi că afirmaţia este adevărată, scrieţi, pe foaia de examen, în dreptul cifrei corespunzătoare afirmaţiei, litera A. Dacă apreciaţi că afirmaţia este falsă, scrieţi, pe foaia de examen, în dreptul cifrei corespunzătoare afirmaţiei, litera F şi modificaţi parţial afirmaţia pentru ca aceasta să devină adevărată. Nu se acceptă folosirea negaţiei.",
+        "subpunctul_1": "Biocenoza, componentă a ecosistemului, este reprezentată de totalitatea factorilor biotici.",
+        "subpunctul_2": "Urechea medie reprezintă segmentul intermediar/de conducere al analizatorului auditiv.",
+        "subpunctul_3": "Cele două componente ale sistemului nervos somatic sunt simpaticul și parasimpaticul."
+      }
+    },
+    "barem": {
+      "exercitiul_A": "Se acordă câte 2p. pentru fiecare noţiune corectă. 2 x 2p.= 4 puncte",
+      "exercitiul_B": "- numirea a două tipuri de contracţii musculare; 2 x 1p.= 2 puncte - asocierea fiecărui tip de contracţie musculară cu câte o caracteristică a ei. 2 x 2p.= 4 puncte",
+      "exercitiul_C": "Se acordă câte 2p. pentru fiecare răspuns corect: 1b; 2c; 3b; 4d; 5a. 5 x 2p.= 10 puncte",
+      "exercitiul_D": "Se acordă câte 2p. pentru fiecare răspuns corect: 1A; 2F; 3F. 3 x 2p.= 6 puncte Se acordă câte 2p. pentru modificarea corectă a fiecărei afirmaţii false. 2 x 2p.= 4 puncte"
+    }
+  },
+  "subiectul_2": {
+    "subiect": {
+      "exercitiul_A": {
+        "enunt": "Materialul genetic al virusurilor, procariotelor şi eucariotelor este reprezentat de acizii nucleici.",
+        "subpunctul_a": "Precizaţi două deosebiri dintre procariote şi eucariote, privind organizarea materialului genetic al acestora.",
+        "subpunctul_b": "Sinteza unei proteine se realizează pe baza informaţiei unui fragment de ADN bicatenar, alcătuit din 778 nucleotide, dintre care 98 conţin guanină. Stabiliţi următoarele: - numărul nucleotidelor cu timină conţinute de fragmentul de ADN bicatenar (scrieţi toate etapele necesare rezolvării acestei cerinţe). - numărul legăturilor duble şi al legăturilor triple din fragmentul macromoleculei de ADN bicatenar; - secvenţa de nucleotide din catena de ADN 5’-3’ complementară, ştiind că, pe catena 3’-5’, secvenţa de nucleotide este următoarea: TGTCAG.",
+        "subpunctul_c": "Completaţi problema de la punctul b) cu o altă cerinţă pe care o formulaţi voi, folosind informaţii ştiinţifice specifice biologiei; rezolvaţi cerinţa pe care aţi propus-o."
+      },
+      "exercitiul_B": {
+        "enunt": "La un spital regional sunt aduși doi pacienți care au nevoie de transfuzie cu o cantitate mică de sânge. Unul dintre ei are grupa de sânge B. Analiza sângelui celui de-al doilea pacient evidențiază prezența pe hematii, doar a antigenului/aglutinogenului A. La spital s-au prezentat posibili donatori ale căror grupe de sânge sunt: O, A şi B. Precizaţi următoarele:",
+        "subpunctul_a": "grupa de sânge a celui de-al doilea pacient;",
+        "subpunctul_b": "grupa de sânge a donatorului comun pentru cei doi pacienți; motivaţi răspunsul dat;",
+        "subpunctul_c": "consecinţa în cazul transfuziei cu sânge provenit de la un donator incompatibil din punctul de vedere al sistemului ABO.",
+        "subpunctul_d": "Completaţi această problemă cu o altă cerinţă pe care o formulaţi voi, folosind informaţii ştiinţifice specifice biologiei; rezolvaţi cerinţa pe care aţi propus-o."
+      }
+    },
+    "barem": {
+      "exercitiul_A": "a) precizarea a două deosebiri dintre procariote şi eucariote, privind organizarea materialului genetic al acestora; 2 x 2p.= 4 puncte b) - numărul de nucleotide cu timină conţinute de fragmentul de ADN bicatenar - etapele rezolvării: - stabilirea numărului de nucleotide care conţin citozină (98); 1 punct - stabilirea numărului de nucleotide care conţin citozină + guanină (196); 1 punct - stabilirea numărului de nucleotide care conţin adenină + timină (582); 1 punct - stabilirea numărului de nucleotide care conţin timină (291); 1 punct - numărul legăturilor duble din fragmentul de ADN bicatenar (291); 2 puncte - numărul legăturilor triple din fragmentul de ADN bicatenar (98); 2 puncte - secvenţa de nucleotide din catena de ADN 5’-3’ complementară: ACAGTC. 2 puncte Notă Pentru raţionamentul corect, neînsoţit de calcule, se acordă jumătate din punctajul repartizat etapelor calculării numărului de nucleotide cu timină. c) - formularea cerinţei; 2 puncte - rezolvarea cerinţei. 2 puncte",
+      "exercitiul_B": "a) grupa de sânge a celui de-al doilea pacient (A); 2 puncte b) grupa de sânge a donatorului comun pentru cei doi pacienți (O); 2 puncte - motivarea răspunsului dat; 2 puncte c) consecinţa în cazul transfuziei cu sânge provenit de la un donator incompatibil din punctul de vedere al sistemului ABO; 2 puncte d) formularea cerinţei; 2 puncte - rezolvarea cerinţei. 2 puncte"
+    }
+  },
+  "subiectul_3": {
+    "subiect": {
+      "exercitiul_1": "În timpul ventilaţiei pulmonare sunt mobilizate mai multe volume respiratorii. a) Înlocuiţi cu noţiunile corespunzătoare literele din relaţia de mai jos: Capacitatea pulmonară (totală) = A + B + C + volumul rezidual. b) Explicați importanța respectării unor reguli de igienă, în cazul respirației. c) Construiţi patru enunţuri afirmative, câte două pentru fiecare conţinut, utilizând limbajul ştiinţific adecvat. Folosiţi, în acest scop, informaţii referitoare la următoarele conţinuturi: - Transportul CO 2 prin intermediul sângelui - Schimbul de gaze la nivelul alveolelor pulmonare",
+      "exercitiul_2": "Pancreasul are un dublu rol: secreția de hormoni și participarea la procesul de digestie. a) Precizaţi localizarea pancreasului și o asemănare între secreția digestivă pancreatică și cea gastrică. b) Scrieţi un argument în favoarea afirmaţiei următoare: „Pancreasul participă la digestia chimică a proteinelor”. c) Alcătuiţi un minieseu intitulat „Variații ale secreției de insulină și efectele lor”, folosind informaţia ştiinţifică adecvată. În acest scop, respectaţi următoarele etape: - enumerarea a şase noţiuni specifice acestei teme; - construirea, cu ajutorul acestora, a unui text coerent, format din maximum trei-patru fraze, folosind corect şi în corelaţie noţiunile enumerate."
+    },
+    "barem": {
+      "exercitiul_1": "14 puncte a) înlocuirea cu noţiunile corespunzătoare a literelor A, B și C din relaţia dată; 3 x 1p.= 3 puncte b) explicarea corectă; 3 puncte c) construirea a patru enunţuri afirmative, utilizând limbajul ştiinţific adecvat, folosind, în acest scop, informaţii referitoare la conţinuturile indicate. 4 x 2p. = 8 puncte",
+      "exercitiul_2": "16 puncte a) precizarea: - localizării pancreasului; 1 punct - unei asemănări între secreția digestivă pancreatică și cea gastrică; 2 puncte b) scrierea unui argument; 3 puncte c) alcătuirea minieseului, folosindu-se informaţia ştiinţifică adecvată, respectându-se cerinţele: - pentru fiecare noţiune enumerată, specifică temei, se acordă câte 1p.; 6 x 1p.= 6 puncte - pentru coerenţa textului, în alcătuirea căruia fiecare noţiune este folosită corect, în corelaţie cu celelalte noţiuni, se acordă 2 p. 2 puncte - pentru respectarea lungimii textului - maxim trei-patru fraze - se acordă 2 p. 2 puncte"
+    }
+  }
+}

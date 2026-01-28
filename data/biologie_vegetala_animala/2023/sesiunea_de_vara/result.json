@@ -1,0 +1,61 @@
+{
+  "subiectul_1": {
+    "subiect": {
+      "exercitiul_A": "Scrieţi, pe foaia de examen, noţiunile cu care trebuie să completaţi spaţiile libere din afirmaţia următoare, astfel încât aceasta să fie corectă. Sistemul nervos central al mamiferelor este alcătuit din ............ și ............ .",
+      "exercitiul_B": "Daţi două exemple de grupe de plante; scrieţi în dreptul fiecărei grupe câte un exemplu de reprezentant.",
+      "exercitiul_C": {
+        "enunt": "Scrieţi, pe foaia de examen, litera corespunzătoare răspunsului corect. Este corectă o singură variantă de răspuns.",
+        "subpunctul_1": "Unul dintre oasele membrului inferior al omului este: a) clavicula b) femurul c) humerusul d) radiusul",
+        "subpunctul_2": "Insectele și arahnidele sunt: a) anelide b) artropode c) celenterate d) cordate",
+        "subpunctul_3": "Ureterul este: a) componentă renală b) cale urinară c) conduct genital, la bărbaţi d) protejat de o capsulă dublă",
+        "subpunctul_4": "La mamifere, cristalinul: a) are forma unei lentile divergente, situată anterior corneei b) conține fibre musculare cu rol în reglarea diametrului său c) este componentă a sistemului optic al globului ocular d) este bogat vascularizat, asigurând nutriţia ochiului",
+        "subpunctul_5": "Respiraţia aerobă: a) are loc în absenţa oxigenului atmosferic b) constă în oxidarea parțială a substanțelor organice c) produce o cantitate mare de energie d) se mai numeşte şi fermentaţie acetică"
+      },
+      "exercitiul_D": {
+        "enunt": "Citiţi, cu atenţie, afirmaţiile următoare. Dacă apreciaţi că afirmaţia este adevărată, scrieţi, pe foaia de examen, în dreptul cifrei corespunzătoare afirmaţiei, litera A. Dacă apreciaţi că afirmaţia este falsă, scrieţi, pe foaia de examen, în dreptul cifrei corespunzătoare afirmaţiei, litera F şi modificaţi parţial afirmaţia pentru ca aceasta să devină adevărată. Folosiţi, în acest scop, informaţia ştiinţifică adecvată. Nu se acceptă folosirea negaţiei.",
+        "subpunctul_1": "Fotosinteza este un tip de nutriție heterotrofă.",
+        "subpunctul_2": "Ovarele reprezintă gonadele bărbătești.",
+        "subpunctul_3": "Mezencefalul este una dintre componentele trunchiului cerebral al mamiferelor."
+      }
+    },
+    "barem": {
+      "exercitiul_A": "Se acordă câte 2p. pentru fiecare noţiune corectă. 2 x 2p. = 4 puncte",
+      "exercitiul_B": "- două exemple de grupe de plante; 2 x 1p. = 2 puncte - câte un exemplu de reprezentant pentru fiecare grup de plante dat exemplu.2 x 2p. = 4 puncte",
+      "exercitiul_C": "Se acordă câte 2p. pentru fiecare răspuns corect: 1b; 2b; 3b; 4c; 5c. 5 x 2p. = 10 puncte",
+      "exercitiul_D": "Se acordă câte 2p. pentru fiecare răspuns corect: 1F; 2F; 3A. 3 x 2p. = 6 puncte Se acordă câte 2p. pentru modificarea corectă a fiecărei afirmaţii false. 2 x 2p. = 4 puncte"
+    }
+  },
+  "subiectul_2": {
+    "subiect": {
+      "exercitiul_A": {
+        "enunt": "Sistemul circulator al mamiferelor este alcătuit din inimă și vase de sânge, reprezentate de artere, vene și capilare.",
+        "subpunctul_a": "Numiți trei vase mari de sânge prin care circulă sânge încărcat cu CO 2 și cele două compartimente ale inimii prin care circulă sânge încărcat cu oxigen.",
+        "subpunctul_b": "Explicați rolul capilarelor.",
+        "subpunctul_c": "Calculaţi masa apei din plasma sângelui unui copil, ştiind următoarele: - sângele reprezintă 7% din masa corpului; - plasma sangvină reprezintă 55% din masa sângelui; - apa reprezintă 90% din masa plasmei sangvine; - masa corpului copilului este de 16 Kg. Scrieţi toate etapele parcurse pentru rezolvarea cerinţei.",
+        "subpunctul_d": "Completaţi problema de la punctul c) cu o altă cerinţă pe care o formulaţi voi, folosind informaţii ştiinţifice specifice biologiei; rezolvaţi cerinţa pe care aţi propus-o."
+      },
+      "exercitiul_B": {
+        "enunt": "Se încrucişează două soiuri de pere care se deosebesc prin două perechi de caractere: mărimea şi forma fructelor. Fructele mijlocii (M) şi ovoide (O) sunt caractere dominante, iar fructele mari (",
+        "subpunctul_m": "şi alungite (o) sunt caractere recesive. Un părinte are fructe mari şi ovoide, fiind heterozigot pentru forma fructelor, iar celălalt părinte are fructe mijlocii şi alungite, fiind heterozigot pentru dimensiunea fructelor. În F 1 se obțin mai multe combinații de factori ereditari. Stabiliţi următoarele:",
+        "subpunctul_a": "genotipurile părinților;",
+        "subpunctul_b": "tipurile de gameţi produşi de fiecare dintre cei doi părinți;",
+        "subpunctul_c": "procentul combinațiilor din F 1 cu fructe mijlocii; genotipul indivizilor din F 1 cu fructe mari şi ovoide.",
+        "subpunctul_d": "Completaţi această problemă cu o altă cerinţă pe care o formulaţi voi, folosind informaţii ştiinţifice specifice biologiei; rezolvaţi cerinţa pe care aţi propus-o. Scrieţi toate etapele rezolvării problemei."
+      }
+    },
+    "barem": {
+      "exercitiul_A": "a) numirea: - a trei vase mari de sânge prin care circulă sânge încărcat cu CO 2 ; 3 x 1p. = 3 puncte - celor două compartimente ale inimii prin care circulă sânge încărcat cu oxigen; 2 x 1p. = 2 puncte b) explicarea corectă; 3 puncte c) - calcularea masei sângelui copilului; 2 puncte 16 x 7: 100 = 1,12 kg; - calcularea masei plasmei sangvine; 2 puncte 1,12 x 55 : 100 = 0,616 kg; - calcularea masei apei din plasma sangvină; 2 puncte 0,616 x 90 : 100 = 0,5544 kg; d) - formularea cerinţei; 2 puncte - rezolvarea cerinţei. 2 puncte Notă Se punctează oricare altă modalitate de rezolvare a problemei. Pentru raţionamentul corect, neînsoţit de calcule, se acordă jumătate din punctajul repartizat rezolvării problemei.",
+      "exercitiul_B": "a) genotipurile părinților: mmOo; Mmoo; 2 x 1p. = 2 puncte b) tipurile de gameţi produşi de fiecare dintre cei doi părinți: mO; mo; Mo; mo; 4 x 1p. = 4 puncte c) procentul combinațiilor din F 1 cu fructe mijlocii (50%); 1 punct - genotipul indivizilor din F 1 cu fructe mari şi ovoide: mmOo; 1 punct d) - formularea cerinţei; 2 puncte - rezolvarea cerinţei. 2 puncte"
+    }
+  },
+  "subiectul_3": {
+    "subiect": {
+      "exercitiul_1": "Celula, unitatea structurală și funcțională a lumii vii, se poate divide indirect prin mitoză și meioză. a) Numiți trei faze ale mitozei. b) Scrieți un argument în favoarea afirmaţiei următoare: „Bacteriile au organizare celulară de tip procariot”. c) Construiţi patru enunţuri afirmative, câte două pentru fiecare conţinut, utilizând limbajul ştiinţific adecvat. Folosiţi, în acest scop, informaţii referitoare la următoarele conţinuturi: - Plastidele - Importanța meiozei",
+      "exercitiul_2": "Sistemul digestiv al mamiferelor este alcătuit din tub digestiv și glande anexe. a) Caracterizaţi o boală a sistemului digestiv la om, precizând: numele bolii, o cauză, o manifestare. b) Explicaţi rolul bilei în digestia lipidelor. c) Alcătuiţi un minieseu intitulat „Pancreasul exocrin”, folosind informaţia ştiinţifică adecvată. În acest scop, respectaţi următoarele etape: - enumerarea a şase noţiuni specifice acestei teme; - construirea, cu ajutorul acestora, a unui text coerent, format din maximum trei-patru fraze, folosind corect şi în corelaţie noţiunile enumerate."
+    },
+    "barem": {
+      "exercitiul_1": "14 puncte a) numirea a trei faze ale mitozei; 3 x 1p. = 3 puncte b) scrierea unui argument; 3 puncte c) construirea a patru enunţuri afirmative, utilizând limbajul ştiinţific adecvat, folosind informaţii referitoare la conţinuturile indicate. 4 x 2p. = 8 puncte",
+      "exercitiul_2": "16 puncte a) caracterizarea unei boli a sistemului digestiv la om, precizând: - numele bolii; 1 punct - o cauză a bolii; 1 punct - o manifestare a bolii; 1 punct b) explicarea corectă; 3 puncte c) alcătuirea minieseului, folosindu-se informaţia ştiinţifică adecvată, respectându-se cerinţele: - pentru fiecare noţiune enumerată, specifică temei, se acordă câte 1p.; 6 x 1p.= 6 puncte - pentru coerenţa textului, în alcătuirea căruia fiecare noţiune este folosită corect, în corelaţie cu celelalte noţiuni, se acordă 2 p. 2 puncte - pentru respectarea lungimii textului - maxim trei-patru fraze - se acordă 2 p. 2 puncte"
+    }
+  }
+}

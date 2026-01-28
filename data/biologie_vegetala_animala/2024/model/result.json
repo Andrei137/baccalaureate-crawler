@@ -1,0 +1,60 @@
+{
+  "subiectul_1": {
+    "subiect": {
+      "exercitiul_A": "Scrieţi, pe foaia de examen, noţiunile cu care trebuie să completaţi spaţiile libere din afirmaţia următoare, astfel încât aceasta să fie corectă. Achena și ........... sunt exemple de fructe ........... întâlnite la angiosperme.",
+      "exercitiul_B": "Daţi două exemple de țesuturi musculare; scrieţi în dreptul fiecărui tip de țesut câte o caracteristică structurală.",
+      "exercitiul_C": {
+        "enunt": "Scrieţi, pe foaia de examen, litera corespunzătoare răspunsului corect. Este corectă o singură variantă de răspuns.",
+        "subpunctul_1": "Celula glială este componentă a ţesutului: a) epitelial b) muscular c) nervos d) osos",
+        "subpunctul_2": "Fiecare dintre celulele-fiice formate prin diviziunea mitotică a unei celule-mamă cu 2n = 8 cromozomi are: a) 2n = 8 cromozomi b) 2n = 4 cromozomi c) n = 8 cromozomi d) n = 4 cromozomi",
+        "subpunctul_3": "Angiospermele aparțin regnului: a) Fungi b) Monera c) Plante d) Protiste",
+        "subpunctul_4": "Hipotalamusul mamiferelor: a) conţine trei perechi de pedunculi cerebeloși b) este localizat între bulbul rahidian și mezencefal c) este sediul activităţii nervoase superioare d) este una dintre componentele diencefalului",
+        "subpunctul_5": "Nutriţia heterotrofă: a) este specifică organismelor vegetale b) constă în sinteza de substanţe organice c) poate fi evidenţiată după CO 2 absorbit d) se poate realiza saprofit şi parazit"
+      },
+      "exercitiul_D": {
+        "enunt": "Citiţi, cu atenţie, afirmaţiile următoare. Dacă apreciaţi că afirmaţia este adevărată, scrieţi, pe foaia de examen, în dreptul cifrei corespunzătoare afirmaţiei, litera A. Dacă apreciaţi că afirmaţia este falsă, scrieţi, pe foaia de examen, în dreptul cifrei corespunzătoare afirmaţiei, litera F şi modificaţi parţial afirmaţia pentru ca aceasta să devină adevărată. Folosiţi, în acest scop, informaţia ştiinţifică adecvată. Nu se acceptă folosirea negaţiei.",
+        "subpunctul_1": "Miopia este o deficiență senzorială corectată cu lentile convergente.",
+        "subpunctul_2": "Candidoza este o boală cu transmitere sexuală, provocată de o bacterie.",
+        "subpunctul_3": "Puritatea gameților este una dintre legile mendeliene ale eredității."
+      }
+    },
+    "barem": {
+      "exercitiul_A": "Se acordă câte 2p. pentru fiecare noţiune corectă. 2 x 2p. = 4 puncte",
+      "exercitiul_B": "- două exemple de țesuturi musculare; 2 x 1p. = 2 puncte - câte o caracteristică structurală pentru fiecare exemplu de țesut muscular. 2 x 2p. = 4 puncte",
+      "exercitiul_C": "Se acordă câte 2p. pentru fiecare răspuns corect: 1c; 2a; 3c; 4d; 5d. 5 x 2p. = 10 puncte",
+      "exercitiul_D": "Se acordă câte 2p. pentru fiecare răspuns corect: 1F; 2F; 3A. 3 x 2p. = 6 puncte Se acordă câte 2p. pentru modificarea corectă a fiecărei afirmaţii false. 2 x 2p. = 4 puncte"
+    }
+  },
+  "subiectul_2": {
+    "subiect": {
+      "exercitiul_A": {
+        "enunt": "Două dintre bolile sistemului circulator al omului sunt infarctul miocardic și hipertensiunea arterială.",
+        "subpunctul_a": "Precizaţi câte un exemplu de manifestare pentru fiecare dintre cele două boli și trei măsuri comune de prevenire a acestora.",
+        "subpunctul_b": "Explicați afirmaţia următoare: „În cazul inimii mamiferelor, peretele celor două ventricule, în special cel al ventriculului stâng, este mai gros decât peretele celor două atrii”.",
+        "subpunctul_c": "Calculaţi masa apei din plasma sângelui unui nou-născut, ştiind următoarele: - sângele reprezintă 7% din masa corpului; - plasma sangvină reprezintă 55% din masa sângelui; - apa reprezintă 90% din masa plasmei sangvine; - masa corpului nou-născutului este de 3,2 Kg. Scrieţi toate etapele parcurse pentru rezolvarea cerinţei.",
+        "subpunctul_d": "Completaţi problema de la punctul c) cu o altă cerinţă pe care o formulaţi voi, folosind informaţii ştiinţifice specifice biologiei; rezolvaţi cerinţa pe care aţi propus-o."
+      },
+      "exercitiul_B": {
+        "enunt": "Se încrucişează două soiuri de prun care se deosebesc prin două perechi de caractere: forma şi culoarea fructelor. Fructele alungite (A) şi negre-albăstrui (N) sunt caractere dominante, iar fructele rotunde (",
+        "subpunctul_a": "şi galbene (n) sunt caractere recesive. Un părinte are fructe alungite şi galbene, fiind homozigot pentru forma fructelor, iar celălalt părinte are fructe rotunde şi negre-albăstrui, fiind heterozigot pentru culoarea fructelor. În F 1 se obțin mai multe combinații de factori ereditari. Stabiliţi următoarele: genotipurile părinților;",
+        "subpunctul_b": "tipurile de gameţi produşi de cei doi părinți;",
+        "subpunctul_c": "procentul combinațiilor din F 1 cu fructe alungite; genotipul indivizilor din F 1 cu fructe alungite şi negre-albăstrui şi al celor cu fructe alungite şi galbene.",
+        "subpunctul_d": "Completaţi această problemă cu o altă cerinţă pe care o formulaţi voi, folosind informaţii ştiinţifice specifice biologiei; rezolvaţi cerinţa pe care aţi propus-o. Scrieţi toate etapele rezolvării problemei."
+      }
+    },
+    "barem": {
+      "exercitiul_A": "a) Precizarea: - câte unui exemplu de manifestare pentru fiecare dintre cele două boli; 2 x 1p. = 2 puncte - a trei măsuri comune de prevenire a acestor două boli; 3 x 1p. = 3 puncte b) explicarea corectă; 3 puncte c) - calcularea masei sângelui nou-născutului; 2 puncte 3,2 x 7 : 100 = 0,224 kg; - calcularea masei plasmei sangvine; 2 puncte 0,224 x 55 : 100 = 0,1232 kg; - calcularea masei apei din plasma sangvină; 2 puncte 0,1232 x 90 : 100 = 0,11088 kg; d) - formularea cerinţei; 2 puncte - rezolvarea cerinţei. 2 puncte Notă Se punctează oricare altă modalitate de rezolvare a problemei. Pentru raţionamentul corect, neînsoţit de calcule, se acordă jumătate din punctajul repartizat rezolvării problemei.",
+      "exercitiul_B": "a) genotipurile părinților: AAnn; aaNn; 2 x 1p. = 2 puncte b) tipurile de gameţi produşi de cei doi părinți: An; aN; an; 3 x 1p. = 3 puncte c) procentul combinațiilor din F 1 cu fructe alungite (100%); 1 punct - genotipul indivizilor din F 1 cu fructe alungite şi negre-albăstrui şi al celor cu fructe alungite şi galbene: AaNn; Aann; 2 x 1p. = 2 puncte d) - formularea cerinţei; 2 puncte - rezolvarea cerinţei. 2 puncte"
+    }
+  },
+  "subiectul_3": {
+    "subiect": {
+      "exercitiul_1": "Celula reprezintă unitatea structurală, funcțională și genetică a viețuitoarelor. a) Caracterizaţi un component celular comun celulei procariote şi celulei eucariote precizând: denumirea componentului celular, o caracteristică și rolul îndeplinit. b) Explicați afirmaţia următoare: „Celulele reproducătoare/Gameții sunt rezultatul diviziunii meiotice”. c) Construiţi patru enunţuri afirmative, câte două pentru fiecare conţinut, utilizând limbajul ştiinţific adecvat. Folosiţi, în acest scop, informaţii referitoare la următoarele conţinuturi: - Ciclul celular - Acizii nucleici",
+      "exercitiul_2": "În lumea vie, există două tipuri de respiraţie: aerobă şi anaerobă. a) Precizaţi o asemănare între respiraţia aerobă şi respiraţia anaerobă și un grup de viețuitoare cu respirație aerobă. b) Scrieţi un argument în favoarea afirmaţiei următoare: „Între fotosinteză şi respiraţia aerobă la plante există o strânsă corelaţie”. c) Alcătuiţi un minieseu intitulat „Respiraţia anaerobă”, folosind informaţia ştiinţifică adecvată. În acest scop, respectaţi următoarele etape: - enumerarea a şase noţiuni specifice acestei teme; - construirea, cu ajutorul acestora, a unui text coerent, format din maximum trei-patru fraze, folosind corect şi în corelaţie noţiunile enumerate."
+    },
+    "barem": {
+      "exercitiul_1": "14 puncte a) caracterizarea unui component celular comun celulei procariote şi celulei eucariote precizând: - denumirea componentului celular; 1 punct - o caracteristică a componentului celular; 1 punct - rolul îndeplinit; 1 punct b) explicarea corectă; 3 puncte c) construirea a patru enunţuri afirmative, utilizând limbajul ştiinţific adecvat, folosind informaţii referitoare la conţinuturile indicate. 4 x 2p. = 8 puncte",
+      "exercitiul_2": "16 puncte a) precizarea: - unei asemănări între respiraţia aerobă şi respiraţia anaerobă; 2 puncte - unui grup de viețuitoare cu respirație aerobă; 1 punct b) scrierea unui argument; 3 puncte c) alcătuirea minieseului, folosindu-se informaţia ştiinţifică adecvată, respectându-se cerinţele: - pentru fiecare noţiune enumerată, specifică temei, se acordă câte 1p.; 6 x 1p.= 6 puncte - pentru coerenţa textului, în alcătuirea căruia fiecare noţiune este folosită corect, în corelaţie cu celelalte noţiuni, se acordă 2 p.; 2 puncte - pentru respectarea lungimii textului - maxim trei-patru fraze - se acordă 2 p. 2 puncte"
+    }
+  }
+}

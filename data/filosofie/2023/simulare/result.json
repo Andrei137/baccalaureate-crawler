@@ -1,0 +1,49 @@
+{
+  "subiectul_1": {
+    "subiect": {
+      "enunt": "Scrieţi pe foaia de examen litera corespunzătoare răspunsului corect, pentru fiecare dintre situaţiile de mai jos. Este corectă o singură variantă de răspuns.",
+      "exercitiul_1": "Potrivit lui L. Blaga, omul: a. este un lucru ce cugetă b. există numai întru imediat și pentru securitate c. este înzestrat cu un destin creator de cultură d. este rezultatul propriilor sale alegeri",
+      "exercitiul_2": "Ramurile eticii teleologice sunt: a. hedonismul și etica aplicată b. eudaimonismul și deontologia c. eudaimonismul și hedonismul d. hedonismul și utilitarismul",
+      "exercitiul_3": "Pentru Aristotel, fericirea este: a. un scop în sine b. o sumă de plăceri c. un mijloc de a obține înțelepciunea d. un mijloc de a deveni virtuos",
+      "exercitiul_4": "Un reprezentant al eticii deontologice este: a. Aristotel b. Platon c. Immanuel Kant d. Ludwig Wittgenstein",
+      "exercitiul_5": "Deoarece libertatea face parte din categoria conceptelor corelative, aceasta nu poate fi gândită decât în relație cu conceptul de: a. egalitate c. dreptate b. legitimitate d. constrângere",
+      "exercitiul_6": "Etica aplicată, din perspectiva teoriilor morale: a. definește principiile universale ale acțiunilor morale b. analizează situații concrete de viață c. derivă principiile morale din analiza faptelor generale d. presupune un demers reflexiv desfășurat asupra faptelor generale",
+      "exercitiul_7": "În concepția lui Augustin, existența, cunoașterea și voința sunt facultăți ce caracterizează: a. omul exterior b. omul în starea naturală c. omul interior d. omul revoltat",
+      "exercitiul_8": "În concepția lui J. St. Mill, fundamentul moralei este reprezentat de: a. Principiul Celei Mai Mari Fericiri b. datorie c. înțelepciune d. imperativul categoric",
+      "exercitiul_9": "Avortul reprezintă o problemă de etică aplicată, deoarece este: a. o problemă personală și controversată b. o problemă controversată și care are caracter moral explicit c. o problemă controversată și fără caracter moral d. o problemă morală necontroversată",
+      "exercitiul_10": "Filosoful J. P. Sartre consideră că: a. omul se naște liber, dar pretutindeni este încătușat b. omul este condamnat să fie constrâns c. omul este condamnat la libertate d. omul este libertate, adică necesitate înțeleasă"
+    },
+    "barem": "câte 3 puncte pentru fiecare răspuns corect, astfel: 1-c, 2-c, 3-a, 4-c, 5-d, 6-b, 7-c, 8-a, 9-b,10-c 10x3p=30 puncte"
+  },
+  "subiectul_2": {
+    "subiect": {
+      "exercitiul_A": "În coloana din stânga sunt enumerate concepte și teorii specifice filosofiei politice, iar în coloana din dreapta sunt numerotate enunţuri adevărate referitoare la acestea. Scrieţi pe foaia de examen asocierile corecte dintre fiecare literă din coloana din stânga şi cifra corespunzătoare din coloana din dreapta. a. Democrația b. Liberalismul c. Anarhismul d. Etatismul 1. Consideră că garantarea drepturilor și a libertăților individuale reprezintă principala funcție a statului. 2. Afirmă că ordinea socială este rezultatul unui acord între indivizii aflați în stare naturală. 3. Este o formă de guvernământ care, în concepția lui K. R. Popper, nu permite instaurarea dictaturii. 4. Consideră că statul trebuie să dețină majoritatea sau chiar toate pârghiile de intervenție asupra societății și a individului. 5. Susține că societatea poate și trebuie să fie organizată fără autoritatea coercitivă a statului.",
+      "exercitiul_B": "Argumentați, în aproximativ zece rânduri, în favoarea sau împotriva tezei potrivit căreia activitatea călăuzită de rațiune este binele suprem pentru om.",
+      "exercitiul_C": "Construiți un exemplu prin care să evidențiați modul în care este evaluată moralitatea unei acțiuni din perspectiva unui reprezentant al eticii hedoniste."
+    },
+    "barem": {
+      "exercitiul_A": "câte 4 puncte pentru fiecare asociere corectă, astfel: a-3 b-1 c-5 d-4 4x4p=16 puncte",
+      "exercitiul_B": "- argumentarea în favoarea sau împotriva tezei potrivit căreia activitatea călăuzită de rațiune este binele suprem pentru om: argumentare convingătoare -6p./argumentare neconvingătoare, superficială -2p. 6 puncte - încadrarea în limita de spaţiu precizată 2 puncte",
+      "exercitiul_C": "construirea unui exemplu care evidențiază modul în care este evaluată moralitatea unei acțiuni din perspectiva unui reprezentant al eticii hedoniste(în situația în care candidatul tratează subiectul la nivel teoretic, fără a formula un exemplu, se acordă 2 puncte din cele 6 puncte posibile) 6 puncte"
+    }
+  },
+  "subiectul_3": {
+    "subiect": {
+      "exercitiul_A": {
+        "enunt": "Citiți, cu atenție, textul de mai jos: Și cu toate că am un corp care mi-e foarte strâns legat – fiindcă totuși, pe de o parte, am o idee distinctă și clară a mea însumi ca ființă cugetătoare doar, neîntinsă, iar pe de altă parte, o idee distinctă a corpului ca lucru întins doar, necugetător, e sigur că sunt deosebit cu adevărat de corpul meu… (R. Descartes, Meditații despre filosofia primă) Răspundeți următoarelor cerințe:",
+        "subpunctul_1": "Menționați, pe baza textului dat, două caracteristici ale naturii umane.",
+        "subpunctul_2": "Evidențiați, în aproximativ o jumătate de pagină, o corelație existentă între termenii cugetare și esența umană, utilizând termenii menționați în sens filosofic.",
+        "subpunctul_3": "Formulați un punct de vedere personal referitor la actualitatea perspectivei filosofice prezentată în textul dat."
+      },
+      "exercitiul_B": {
+        "enunt": "Știind că, încercând să argumenteze că dreptatea este proprie naturii umane, filosofii au formulat diverse puncte de vedere:",
+        "subpunctul_1": "Menționați două temeiuri ale dreptății, proprii naturii umane.",
+        "subpunctul_2": "Ilustrați, printr-un exemplu concret, modul în care poate fi realizată dreptatea într-o anumită comunitate/societate."
+      }
+    },
+    "barem": {
+      "exercitiul_A": "1. câte 2 puncte pentru menționarea, pe baza textului dat, a fiecăreia dintre cele două caracteristici ale naturii umane 2x2p= 4 puncte 2. - câte 1 punct pentru utilizarea fiecăruia dintre cei doi termeni daţi în sens filosofic 2x1p= 2 puncte - evidenţierea unei corelaţii existente între termenii dați 4 puncte - coerenţa textului redactat 2 puncte - încadrarea în limita de spaţiu precizată 2 puncte 3. formularea unui punct de vedere personal referitor la actualitatea perspectivei filosofice prezentată în textul dat (în situația în care candidatul formulează punctul de vedere personal, fără sa-l prezinte adecvat, se acordă 2 puncte din cele 6 puncte posibile) 6 puncte",
+      "exercitiul_B": "1. câte 3 puncte pentru menționarea fiecăruia dintre cele două temeiuri ale dreptății, proprii naturii umane 2x3p= 6 puncte 2. ilustrarea, printr-un exemplu concret, a modului în care poate fi realizată dreptatea într-o anumită comunitate/societate(în situația în care candidatul tratează subiectul la nivel teoretic, fără a formula un exemplu concret, se acordă 1 punct din cele 4 puncte posibile) 4 puncte"
+    }
+  }
+}

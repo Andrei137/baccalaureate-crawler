@@ -1,0 +1,40 @@
+{
+  "subiectul_1": {
+    "subiect": {
+      "exercitiul_A": {
+        "enunt": "Pentru fiecare item scrieţi, pe foaia de examen, cifra corespunzătoare şi notaţi în dreptul ei litera răspunsului pe care îl apreciaţi ca fiind corect:",
+        "subpunctul_1": "Dacă un bijutier șlefuiește un diamant și îl montează pe un inel pentru uzul personal, atunci bijuteria este: a. o marfă de calitate b. un bun inițial c. o lucrare de artă d. un bun economic",
+        "subpunctul_2": "Piețele agroalimentare sunt piețe pe care se manifestă: a. o concurență perfectă c. un tip de oligopol omogen b. monopolul d. concurența monopolistică",
+        "subpunctul_3": "Productivitatea muncii nu este influențată de: a. calificarea muncitorilor c. organizarea producției b. progresul tehnic implementat d. cheltuielile materiale directe",
+        "subpunctul_4": "Diferența dintre dobânda încasată de bănci de la debitori și dobânda plătită de bănci celor ce își păstrează disponibilitățile bănești la ele este exprimată prin indicatorul economic: a. câștig bancar b. profit bancar c. dobândă activă d. dobândă pasivă",
+        "subpunctul_5": "Amortizarea este expresia valorică a: a. capitalului tehnic consumat c. cheltuielilor cu capitalul circulant b. capitalului fix consumat d. cheltuielilor cu factorul muncă",
+        "subpunctul_6": "În sens economic, proprietatea privată: a. implică exercitarea parţială a unor libertăți juridice b. este baza liberei inițiative în economia de piață c. constituie fundamentul economiei de comandă d. presupune drepturile de uzură, utilizare și uzufruct"
+      },
+      "exercitiul_B": {
+        "enunt": "Pentru fiecare enunț scrieţi, pe foaia de examen, cifra corespunzătoare şi notaţi în dreptul ei litera A, dacă apreciaţi că enunţul este adevărat, sau F, dacă apreciaţi că enunţul este fals:",
+        "subpunctul_1": "Utilitatea economică desemnează capacitatea unui bun de a satisface o anumită trebuintă.",
+        "subpunctul_2": "Venitul cumpărătorilor este unul din factorii care influenţează cererea.",
+        "subpunctul_3": "Activitatea de consum este considerată a fi raţională dacă sunt satisfăcute toate nevoile.",
+        "subpunctul_4": "La bursa de mărfuri se tranzacţionează mărfuri neomogene.",
+        "subpunctul_5": "În cazul unui bun cu cerere elastică, creşterea venitului obținut din vânzări este posibilă prin reducerea preţului unitar al bunului economic.",
+        "subpunctul_6": "Diminuarea risipei înlătură caracterul limitat al resurselor."
+      }
+    },
+    "barem": "A. câte 3 puncte pentru fiecare dintre cele 6 răspunsuri corecte, astfel: 1-d, 2-d, 3-d, 4-a, 5-b, 6-b 6x3p=18 puncte B. câte 2 puncte pentru fiecare dintre cele 6 răspunsuri corecte, astfel: 1-F, 2-A, 3-F, 4-F, 5-A, 6-F 6x2p=12 puncte"
+  },
+  "subiectul_2": {
+    "subiect": "1. Transcrieţi, pe foaia de examen, tabelul de mai jos: Moment Preţ (u.m./buc.) Cantitate cerută (buc.) Cantitate oferită (buc.) 1 5 2 10 3 20 4 30 a) Completaţi coloanele “Cantitate cerută” şi “Cantitate oferită” din tabelul dat, utilizând valori fictive, astfel încât acestea să respecte corelaţia dintre preţ şi cantitatea cerută, respectiv, dintre preţ şi cantitatea oferită. b) Construiți graficul cererii și al ofertei pe baza datelor înscrise în tabel. c) Calculaţi coeficientul de elasticitate a cererii în funcţie de preț între momentele 1 și 4, precizând totodată formula pe baza căreia aţi realizat calculul. d) Precizați tipul de elasticitate a ofertei în funcție de preț, pentru un coeficient de 2,8. 2. Se cunosc următoarele informații privind activitatea unei firme în anul T 0 : costuri fixe medii de 100 u.m./buc., costuri variabile de 20.000 u.m., dintre acestea 12.000 u.m. fiind cheltuieli materiale, iar prețul cu care firma vinde fiecare produs este de 200 u.m./buc. a) Precizați: - nivelul cheltuielilor care s-ar putea modifica odată cu modificarea producției; - cuantumul cheltuielilor cu capitalul circulant, suportate anual de firmă. b) Determinați, scriind algoritmul folosit pentru efectuarea calculelor şi precizând semnificația notațiilor din formulele utilizate: - nivelul producției din T 0 care situează firma la pragul minim de rentabilitate; - numărul de muncitori care trebuie angajați în perioada T 1 -T 2 , dacă producția ar crește la 1200 de buc. de la o cantitate produsă inițial de 900 de buc. și o productivitate a muncii constantă, de 60 de buc./muncitor.",
+    "barem": "1. a) câte 2 puncte pentru completarea fiecăreia dintre cele două coloane ale tabelului, conform cerinței 2x2p=4 puncte b) construirea graficului cerut: construirea corectă a graficului – 5p./ marcarea corectă doar a axelor graficului (preț și cantitate) – 2p. 5 puncte c) - precizarea formulei coeficientului de elasticitate a cererii în funcţie de preţ 4 puncte - calcularea coeficientului pentru situaţia cerută 2 puncte d) precizarea cerută: ofertă elastică 3 puncte 2. a) câte 3 puncte pentru precizarea fiecăruia dintre cei doi indicatori ceruți, astfel: - nivelul cheltuielilor care s-ar putea modifica odată cu modificarea producției este de 20.000 u.m.; - cuantumul cheltuielilor cu capitalul circulant, suportate anual de firmă este de 12.000 u.m. 2x3p=6 puncte b) - câte 5 puncte pentru scrierea algoritmului în vederea determinării fiecăruia dintre cei doi indicatori ceruți: algoritm complet în care se face precizarea semnificației notațiilor din formulele utilizate – 5p./ algoritm complet, dar fără a preciza semnificația notațiilor făcute – 4p./ precizarea corectă a tuturor formulelor de calcul, dar fără corelarea corectă a valorilor – 3p./ scrierea corectă doar a unor formule disparate, dar fără ca acestea să se constituie într-un algoritm de lucru – 2p. 2x5p=10 puncte - câte 3 puncte pentru precizarea valorilor determinate în cazul fiecăruia dintre cei doi indicatori ceruți, astfel: - nivelul producției este 200 buc.; - numărul de muncitori care trebuie angajați este 5 2x3p=6 puncte Notă: În situația în care candidatul nu obține valorile din barem din cauza unor erori de calcul se acordă 1 punct din cele 3 puncte posibile."
+  },
+  "subiectul_3": {
+    "subiect": {
+      "enunt": "Răspundeţi la fiecare dintre următoarele cerinţe:",
+      "exercitiul_1": "a) Formulați ideea principală a următorului text: Cotarea la bursă permite societăţilor să apeleze în mod considerabil la economisire recurgând la creşteri de capital, plasate publicului. Astfel marile societăţi au mai multe zeci, chiar mai multe sute de mii de acţionari, iar unele depăşesc chiar milionul. Această situaţie – derularea de operațiuni pe piața secundară a capitalurilor – permite lansarea unor proiecte vaste de investiţii. b) Enumerați patru noțiuni economice din textul dat la subpunctul a). c) Menționați câte o caracteristică pentru două dintre noțiunile enumerate la subpunctul b).",
+      "exercitiul_2": "Știind că modificările intervenite pe o anumită piață afectează și piețele corelate acesteia, precizați ce efect va avea creșterea numărului centralelor eoliene asupra cererii de energie electrică și a prețului kilowatt-ului."
+    },
+    "barem": {
+      "exercitiul_1": "a) formularea ideii principale a textului 2 puncte b) câte 1 punct pentru enumerarea oricăror patru noțiuni economice din textul dat 4x1p=4 puncte c) câte 3 puncte pentru menționarea oricărei caracteristici corecte pentru fiecare dintre cele două noțiuni 2x3p=6 puncte",
+      "exercitiul_2": "câte 4 puncte pentru precizarea efectelor cerute în condițiile date, astfel: cererea de energie electrică va rămâne constantă, prețul kilowatt-ului va scădea 2x4p=8 puncte"
+    }
+  }
+}

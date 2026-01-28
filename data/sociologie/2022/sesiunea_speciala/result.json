@@ -1,0 +1,37 @@
+{
+  "subiectul_1": {
+    "subiect": "Scrieţi pe foaia de examen litera corespunzătoare răspunsului corect, pentru fiecare dintre situaţiile de mai jos. Este corectă o singură variantă de răspuns. 1. Divorțul este un factor care determină apariția: a. familiei extinse b. familiei de origine c. familiei monoparentale d. familiei conjugale 2. În societatea tradițională, biserica a îndeplinit o funcție de: a. creștere economică b. rezolvare a problemelor morale c. instituție atipică d. planificare a distribuției resurselor 3. Partidele politice au ca scop specific să obțină: a. sancțiuni informale b. sancțiuni puternice c. puterea politică d. puterea aleatoare 4. Familia centrată preponderent pe producerea de bunuri în gospodărie pentru autoconsum este: a. familia tradițională b. familia modernă c. uniunea consensuală d. concubinajul 5. Subordonarea totală a cetățenilor față de stat este o caracteristică a statului: a. democratic b. totalitar c. autoritar d. de drept 6. Specific pentru activitatea ONG-urilor este că se bazează pe: a. munca involuntară b. munca voluntară c. munca post-voluntară d. munca forțată 7. În sociologie, familia este considerată un agent de socializare important în: a. socializarea negativă b. educația secundară c. socializarea primară d. educația formală 8. Statul democratic, în îndeplinirea atribuțiilor sale: a. permite faptele antisociale fără să le sancționeze b. permite respectarea interesului ilicit c. promovează principiul inegalității de șanse d. promovează respectarea drepturilor omului 9. ONG-urile îndeplinesc funcția de: a. mediere între cetățeni și guvernanți b. mediere între sacru și profan c. mediere între celibatari d. mediere între funcționarii statului 10. Școala, ca agent de socializare, deține funcția de: a. reproducere biologică a naturii b. reproducere socială a culturii c. reproducere fidelă a dezinformării d. reproducere mecanică a informației",
+    "barem": "câte 3 puncte pentru fiecare răspuns corect, astfel: 1-c, 2-b, 3-c, 4-a, 5-b, 6-b, 7-c, 8-d, 9-a, 10-b 10x3p= 30 puncte"
+  },
+  "subiectul_2": {
+    "subiect": {
+      "exercitiul_A": "În coloana din stânga sunt enumerate aspecte metodologice ale cercetării sociologice, iar în coloana din dreapta sunt numerotate enunţuri adevărate referitoare la acestea. Scrieţi pe foaia de examen asocierile corecte dintre fiecare literă din coloana din stânga şi cifra corespunzătoare din coloana din dreapta.",
+      "exercitiul_a": "Ancheta sociologică",
+      "exercitiul_b": "Experimentul sociologic",
+      "exercitiul_c": "Observația structurată",
+      "exercitiul_d": "Interviul 1. Este o tehnică de cercetare bazată pe diverse tipuri de întrebări adresate verbal. 2. Este o metodă care ne permite să studiem atât fenomenele prezente, cât și pe cele din trecut. 3. Este o metodă de cercetare ce presupune determinarea unei reacții, observarea și măsurarea ei, într-un mediu controlat, fără interferențe din exterior. 4. Este o metodă de cercetare bazată pe tehnici interogative. 5. Este o metodă de investigare calitativă a fenomenelor sociale, care permite utilizarea grilei de observație.",
+      "exercitiul_B": "Citiți, cu atenție, textul de mai jos: Formarea personalităţii este rezultatul unui proces complex de socializare, în care interacţionează factori personali, de mediu şi culturali. Socializarea, în sens larg, înseamnă a transforma un individ dintr-o fiinţă asocială într-o fiinţă socială, inoculându-i moduri de gândire, simţire, comportare. Organismul biologic este transformat, astfel, într-o fiinţă socială capabilă să acţioneze împreună cu alţii. Interiorizarea normelor şi valorilor permite însuşirea regulilor sociale, exterioare individului, şi creşterea coeziunii grupului prin integrare. Pornind de la textul dat, răspundeți următoarelor cerințe: 1. Formulați ideea principală a textului. 2. Explicaţi, în aproximativ o jumătate de pagină, modul specific în care interacţionează două concepte sociologice la care face referire textul. 3. Construiţi un argument care să confirme sau să infirme ipoteza potrivit căreia învăţarea este o modificare permanentă a comportamentului, care rezultă din experienţele pe care le trăieşte individul. 4. Prezentaţi un punct de vedere personal referitor la influența grupului de egali asupra socializării secundare a individului."
+    },
+    "barem": {
+      "exercitiul_A": "câte 3 puncte pentru fiecare asociere corectă, astfel: a-4 b-3 c-5 d-1 4x3p=12 puncte",
+      "exercitiul_B": "1. formularea ideii principale a textului 2 puncte 2. - câte 1 punct pentru menționarea fiecăruia dintre cele două concepte sociologice la care face referire textul 2x1p=2 puncte - explicarea modului specific în care interacţionează conceptele menționate 4 puncte - coerenţa textului redactat 2 puncte - încadrarea în limita de spaţiu precizată 2 puncte 3. construirea unui argument care să confirme sau să infirme ipoteza dată 3 puncte 4. prezentarea unui punct de vedere personal referitor la influența grupului de egali asupra socializării secundare a individului 3 puncte"
+    }
+  },
+  "subiectul_3": {
+    "subiect": {
+      "enunt": "Răspundeţi fiecăreia dintre următoarele cerinţe:",
+      "exercitiul_1": "Precizaţi înțelesul noţiunii de status.",
+      "exercitiul_2": "Menționați două caracteristici ale rolului așteptat (prescris).",
+      "exercitiul_3": "Evidenţiaţi o corelaţie existentă între termenii grup informal şi relații interpersonale, redactând un text coerent, de o jumătate de pagină, în care să îi utilizaţi în sensul specific sociologiei.",
+      "exercitiul_4": "Ilustraţi, printr-un exemplu concret, modul în care grupul de apartenență poate influența practicarea unor comportamente dezirabile social.",
+      "exercitiul_5": "Argumentaţi, în aproximativ zece rânduri, afirmația potrivit căreia climatul psihosocial al grupului determină coeziunea grupului."
+    },
+    "barem": {
+      "exercitiul_1": "precizarea înţelesului noţiunii de status 4 puncte",
+      "exercitiul_2": "câte 3 puncte pentru menţionarea oricăror două caracteristici ale rolului așteptat (prescris) 2x3p= 6 puncte",
+      "exercitiul_3": "- câte 1 punct pentru utilizarea fiecăruia dintre termenii daţi în sensul specific sociologiei 2x1p= 2 puncte - evidenţierea unei corelaţii existente între termenii daţi 4 puncte - coerenţa textului redactat 2 puncte - încadrarea în limita de spaţiu precizată 2 puncte",
+      "exercitiul_4": "ilustrarea, printr-un exemplu concret, a modului în care grupul de apartenență poate influența practicarea unor comportamente dezirabile social 4 puncte",
+      "exercitiul_5": "- argumentarea afirmaţiei potrivit căreia climatul psiho-social al grupului determină coeziunea grupului 4 puncte - încadrarea în limita de spaţiu precizată 2 puncte"
+    }
+  }
+}

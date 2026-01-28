@@ -1,0 +1,49 @@
+{
+  "subiectul_1": {
+    "subiect": {
+      "enunt": "Pentru fiecare dintre următorii itemi, scrieți, pe foaia de examen, doar cifra corespunzătoare și notați în dreptul ei doar litera asociată răspunsului corect. Este corectă o singură variantă de răspuns.",
+      "exercitiul_1": "Dacă, potrivit afirmației lui J. P. Sartre, existența precede esența, atunci: a. natura umană este configurată dinainte b. nu se pune problema responsabilității c. nu există natură umană dată d. anumite trăsături sunt definitorii pentru om",
+      "exercitiul_2": "Etica eudaimonistă, respectiv etica hedonistă, sunt etici: a. aplicate c. teleologice b. deontologice d. estetice",
+      "exercitiul_3": "O problemă specifică abordată de etică aplicată este: a. eutanasia c. frumosul b. adevărul d. datoria",
+      "exercitiul_4": "Asigurarea libertății negative presupune: a. constrângerea din partea statului b. intervenția masivă a statului în viața individuală c. subordonarea indivizilor de către stat d. restrângerea intervenției statului la nivel minim",
+      "exercitiul_5": "Potrivit lui L. Blaga, sensul vieții constă în: a. existența în imediat b. instinctul de supraviețuire c. destinul creator d. sentimentul securității",
+      "exercitiul_6": "Potrivit filosofilor contractualiști, trecerea de la starea naturală la starea socială are la bază: a. contractul de vânzare-cumpărare b. contractul matrimonial c. contractul social d. contractul de muncă",
+      "exercitiul_7": "Etica aplicată abordează probleme: a. certe c. controversate b. de principiu d. soluționate",
+      "exercitiul_8": "Pentru J. St. Mill, fundamentul moralei constă în: a. utilitate c. datorie b. înțelepciune d. rațiune",
+      "exercitiul_9": "Potrivit eticii deontologice kantiene, se consideră că o acțiune are valoare morală dacă: a. este un demers inductiv b. produce satisfacție senzorială c. este guvernată de imperativul categoric d. este dominată de instincte",
+      "exercitiul_10": "Potrivit filosofiei existențialiste, libertatea absolută este asociată cu: a. frumosul absolut b. legea absolută c. responsabilitatea absolută d. utilitatea absolută"
+    },
+    "barem": "câte 3 puncte pentru fiecare răspuns corect, astfel: 1-c, 2-c, 3-a, 4-d, 5-c, 6-c, 7-c, 8-a, 9-c, 10-c 10x3p= 30 puncte"
+  },
+  "subiectul_2": {
+    "subiect": {
+      "exercitiul_A": "Analizaţi, într-o pagină, problematica raportului existent între puterea politică și libertatea individuală, din perspectivă filosofică. Punctajul se acordă pentru: a) numirea unui filosof care, în scrierile sale, a făcut referire la problematica raportului existent între puterea politică și libertatea individuală 1 punct b) precizarea explicită a tezei/ideii filosofice despre raportul existent între puterea politică și libertatea individuală c) explicarea unei teze/idei filosofice, precizată explicit la subpunctul b) d) ilustrarea tezei/ideii filosofice pe care aţi precizat-o, printr-un exemplu concret de situaţie din societatea contemporană e) menţionarea unei consecinţe, în plan social, asupra funcţionării unui regim democratic, în cazul în care nu este respectată egalitatea în fața legii 1 punct f) utilizarea adecvată a limbajului de specialitate 1 punct g) încadrarea în limita de spațiu precizată 1 punct",
+      "exercitiul_B": "Argumentați în favoarea sau împotriva tezei potrivit căreia: ,,Astfel, scopul principal și important urmărit de oamenii care se unesc în comunități și se supun ei înșiși unei cârmuiri este conservarea proprietății lor, în privința căreia starea naturală cunoaște multe neajunsuri”. (J. Locke)",
+      "exercitiul_C": "Ilustrați, printr-un exemplu concret, rolul/importanța raportului dintre libertate și constrângeri, în societatea contemporană."
+    },
+    "barem": {
+      "exercitiul_A": "a) numirea unui filosof care, în scrierile sale, a făcut referire la problematica raportului existent între puterea politică și libertatea individuală 1 punct b) precizarea explicită a tezei cerute 2 puncte c) explicarea tezei/ideii filosofice precizată explicit la subpunctul b): explicare adecvată -6p./ explicare superficială, neconvingătoare -2p. 6 puncte d) ilustrarea tezei/ideii filosofice precizată, printr-un exemplu concret de situaţie din societatea contemporană (în situația în care candidatul tratează subiectul la nivel teoretic, fără a formula un exemplu concret, se acordă 1 punct din cele 4 puncte posibile) 4 puncte e) menţionarea unei consecinţe, în plan social, asupra funcţionării unui regim democratic, în cazul în care nu este respectată egalitatea în fața legii 1 punct f) utilizarea adecvată a limbajului de specialitate 1 punct g) încadrarea în limita de spațiu precizată (1pagină ± ¼ pagină) 1 punct",
+      "exercitiul_B": "argumentarea în favoarea sau împotriva tezei date: argumentare convingătoare cu respectarea structurii formale a argumentării (premisă, conectori logici, concluzie) -8p./ argumentare convingătoare fără respectarea structurii formale a argumentării (premisă, conectori logici, concluzie) -6p /argumentare neconvingătoare, superficială -3p. 8 puncte",
+      "exercitiul_C": "ilustrarea cerută: scrierea oricărui exemplu concret, adecvat -6p/ scrierea unei explicații corecte, dar la nivel teoretic, fără însă a formula un exemplu concret -2p. 6 puncte"
+    }
+  },
+  "subiectul_3": {
+    "subiect": {
+      "exercitiul_A": {
+        "enunt": "Citiți, cu atenție, textul de mai jos: ”Fie un om dibaci în arta flautului, însă mult mai puțin distins ca naștere și frumusețe, calități care sunt considerate fiecare în parte mult mai prețioase decât talentul de a cânta din flaut și în aceste privințe - noblețe și frumusețe – rivalii săi îl întrec cu mult mai mult decât îi întrece el ca flautist; susțin că numai lui trebuie să i se dea instrumentul cel mai bun. (...) Deoarece egalitatea și neegalitatea completă sunt nedrepte între indivizi care nu sunt egali or neegali decât într-o singură privință, toate constituțiile în care egalitatea și neegalitatea sunt întemeiate pe baze de felul acesta sunt în mod necesar corupte.” (Aristotel, Politica)",
+        "subpunctul_1": "Formulați, pe baza textului dat, teza lui Aristotel referitoare la egalitate.",
+        "subpunctul_2": "Explicați, în aproximativ o jumătate de pagină, o corelație existentă între termenii dreptate și egalitate, utilizând termenii menționați în sens filosofic. Punctajul se acordă pentru: a) utilizarea fiecăruia dintre cei doi termeni daţi în sens filosofic b) explicarea corelaţiei existente între termenii dați c) coerenţa textului redactat 1punct d) încadrarea în limita de spaţiu precizată 1punct",
+        "subpunctul_3": "Argumentați un punct de vedere personal referitor la actualitatea perspectivei filosofice din textul dat."
+      },
+      "exercitiul_B": {
+        "enunt": "Știind că numai omul are o structură unică, indestructibilă și proprie, dată de conștiința de sine:",
+        "subpunctul_1": "Menționați două caracteristici ale omului din perspectivă filosofică.",
+        "subpunctul_2": "Construiți un argument care să justifice ideea potrivit căreia filosofia poate contribui la dezvoltarea atitudinii critice a unui adolescent față de natura umană."
+      }
+    },
+    "barem": {
+      "exercitiul_A": "1. formularea, pe baza textului dat, a tezei lui Aristotel referitoare la egalitate 4 puncte 2.a) câte 1 punct pentru utilizarea fiecăruia dintre cei doi termeni daţi în sens filosofic 2x1p= 2 puncte b) explicarea corelaţiei existente între termenii dați: explicare adecvată -6p/explicare superficială, neconvingătoare -2p. 6 puncte c) coerenţa textului redactat 1punct d) încadrarea în limita de spaţiu precizată(1/2 pagină± 2 rânduri) 1punct 3. argumentarea punctului de vedere personal cerut: argumentare convingătoare -6p./ argumentare neconvingătoare, superficială – 2p 6 puncte",
+      "exercitiul_B": "1. câte 2 puncte pentru menționarea oricăror două caracteristici ale omului din perspectivă filosofică 2x2p= 4 puncte 2. construirea argumentului cerut: construirea unui argument cu respectarea structurii formale a argumentării (premisă, conectori logici, concluzie) -6p./ construirea unui argument fără respectarea structurii formale a argumentării (premisă, conectori logici, concluzie) -2p 6 puncte"
+    }
+  }
+}

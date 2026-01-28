@@ -1,0 +1,59 @@
+{
+  "subiectul_1": {
+    "subiect": {
+      "exercitiul_A": "Scrieţi, pe foaia de examen, noţiunile cu care trebuie să completaţi spaţiile libere din afirmaţia următoare, astfel încât aceasta să fie corectă. Venele cave se deschid în atriul ............ al inimii şi transportă sânge ............ .",
+      "exercitiul_B": "Numiţi două disfuncții endocrine; asociaţi fiecare disfuncție endocrină cu câte o caracteristică.",
+      "exercitiul_C": {
+        "enunt": "Scrieţi, pe foaia de examen, litera corespunzătoare răspunsului corect. Este corectă o singură variantă de răspuns.",
+        "subpunctul_1": "Carpienele şi metacarpienele aparţin scheletului: a) capului b) membrului superior c) membrului inferior d) trunchiului",
+        "subpunctul_2": "Sternocleidomastoidienii sunt muşchi scheletici care aparțin: a) abdomenului b) capului c) gâtului d) toracelui",
+        "subpunctul_3": "Ovarele şi testiculele: a) secretă hormoni b) sunt căi genitale c) sunt gameţi d) sunt localizate în torace",
+        "subpunctul_4": "Unul dintre hormonii secretați de hipofiză este: a) adrenalina b) insulina c) prolactina d) tiroxina",
+        "subpunctul_5": "Ficatul: a) degradează lipidele cu ajutorul lipazelor b) este localizat în cavitatea toracică c) participă la digestia gastrică a glucidelor d) secretă un suc digestiv lipsit de enzime"
+      },
+      "exercitiul_D": {
+        "enunt": "Citiţi, cu atenţie, afirmaţiile următoare. Dacă apreciaţi că afirmaţia este adevărată, scrieţi, pe foaia de examen, în dreptul cifrei corespunzătoare afirmaţiei, litera A. Dacă apreciaţi că afirmaţia este falsă, scrieţi, pe foaia de examen, în dreptul cifrei corespunzătoare afirmaţiei, litera F şi modificaţi parţial afirmaţia pentru ca aceasta să devină adevărată. Nu se acceptă folosirea negaţiei.",
+        "subpunctul_1": "Celulele cu bastonaşe au rol în deosebirea culorilor.",
+        "subpunctul_2": "În procesul de eliminare, urina trece din uretere în vezica urinară.",
+        "subpunctul_3": "Pepsina face parte din compoziția chimică a sucului pancreatic."
+      }
+    },
+    "barem": {
+      "exercitiul_A": "Se acordă câte 2p. pentru fiecare noţiune corectă. 2 x 2p.= 4 puncte",
+      "exercitiul_B": "- numirea a două disfuncții endocrine; 2 x 1p.= 2 puncte - asocierea fiecărei disfuncții endocrine cu câte o caracteristică. 2 x 2p.= 4 puncte",
+      "exercitiul_C": "Se acordă câte 2p. pentru fiecare răspuns corect: 1b; 2c; 3a; 4c; 5d. 5 x 2p.= 10 puncte",
+      "exercitiul_D": "Se acordă câte 2p. pentru fiecare răspuns corect: 1F; 2A; 3F. 3 x 2p.= 6 puncte Se acordă câte 2p. pentru modificarea corectă a fiecărei afirmaţii false. 2 x 2p.= 4 puncte"
+    }
+  },
+  "subiectul_2": {
+    "subiect": {
+      "exercitiul_A": {
+        "enunt": "ADN-ul şi ARN-ul reprezintă materialul genetic al eucariotelor.",
+        "subpunctul_a": "Precizaţi o asemănare şi o deosebire între funcţia autocatalitică şi funcţia heterocatalitică ale ADN-ului.",
+        "subpunctul_b": "Sinteza unei proteine din plasma sanguină se realizează pe baza informaţiei unui fragment de ADN bicatenar, alcătuit din 90 nucleotide, dintre care 16 conţin guanină. Stabiliţi următoarele: - numărul nucleotidelor cu adenină conţinute de fragmentul de ADN bicatenar (scrieţi toate etapele necesare rezolvării acestei cerinţe); - numărul legăturilor duble şi al legăturilor triple din fragmentul de ADN bicatenar; - secvenţa de nucleotide din catena de ADN 5’-3’ complementară, ştiind că, pe catena 3’-5’, secvenţa de nucleotide este următoarea: TCCAGG.",
+        "subpunctul_c": "Completaţi problema de la punctul b) cu o altă cerinţă pe care o formulaţi voi, folosind informaţii ştiinţifice specifice biologiei; rezolvaţi cerinţa pe care aţi propus-o."
+      },
+      "exercitiul_B": {
+        "enunt": "Pacientul unui spital are nevoie de transfuzie cu o cantitate mică de sânge. Ştiind că pacientul are grupa sanguină A și Rh negativ, precizaţi următoarele:",
+        "subpunctul_a": "două exemple de grupe sanguine ale unor potenţiali donatori pentru acest pacient; motivaţi răspunsul dat;",
+        "subpunctul_b": "aglutinogenele/antigenele caracteristice grupei sanguine a pacientului;",
+        "subpunctul_c": "consecinţa în cazul transfuziei cu sânge provenit de la un donator incompatibil din punctul de vedere al sistemului Rh.",
+        "subpunctul_d": "Completaţi această problemă cu o altă cerinţă pe care o formulaţi voi, folosind informaţii ştiinţifice specifice biologiei; rezolvaţi cerinţa pe care aţi propus-o."
+      }
+    },
+    "barem": {
+      "exercitiul_A": "a) precizarea unei asemănări şi a unei deosebiri între funcţia autocatalitică şi funcţia heterocatalitică ale ADN-ului; 2 x 2p.= 4 puncte b) - numărul de nucleotide cu adenină conţinute de fragmentul de ADN bicatenar – etapele rezolvării: - stabilirea numărului de nucleotide care conţin citozină (16); 1 punct - stabilirea numărului de nucleotide care conţin citozină + guanină (32); 1 punct - stabilirea numărului de nucleotide care conţin adenină + timină (58); 1 punct - stabilirea numărului de nucleotide care conţin adenină (29); 1 punct - numărul legăturilor duble din fragmentul de ADN bicatenar (29); 2 puncte - numărul legăturilor triple din fragmentul de ADN bicatenar (16); 2 puncte - secvenţa de nucleotide din catena de ADN 5’-3’ complementară: AGGTCC. 2 puncte Notă Pentru raţionamentul corect, neînsoţit de calcule, se acordă jumătate din punctajul repartizat etapelor calculării numărului de nucleotide cu adenină. c) - formularea cerinţei; 2 puncte - rezolvarea cerinţei. 2 puncte",
+      "exercitiul_B": "a) două exemple de grupe sanguine ale unor potenţiali donatori pentru acest pacient; 2 x 1p.= 2 puncte - motivarea corectă; 2 puncte b) aglutinogenele/antigenele caracteristice grupei sanguine a pacientului; 2 puncte c) consecinţa în cazul transfuziei cu sânge provenit de la un donator incompatibil din punctul de vedere al sistemului Rh. 2 puncte d) formularea cerinţei; 2 puncte - rezolvarea cerinţei. 2 puncte"
+    }
+  },
+  "subiectul_3": {
+    "subiect": {
+      "exercitiul_1": "Una dintre funcțiile vitale ale organismului este respirația. a) Precizați numele unei afecțiuni respiratorii și două măsuri de prevenire a acestei afecțiuni. b) Scrieţi un argument în favoarea afirmaţiei următoare: „Diafragma are rol în realizarea ventilației pulmonare”. c) Construiţi patru enunţuri afirmative, câte două pentru fiecare conţinut, utilizând limbajul ştiinţific adecvat. Folosiţi, în acest scop, informaţii referitoare la următoarele conţinuturi: - Schimbul de gaze la nivel pulmonar. - Capacitatea vitală.",
+      "exercitiul_2": "La realizarea funcțiilor de relație ale organismului uman participă sistemul nervos, analizatorii, glandele endocrine, sistemele osos și muscular. Din punct de vedere funcțional, sistemul nervos se clasifică în somatic și vegetativ. a) Precizați o asemănare și o deosebire între sistemul nervos somatic și sistemul nervos vegetativ. b) Explicaţi rolul segmentului periferic al unui analizator. c) Alcătuiţi un minieseu intitulat „Căile de conducere medulare ascendente”, folosind informaţia ştiinţifică adecvată. În acest scop, respectaţi următoarele etape: - enumerarea a şase noţiuni specifice acestei teme; - construirea, cu ajutorul acestora, a unui text coerent, format din maximum trei-patru fraze, folosind corect şi în corelaţie noţiunile enumerate."
+    },
+    "barem": {
+      "exercitiul_1": "14 puncte a) precizarea: - numelui unei afecțiuni respiratorii; 1 punct - a două măsuri de prevenire a acestei afecțiuni. 2 x 1p.= 2 puncte b) scrierea unui argument; 3 puncte c) construirea a patru enunţuri afirmative, utilizând limbajul ştiinţific adecvat, folosind, în acest scop, informaţii referitoare la conţinuturile indicate. 4 x 2p. = 8 puncte",
+      "exercitiul_2": "16 puncte a) precizarea unei asemănări și a unei deosebiri între sistemul nervos somatic și sistemul nervos vegetativ; 2 x 2p.= 4 puncte b) explicarea corectă; 2 puncte c) alcătuirea minieseului, folosindu-se informaţia ştiinţifică adecvată, respectându-se cerinţele: - pentru fiecare noţiune enumerată, specifică temei, se acordă câte 1p. 6 x 1p.= 6 puncte - pentru coerenţa textului, de maximum trei-patru fraze, în alcătuirea căruia fiecare noţiune este folosită corect, în corelaţie cu celelalte noţiuni, se acordă 4 p. 4 puncte"
+    }
+  }
+}

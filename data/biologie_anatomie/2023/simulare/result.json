@@ -1,0 +1,59 @@
+{
+  "subiectul_1": {
+    "subiect": {
+      "exercitiul_A": "Scrieţi, pe foaia de examen, noţiunile cu care trebuie să completaţi spaţiile libere din afirmaţia următoare, astfel încât aceasta să fie corectă. Nefrita, glomerulonefrita și ............ sunt afecţiuni ale sistemului ............. .",
+      "exercitiul_B": "Numiţi doi hormoni hipofizari. Asociați fiecare hormon numit cu câte un efect al acestuia.",
+      "exercitiul_C": {
+        "enunt": "Scrieţi, pe foaia de examen, litera corespunzătoare răspunsului corect. Este corectă o singură variantă de răspuns.",
+        "subpunctul_1": "Entorsele sunt afecțiuni ale sistemului: a) circulator b) muscular c) osos d) nervos",
+        "subpunctul_2": "Metacarpienele sunt oase ale scheletului: a) capului b) membrului inferior c) membrului superior d) trunchiului",
+        "subpunctul_3": "În procesul de eliminare, urina din vezica urinară trece în: a) calice b) nefron c) ureter d) uretră",
+        "subpunctul_4": "Sângele oxigenat de la plămâni ajunge în atriul stâng al inimii prin: a) artera aortă b) artera pulmonară c) venele cave d) venele pulmonare",
+        "subpunctul_5": "Receptorii vizuali: a) constituie segmentul intermediar al analizatorului vizual b) reacționează la stimuli de natură chimică c) reprezintă locul formării senzaţiei vizuale d) sunt celulele cu bastonaşe şi celulele cu conuri"
+      },
+      "exercitiul_D": {
+        "enunt": "Citiţi, cu atenţie, afirmaţiile următoare. Dacă apreciaţi că afirmaţia este adevărată, scrieţi, pe foaia de examen, în dreptul cifrei corespunzătoare afirmaţiei, litera A. Dacă apreciaţi că afirmaţia este falsă, scrieţi, pe foaia de examen, în dreptul cifrei corespunzătoare afirmaţiei, litera F şi modificaţi parţial afirmaţia pentru ca aceasta să devină adevărată. Nu se acceptă folosirea negaţiei.",
+        "subpunctul_1": "Prostata este glandă anexă a sistemului reproducător feminin.",
+        "subpunctul_2": "În timpul inspirației, diafragma se contractă.",
+        "subpunctul_3": "Croitorul este unul dintre mușchii scheletici ai membrului superior."
+      }
+    },
+    "barem": {
+      "exercitiul_A": "Se acordă câte 2p. pentru fiecare noţiune corectă. 2 x 2p.= 4 puncte",
+      "exercitiul_B": "- numirea a doi hormoni hipofizari; 2 x 1p.= 2 puncte - asocierea fiecărui hormon numit cu câte un efect al acestuia. 2 x 2p.= 4 puncte",
+      "exercitiul_C": "Se acordă câte 2p. pentru fiecare răspuns corect: 1c; 2c; 3d; 4d; 5d. 5 x 2p.= 10 puncte",
+      "exercitiul_D": "Se acordă câte 2p. pentru fiecare răspuns corect: 1F; 2A; 3F. 3 x 2p.= 6 puncte Se acordă câte 2p. pentru modificarea corectă a fiecărei afirmaţii false. 2 x 2p.= 4 puncte"
+    }
+  },
+  "subiectul_2": {
+    "subiect": {
+      "exercitiul_A": {
+        "enunt": "Celulele eucariote conţin ADN şi mai multe tipuri de ARN: ribozomal, mesager, de transfer/de transport, nuclear mic.",
+        "subpunctul_a": "Precizaţi o asemănare şi o deosebire între ADN și ARN-ul de transfer/de transport.",
+        "subpunctul_b": "Sinteza unei proteine cu rol în contracția musculară se realizează pe baza informaţiei unui fragment de ADN bicatenar, alcătuit din 544 nucleotide, dintre care 88 conţin timină. Stabiliţi următoarele: - numărul nucleotidelor cu guanină conţinute de fragmentul de ADN bicatenar (scrieţi toate etapele necesare rezolvării acestei cerinţe); - numărul legăturilor duble şi al legăturilor triple din fragmentul macromoleculei de ADN bicatenar; - secvenţa de nucleotide din catena de ADN 5’-3’ complementară, ştiind că, pe catena 3’-5’, secvenţa de nucleotide este următoarea: GGCGAT.",
+        "subpunctul_c": "Completaţi problema de la punctul b) cu o altă cerinţă pe care o formulaţi voi, folosind informaţii ştiinţifice specifice biologiei; rezolvaţi cerinţa pe care aţi propus-o."
+      },
+      "exercitiul_B": {
+        "enunt": "Pacientul unui spital are nevoie de transfuzie cu o cantitate mică de sânge. Având în vedere faptul că pacientul are grupa de sânge B, precizaţi următoarele:",
+        "subpunctul_a": "antigenul/aglutinogenul și anticorpul/aglutinina din sângele acestui pacient;",
+        "subpunctul_b": "două exemple de grupe de sânge ale unor potenţiali donatori pentru acest pacient; motivaţi răspunsul dat;",
+        "subpunctul_c": "consecinţa în cazul transfuziei cu sânge provenit de la un donator incompatibil din punctul de vedere al sistemului ABO.",
+        "subpunctul_d": "Completaţi această problemă cu o altă cerinţă pe care o formulaţi voi, folosind informaţii ştiinţifice specifice biologiei; rezolvaţi cerinţa pe care aţi propus-o."
+      }
+    },
+    "barem": {
+      "exercitiul_A": "a) precizarea unei asemănări și a unei deosebiri între ADN și ARN-ul de transfer/de transport; 2 x 2p.= 4 puncte b) - numărul de nucleotide cu guanină conţinute de fragmentul de ADN bicatenar - etapele rezolvării: - stabilirea numărului de nucleotide care conţin adenină (88); 1 punct - stabilirea numărului de nucleotide care conţin adenină + timină (176); 1 punct - stabilirea numărului de nucleotide care conţin citozină + guanină (368); 1 punct - stabilirea numărului de nucleotide care conţin guanină (184); 1 punct - numărul legăturilor duble din fragmentul de ADN bicatenar (88); 2 puncte - numărul legăturilor triple din fragmentul de ADN bicatenar (184); 2 puncte - secvenţa de nucleotide din catena de ADN 5’-3’ complementară: CCGCTA. 2 puncte Notă Pentru raţionamentul corect, neînsoţit de calcule, se acordă jumătate din punctajul repartizat etapelor calculării numărului de nucleotide cu guanină. c) - formularea cerinţei; 2 puncte - rezolvarea cerinţei. 2 puncte",
+      "exercitiul_B": "a) antigenul/aglutinogenul și anticorpul/aglutinina din sângele pacientului spitalului; 2 x 1p.= 2 puncte b) două exemple de grupe de sânge ale unor potenţiali donatori pentru acest pacient; 2 x 1p.= 2 puncte - motivarea răspunsului dat; 2 puncte c) consecinţa în cazul transfuziei cu sânge provenit de la un donator incompatibil din punctul de vedere al sistemului ABO; 2 puncte d) formularea cerinţei; 2 puncte - rezolvarea cerinţei. 2 puncte"
+    }
+  },
+  "subiectul_3": {
+    "subiect": {
+      "exercitiul_1": "Una dintre funcţiile fundamentale ale organismului uman este digestia. Cariile dentare sunt un exemplu de afecţiuni digestive. a) Numiţi alte trei afecţiuni digestive. b) Explicați rolul bilei în digestia lipidelor. c) Construiţi patru enunţuri afirmative, câte două pentru fiecare conţinut, utilizând limbajul ştiinţific adecvat. Folosiţi, în acest scop, informaţii referitoare la următoarele conţinuturi: - Produșii finali ai digestiei - Transformările fizico-chimice ale alimentelor în cavitatea bucală",
+      "exercitiul_2": "Funcţiile de relaţie ale organismului uman se realizează cu participarea analizatorilor, a glandelor endocrine și a sistemelor: nervos, muscular, osos. a) Precizaţi un segment al analizatorului cutanat şi rolul îndeplinit de segmentul respectiv. b) Scrieţi un argument în favoarea afirmaţiei următoare: „Acromegalia este o disfuncție endocrină”. c) Alcătuiţi un minieseu intitulat „Funcția de conducere a sistemului nervos somatic”, folosind informaţia ştiinţifică adecvată. În acest scop, respectaţi următoarele etape: - enumerarea a şase noţiuni specifice acestei teme; - construirea, cu ajutorul acestora, a unui text coerent, format din maximum trei-patru fraze, folosind corect şi în corelaţie noţiunile enumerate."
+    },
+    "barem": {
+      "exercitiul_1": "14 puncte a) numirea altor trei afecţiuni digestive; 3 x 1p.= 3 puncte b) explicarea corectă; 3 puncte c) construirea a patru enunţuri afirmative, utilizând limbajul ştiinţific adecvat, folosind, în acest scop, informaţii referitoare la conţinuturile indicate. 4 x 2p. = 8 puncte",
+      "exercitiul_2": "16 puncte a) precizarea: - unui segment al analizatorului cutanat; 1 punct - rolului îndeplinit de segmentul respectiv; 2 puncte b) scrierea unui argument; 3 puncte c) alcătuirea minieseului, folosindu-se informaţia ştiinţifică adecvată, respectându-se cerinţele: - pentru fiecare noţiune enumerată, specifică temei, se acordă câte 1p.; 6 x 1p.= 6 puncte - pentru coerenţa textului, în alcătuirea căruia fiecare noţiune este folosită corect, în corelaţie cu celelalte noţiuni, se acordă 2 p. 2 puncte - pentru respectarea lungimii textului - maxim trei-patru fraze - se acordă 2 p. 2 puncte"
+    }
+  }
+}

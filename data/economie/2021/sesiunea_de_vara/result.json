@@ -1,0 +1,40 @@
+{
+  "subiectul_1": {
+    "subiect": {
+      "exercitiul_A": {
+        "enunt": "Pentru fiecare item scrieţi, pe foaia de examen, cifra corespunzătoare şi notaţi în dreptul ei litera răspunsului pe care îl apreciaţi ca fiind corect:",
+        "subpunctul_1": "Piața legumelor/fructelor pentru fabricile de conserve este o piață: a. de monopol b. cu concurență perfectă c. cu concurență monopolistică d. de oligopson",
+        "subpunctul_2": "Dacă cererea nu se modifică și oferta scade, cantitatea vândută: a. se mărește sensibil b. rămâne constantă c. se diminuează d. fluctuează",
+        "subpunctul_3": "Noțiunea utilitate economică se referă la: a. concurența dintre agenții economici c. uzura capitalului fix utilizat b. aprecierea subiectivă a produsului d. progresul factorilor de producție",
+        "subpunctul_4": "Producătorii ar dori să își vândă produsele la prețuri cât mai mari, iar consumatorii să le cumpere la prețuri cât mai mici. Această situație este rezolvată în economia de piață prin: a. legislația referitoare la tehnologia de producție b. intervenția statului, prin planificare centralizată c. concurența dintre agenții economici d. politica economică național-protecționistă",
+        "subpunctul_5": "Existența unui deficit bugetar la nivelul economiei impune următoarea măsură dictată de Banca Centrală pentru reglarea masei monetare: a. majorarea masei monetare b. diminuarea masei bănești în circulație c. reducerea ofertei de bani d. micșorarea câștigurilor băncilor comerciale",
+        "subpunctul_6": "În situaţia unor elemente de capital fix a căror durată de utilizare este de doi ani, în primul an: a. valoarea capitalului circulant consumat este mai mică decât cea a capitalului circulant utilizat b. valoarea capitalului fix consumat este mai mică decât valoarea capitalului fix utilizat c. valoarea capitalului consumat este egală cu valoarea capitalului utilizat d. valoarea capitalului fix consumat este egală cu valoarea capitalului circulant folosit"
+      },
+      "exercitiul_B": {
+        "enunt": "Pentru fiecare enunț scrieţi, pe foaia de examen, cifra corespunzătoare şi notaţi în dreptul ei litera A, dacă apreciaţi că enunţul este adevărat, sau F, dacă apreciaţi că enunţul este fals:",
+        "subpunctul_1": "Este marfă un bun existent în cantităţi nelimitate.",
+        "subpunctul_2": "Cererea poate fi elastică în funcţie de preţ şi de venit.",
+        "subpunctul_3": "Piaţa este o noţiune strict geografică.",
+        "subpunctul_4": "Deciziile de producţie ale ofertanţilor unui bun sunt influenţate exclusiv de nivelul preţului pieţei acelui bun.",
+        "subpunctul_5": "Concurenţa se realizează numai între agenţii economici consumatori.",
+        "subpunctul_6": "Pe piața cu concurență perfectă se tranzacţionează mărfuri omogene."
+      }
+    },
+    "barem": "A. câte 3 puncte pentru fiecare dintre cele 6 răspunsuri corecte, astfel: 1-d, 2-c, 3-b, 4-c, 5-a, 6-b 6x3p=18 puncte B. câte 2 puncte pentru fiecare dintre cele 6 răspunsuri corecte, astfel: 1-F, 2-A, 3-F, 4-F, 5-F, 6-A 6x2p=12 puncte"
+  },
+  "subiectul_2": {
+    "subiect": "1. Transcrieţi, pe foaia de examen, tabelul de mai jos, unde Q reprezintă producţia, P v este preţul de vânzare, CTM este costul total mediu, Pr u este profitul unitar, Pr este masa profitului, iar pr’ este rata profitului, calculată la încasări: Varianta Q (buc.) P v (u.m./buc.) CTM (u.m./buc.) Pr u (u.m./buc.) Pr (u.m.) pr’ (%) I 20 40 20 II 40 40 200 III 60 40 25 a) Completaţi tabelul dat, menționând totodată formulele utilizate pentru calcule. b) Precizați, pe baza datelor din tabel, care este varianta aleasă de producătorul rațional. 2. Se cunosc următoarele date privind activitatea unei firme în T 0 : nivelul producției este de 20.000 de unități, iar productivitatea medie a muncii este de 50 de unități. În T 1 , pentru a menține constantă cantitatea produsă, s-au scos din funcțiune 5 utilaje, această scădere a unităților de capital fiind compensată cu numărul corespunzător de lucrători, rata marginală de substituție fiind de 20 de lucrători pentru un utilaj. a) Precizați: - numărul de unități din factorul de producție muncă necesar pentru înlocuirea unei unități din factorul de producție capital; - cantitatea de bunuri pe care o produce firma în cei doi ani de activitate. b) Determinați, scriind algoritmul folosit pentru efectuarea calculelor şi precizând semnificația notațiilor din formulele utilizate: - numărul de lucrători existenți în T 1 ; - scăderea procentuală a productivității medii a muncii în T 1 față de T 0 .",
+    "barem": "1. a) - câte 2 puncte pentru menționarea fiecăreia dintre cele trei formule utilizate: Pv = CTM + Pr u ; Pr = Pr u x Q; pr’ = (Pr u /Pv) x 100 3x2p=6 puncte Notă: Se punctează menționarea oricărei alte formule similare celor precizate mai sus. - câte 1 punct pentru completarea fiecăreia dintre cele nouă spații libere ale tabelului, astfel: CTM (35, 30); Pr u (20, 5, 10); Pr (400, 600); pr’ (50%, 12,5%) 9x1p=9 puncte b) precizarea variantei alese de producătorul rațional: varianta I 3 puncte 2. a) câte 3 puncte pentru precizarea fiecăruia dintre cei doi indicatori ceruți, astfel: - numărul de unități din factorul de producție muncă necesar pentru înlocuirea unei unități din factorul de producție capital este de 20; - cantitatea de bunuri pe care o produce firma în cei doi ani de activitate este de 40.000 de unități 2x3p=6 puncte b) - câte 5 puncte pentru scrierea algoritmului în vederea determinării fiecăruia dintre cei doi indicatori ceruți: algoritm complet în care se face precizarea semnificației notațiilor din formulele utilizate – 5p./ algoritm complet, dar fără a preciza semnificația notațiilor făcute – 4p./ precizarea corectă a tuturor formulelor de calcul, dar fără corelarea corectă a valorilor – 3p./ scrierea corectă doar a unor formule disparate, dar fără ca acestea să se constituie într-un algoritm de lucru – 2p. 2x5p=10 puncte - câte 3 puncte pentru precizarea valorilor determinate în cazul fiecăruia dintre cei doi indicatori ceruți, astfel: - numărul de lucrători existenți în T 1 este 500; - scăderea procentuală a productivității medii a muncii în T 1 față de T 0 este 20% 2x3p=6 puncte Notă: În situația în care candidatul nu obține valorile din barem din cauza unor erori de calcul se acordă 1 punct din cele 3 puncte posibile."
+  },
+  "subiectul_3": {
+    "subiect": {
+      "enunt": "Răspundeţi la fiecare dintre următoarele cerinţe:",
+      "exercitiul_1": "a) Formulați ideea principală a următorului text: Banca X a revizuit prognozele pentru principalii indicatori din sfera monetară – creșterile generalizate de prețuri, ratele dobânzilor și fluctuațiile cursului de schimb leu/euro, întrucât instituția financiară se așteaptă și la un avans al cheltuielilor sale de funcționare, al costurilor de finanțare suportate de agenții economici beneficiari și, de asemenea, la creșteri ale prețului pe piața schimburilor valutare. b) Enumerați patru noțiuni economice din textul dat la subpunctul a). c) Menționați câte o caracteristică pentru două dintre noțiunile enumerate la subpunctul b).",
+      "exercitiul_2": "Știind că modificările intervenite pe o anumită piață afectează și piețele corelate acesteia, precizați ce efect va avea creșterea costurilor pentru producția de carburant asupra ofertei de carburant și a prețului carburantului."
+    },
+    "barem": {
+      "exercitiul_1": "a) formularea ideii principale a textului 2 puncte b) câte 1 punct pentru enumerarea oricăror patru noțiuni economice din textul dat 4x1p=4 puncte c) câte 3 puncte pentru menționarea oricărei caracteristici corecte pentru fiecare dintre cele două noțiuni 2x3p=6 puncte",
+      "exercitiul_2": "câte 4 puncte pentru precizarea efectelor cerute în condițiile date, astfel: oferta de carburant va scădea și prețul carburantului va crește 2x4p=8 puncte"
+    }
+  }
+}

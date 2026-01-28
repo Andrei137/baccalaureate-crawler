@@ -1,0 +1,33 @@
+{
+  "subiectul_1": {
+    "subiect": "Scrieţi pe foaia de examen litera corespunzătoare răspunsului corect, pentru fiecare dintre situaţiile de mai jos. Este corectă o singură variantă de răspuns. 1. Una dintre consecințele celibatului poate fi: a. privarea de afectivitate c. privarea de libertate b. socializarea continuă d. decesul partenerului 2. Un stat laic, într-o societate democratică, se caracterizează prin: a. decizii cu privire la credință, în ce, cum, sau ce credem b. guvernarea bisericii și lipsa unui transfer al acesteia din domeniul public în cel privat c. independență în raport cu valorile pe care biserica le promovează și le propagă d. impunerea de către biserică a propriilor valori și norme statului 3. Într-un regim democratic, orice partid politic de opoziție pune accent pe: a. promovarea doar a intereselor naționale b. rezolvarea conflictelor c. menținerea puterii pentru a distribui avantaje membrilor săi d. oferirea unor politici alternative la inițiativele guvernului 4. Ca instituție socială, familia se caracterizează ca având următoarele funcții: a. funcția biologică, funcția economică, funcția psihoafectivă, funcția educativă sau de socializare b. funcția economică, funcția psihosomatică, funcția educativă sau de socializare c. funcția biologică, funcția de educație nonformală, funcția de desocializare, funcția psihoafectivă d. funcția economică; funcția psihosomatică, funcția educativă sau de resocializare 5. Sentimentele de nemulțumire generează comportamente greu de înțeles de către conducere, precum sabotaj, forme de protest individuale, absenteism, întreruperea lucrului, ele determinând apariția: a. segregării c. conflictului etnic b. discriminării d. conflictului industrial 6. Sărăcia, ca fenomen social, este determinată de: a. factori economici b. nesăbuință c. abundență d. meritele individului 7. Subordonarea totală a intereselor cetățenilor față de interesele statului este o caracteristică a regimului politic: a. mixt c. totalitar b. democratic d. pluripartid 8. Educația care se transmite în instituțiile de învățământ, într-un cadru organizat și sistematic, constituie: a. educația formală b. educația informală c. educația bisericii d. educația familiei 9. Posibilitatea minorităților naționale de a învăța și de a susține examenele naționale în limba maternă reprezintă o formă de: a. discriminare pozitivă c. educație socială b. respingere d. discreditare 10. Din perspectivă sociologică, totalitatea instituțiilor care dețin suveranitatea asupra unui teritoriu delimitat se constituie în: a. societate civilă c. organizație nonguvernamentală b. organizație transfrontalieră d. stat",
+    "barem": "câte 3 puncte pentru fiecare răspuns corect, astfel: 1-a, 2-c, 3-d, 4-a, 5-d, 6-a, 7-c, 8-a, 9-a, 10-d 10x3p= 30 puncte"
+  },
+  "subiectul_2": {
+    "subiect": {
+      "enunt": "Se dă următorul text: Indivizii nu sunt socializați exclusiv într-o cultură comună unei singure societăți, ci și într-o serie de subculturi sau culturi diferite, cu care pot fi în conflict normati",
+      "exercitiul_v": "Delincvența, de pildă, dezvoltă o subcultură care cere respectarea unor norme precise ale unor grupuri marginale. a) Formulați ideea principală a textului. b) Precizați înțelesul a două dintre conceptele sociologice la care se face referire în text. c) Explicați, în aproximativ o pagină, modul specific în care interacționează componentele vieții sociale vizate de text și precizate la subpunctul b) d) Construiți o ipoteză de cercetare sociologică pe baza textului dat. e) Argumentați un punct de vedere personal referitor la semnificația socială a faptului că indivizii nu sunt socializați exclusiv într-o cultură comună."
+    },
+    "barem": {
+      "enunt": "a) formularea ideii principale a textului 2 puncte b) - câte 1 punct pentru menţionarea oricăror două concepte la care se face referire în text 2x1p=2 puncte - câte 3 puncte pentru precizarea înțelesului fiecăruia dintre cele două concepte menționate 2x3p=6 puncte c) - explicarea modului specific în care interacționează componentele vieții sociale vizate de text și precizate la subpunctul b): explicare adecvată – 6p./ explicare superficială, neconvingătoare – 2",
+      "exercitiul_p": "6 puncte - încadrarea în limita de spațiu precizată (1pagină ± ¼ pagină) 2 puncte d) - construirea ipotezei de cercetare sociologică pe baza textului dat 4 puncte - respectarea caracterului științific al formulării ipotezei de cercetare sociologică 2 puncte e) - formularea punctului de vedere personal referitor la semnificația socială a faptului dat 2 puncte - argumentarea punctului de vedere formulat: argumentare convingătoare – 4p./ argumentare neconvingătoare, superficială – 2p. 4 puncte"
+    }
+  },
+  "subiectul_3": {
+    "subiect": {
+      "enunt": "Răspundeți fiecăreia dintre următoarele cerințe:",
+      "exercitiul_1": "Precizați înțelesul noțiunii de interviu.",
+      "exercitiul_2": "Menționați două caracteristici ale termenului de rol social.",
+      "exercitiul_3": "Evidențiați o corelație existentă între termenii tehnică de cercetare și instrument de cercetare redactând un text coerent, de o jumătate de pagină, în care să îi utilizați în sensul specific sociologiei.",
+      "exercitiul_4": "Ilustrați, printr-un exemplu concret, modul în care apariția unor frustrări și dezamăgiri pot fi determinate de dorința prea puternică de a face parte dintr-un anumit grup de referință.",
+      "exercitiul_5": "Argumentați afirmația potrivit căreia cunoașterea societății în ansamblul ei poate porni de la studiul formelor și mecanismelor organizaționale."
+    },
+    "barem": {
+      "exercitiul_1": "precizarea înţelesului noţiunii date 3 puncte",
+      "exercitiul_2": "câte 3 puncte pentru menţionarea oricăror două caracteristici ale termenului dat 2x3p=6 puncte",
+      "exercitiul_3": "- câte 1 punct pentru utilizarea fiecăruia dintre cei doi termeni în sensul specific sociologiei 2x1p=2 puncte - evidenţierea oricărei corelaţii existente între termenii daţi 4 puncte - coerența textului redactat 1 punct - încadrarea în limita de spațiu precizată (±2 rânduri) 2 puncte",
+      "exercitiul_4": "ilustrarea cerută: scrierea oricărui exemplu concret, adecvat – 6p./ scrierea unei explicații corecte, dar la nivel teoretic, fără însă a formula un exemplu concret – 2p. 6 puncte",
+      "exercitiul_5": "- argumentarea afirmaţiei date : argumentare convingătoare – 4p./argumentare neconvingătoare, superficială – 2p. 4 puncte - respectarea caracterului formal al construirii argumentării (premisă, conectori logici, concluzie) 2 puncte"
+    }
+  }
+}

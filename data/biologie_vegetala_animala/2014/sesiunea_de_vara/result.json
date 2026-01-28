@@ -1,0 +1,61 @@
+{
+  "subiectul_1": {
+    "subiect": {
+      "exercitiul_A": "Scrieţi, pe foaia de examen, noţiunile cu care trebuie să completaţi spaţiile libere din afirmaţia următoare, astfel încât aceasta să fie corectă. Rinichii sunt localizaţi în cavitatea ............ şi sunt alcătuiţi din numeroase unităţi microscopice numite ............ .",
+      "exercitiul_B": "Daţi două exemple de componente ale celulei procariote; scrieţi câte un rol în dreptul fiecărui component celular.",
+      "exercitiul_C": {
+        "enunt": "Scrieţi, pe foaia de examen, litera corespunzătoare răspunsului corect. Este corectă o singură variantă de răspuns.",
+        "subpunctul_1": "Fotosinteza la plante: a) este un tip de nutriţie autotrofă b) eliberează energie luminoasă c) sintetizează substanţe anorganice d) se realizează în absenţa pigmenţilor asimilatori",
+        "subpunctul_2": "Gimnospermele şi angiospermele fac parte din regnul: a) Fungi b) Monera c) Plante d) Protiste",
+        "subpunctul_3": "Cale respiratorie este: a) esofagul b) faringele c) plămânul d) uretra",
+        "subpunctul_4": "Boli cu transmitere sexuală sunt: a) astigmatismul şi epilepsia b) gastrita şi paralizia c) strabismul şi TBC-ul d) sifilisul şi gonoreea",
+        "subpunctul_5": "Fiecare dintre celulele-fiice formate prin diviziunea mitotică a unei celule-mamă cu 2n = 16 cromozomi are: a) 2n = 16 cromozomi b) 2n = 8 cromozomi c) n = 16 cromozomi d) n = 8 cromozomi"
+      },
+      "exercitiul_D": {
+        "enunt": "Citiţi, cu atenţie, afirmaţiile următoare. Dacă apreciaţi că afirmaţia este adevărată, scrieţi, pe foaia de examen, în dreptul cifrei corespunzătoare afirmaţiei, litera A. Dacă apreciaţi că afirmaţia este falsă, scrieţi, pe foaia de examen, în dreptul cifrei corespunzătoare afirmaţiei, litera F şi modificaţi parţial afirmaţia pentru ca aceasta să devină adevărată. Folosiţi, în acest scop, informaţia ştiinţifică adecvată. Nu se acceptă folosirea negaţiei.",
+        "subpunctul_1": "Bila secretată de ficat conţine enzime lipolitice cu rol în emulsionarea grăsimilor.",
+        "subpunctul_2": "Coroida din structura ochiului mamiferelor este sediul celulelor fotosensibile.",
+        "subpunctul_3": "Puritatea gameţilor şi segregarea independentă a perechilor de caractere sunt legi ale eredităţii, descoperite de Mendel."
+      }
+    },
+    "barem": {
+      "exercitiul_A": "Se acordă câte 2p. pentru fiecare noţiune corectă. 2 x 2p. = 4 puncte",
+      "exercitiul_B": "- două exemple de componente ale celulei procariote; 2 x 1p. = 2 puncte - câte un rol pentru fiecare component celular; 2 x 2p. = 4 puncte",
+      "exercitiul_C": "Se acordă câte 2p. pentru fiecare răspuns corect: 1a; 2c; 3b; 4d; 5a. 5 x 2p. = 10 puncte",
+      "exercitiul_D": "Se acordă câte 2p. pentru fiecare răspuns corect: 1F; 2F; 3A. 3 x 2p. = 6 puncte Se acordă câte 2p. pentru modificarea corectă a fiecărei afirmaţii false. 2 x 2p. = 4 puncte"
+    }
+  },
+  "subiectul_2": {
+    "subiect": {
+      "exercitiul_A": {
+        "enunt": "Depăşirea valorilor normale ale tensiunii arteriale este una dintre manifestările hipertensiunii arteriale.",
+        "subpunctul_a": "Precizaţi alte trei manifestări ale hipertensiunii arteriale şi două măsuri de prevenire a acesteia.",
+        "subpunctul_b": "Realizaţi schema circulaţiei mici a sângelui la mamifere.",
+        "subpunctul_c": "Calculaţi masa apei din plasma sângelui unei persoane, ştiind următoarele: - sângele reprezintă 7% din masa corpului; - plasma sangvină reprezintă 55% din masa sângelui; - apa reprezintă 90% din masa plasmei sangvine; - masa corpului persoanei este de 56 Kg. Scrieţi toate etapele parcurse pentru rezolvarea cerinţei.",
+        "subpunctul_d": "Completaţi această problemă cu o altă cerinţă pe care o formulaţi voi; rezolvaţi cerinţa pe care aţi propus-o."
+      },
+      "exercitiul_B": {
+        "enunt": "Se încrucişează două plante care se deosebesc prin două perechi de caractere: forma şi dimensiunea frunzelor. Frunzele ovale (O) şi mari (M) sunt caractere dominante, iar frunzele rotunde (",
+        "subpunctul_o": "şi mici (m) sunt caractere recesive. Una dintre plante are frunze ovale şi mari, fiind homozigotă pentru ambele caractere, iar cealaltă plantă are frunze rotunde şi mici. În F 1 se obţin descendenţi hibrizi. Prin încrucişarea între ei a indivizilor din F 1 , se obţin, în F 2 , 16 combinaţii de factori ereditari. Stabiliţi următoarele:",
+        "subpunctul_a": "genotipurile celor două plante;",
+        "subpunctul_b": "trei exemple de tipuri de gameţi produşi de indivizii din F 1 ;",
+        "subpunctul_c": "numărul combinaţiilor din F 2 , homozigote pentru forma frunzelor; genotipul indivizilor din F 2 cu frunze ovale şi mici.",
+        "subpunctul_d": "Completaţi această problemă cu o altă cerinţă pe care o formulaţi voi; rezolvaţi cerinţa pe care aţi propus-o. Scrieţi toate etapele rezolvării problemei."
+      }
+    },
+    "barem": {
+      "exercitiul_A": "a) precizarea altor trei manifestări ale hipertensiunii arteriale; 3 x 1p. = 3 puncte - precizarea a două măsuri de prevenire a hipertensiunii arteriale; 2 x 1p. = 2 puncte b) realizarea schemei circulaţiei mici a sângelui la mamifere. 3 puncte c) - calcularea masei sângelui; 2 puncte 56 x 7 : 100 = 3,92 kg; - calcularea masei plasmei sangvine; 2 puncte 3,92 x 55 : 100 = 2,156 kg; - calcularea masei apei din plasma sangvină; 2 puncte 2,156 x 90 : 100 = 1,9404 kg. d) - formularea cerinţei; 2 puncte - rezolvarea cerinţei. 2 puncte Notă Se punctează oricare altă modalitate de rezolvare a problemei. Pentru raţionamentul corect, neînsoţit de calcule, se acordă jumătate din punctajul repartizat rezolvării problemei.",
+      "exercitiul_B": "a) genotipurile celor două plante: OOMM şi oomm; 2 x 1p. = 2 puncte b) trei exemple de tipuri de gameţi produşi de indivizii din F 1 ; 3 x 1p. = 3 puncte c) numărul combinaţiilor din F 2 , homozigote pentru forma frunzelor: 8 (8/16); 1 punct - genotipul indivizilor din F 2 cu frunze ovale şi mici: OOmm; Oomm; 2 x 1p. = 2 puncte d) - formularea cerinţei; 2 puncte - rezolvarea cerinţei. 2 puncte"
+    }
+  },
+  "subiectul_3": {
+    "subiect": {
+      "exercitiul_1": "Respiraţia este una dintre funcţiile vitale ale organismelor. a) Înlocuiţi literele A şi B din relaţia de mai jos cu noţiunile corespunzătoare: A + O 2 → B + H 2 O + energie b) Formulaţi două argumente în favoarea afirmaţiei următoare: „Alveolele pulmonare sunt specializate pentru schimbul de gaze respiratorii”. c) Construiţi patru enunţuri afirmative, câte două pentru fiecare conţinut, utilizând limbajul ştiinţific adecvat. Folosiţi, în acest scop, informaţii referitoare la următoarele conţinuturi: - Respiraţia anaerobă - fermentații. - Pneumonia – cauze și manifestări.",
+      "exercitiul_2": "Sistemul nervos central al mamiferelor este alcătuit din măduva spinării şi encefal. a) Enumeraţi trei funcţii ale hipotalamusului. b) Explicaţi afirmaţia următoare: „Leziuni la nivelul cerebelului pot afecta menţinerea echilibrului corpului”. c) Alcătuiţi un minieseu intitulat „Trunchiul cerebral”, folosind informaţia ştiinţifică adecvată. În acest scop, respectaţi următoarele etape: - enumerarea a şase noţiuni specifice acestei teme; - construirea, cu ajutorul acestora, a unui text coerent, format din maximum trei-patru fraze, folosind corect şi în corelaţie noţiunile enumerate."
+    },
+    "barem": {
+      "exercitiul_1": "14 puncte a) înlocuirea literelor A şi B din relaţia dată; 2 x 1p. = 2 puncte b) formularea a două argumente; 2 x 2p. = 4 puncte c) construirea a patru enunţuri afirmative, utilizând limbajul ştiinţific adecvat, folosind informaţii referitoare la conţinuturile indicate. 4 x 2p. = 8 puncte",
+      "exercitiul_2": "16 puncte a) enumerarea a trei funcţii ale hipotalamusului; 3 x 1p. = 3 puncte b) explicarea corectă; 3 puncte c) alcătuirea minieseului, folosindu-se informaţia ştiinţifică adecvată, respectându-se cerinţele: - pentru fiecare noţiune enumerată, specifică temei, se acordă câte 1p.; 6 x 1p.= 6 puncte - pentru coerenţa textului, de maximum trei-patru fraze, în alcătuirea căruia fiecare noţiune este folosită corect, în corelaţie cu celelalte noţiuni, se acordă 4 p. 4 puncte"
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "subiectul_1": {
+    "subiect": {
+      "exercitiul_A": "Scrieţi, pe foaia de examen, noţiunile cu care trebuie să completaţi spaţiile libere din afirmaţia următoare, astfel încât aceasta să fie corectă. Cele trei oscioare din urechea medie a mamiferelor sunt: ciocanul, ............ şi ............ .",
+      "exercitiul_B": "Daţi două exemple de grupe de amfibieni; scrieţi, în dreptul fiecărei grupe, câte un exemplu reprezentativ.",
+      "exercitiul_C": {
+        "enunt": "Scrieţi, pe foaia de examen, litera corespunzătoare răspunsului corect. Este corectă o singură variantă de răspuns.",
+        "subpunctul_1": "Boală a sistemului digestiv la om este: a) ateroscleroza b) epilepsia c) hepatita d) paralizia",
+        "subpunctul_2": "Bazidiomicetele aparţin regnului: a) Animale b) Fungi c) Monera d) Plante",
+        "subpunctul_3": "Nefronii sunt componente ale: a) encefalului b) ficatului c) ovarului d) rinichiului",
+        "subpunctul_4": "Fotosinteza: a) are loc în celulele organismului animal b) constă în degradarea substanţelor organice c) necesită prezenţa luminii d) reprezintă modul de nutriţie al ascomicetelor",
+        "subpunctul_5": "Coroida este: a) componentă a sistemului optic b) lentilă convergentă c) sediul receptorilor vizuali d) vascularizată"
+      },
+      "exercitiul_D": {
+        "enunt": "Citiţi, cu atenţie, afirmaţiile următoare. Dacă apreciaţi că afirmaţia este adevărată, scrieţi, pe foaia de examen, în dreptul cifrei corespunzătoare afirmaţiei, litera A. Dacă apreciaţi că afirmaţia este falsă, scrieţi, pe foaia de examen, în dreptul cifrei corespunzătoare afirmaţiei, litera F şi modificaţi parţial afirmaţia pentru ca aceasta să devină adevărată. Folosiţi, în acest scop, informaţia ştiinţifică adecvată. Nu se acceptă folosirea negaţiei.",
+        "subpunctul_1": "Lipaza pancreatică hidrolizează grăsimile în glicerol şi colesterol.",
+        "subpunctul_2": "Veziculele seminale sunt glande anexe ale sistemului reproducător feminin.",
+        "subpunctul_3": "Legea purităţii gameţilor este una dintre legile mendeliene ale eredităţii."
+      }
+    },
+    "barem": {
+      "exercitiul_A": "Se acordă câte 2p. pentru fiecare noţiune corectă. 2 x 2p. = 4 puncte",
+      "exercitiul_B": "- două exemple de grupe de amfibieni; 2 x 1p. = 2 puncte - câte un exemplu reprezentativ pentru fiecare grupă. 2 x 2p. = 4 puncte",
+      "exercitiul_C": "Se acordă câte 2p. pentru fiecare răspuns corect: 1c; 2b; 3d; 4c; 5d. 5 x 2p. = 10 puncte",
+      "exercitiul_D": "Se acordă câte 2p. pentru fiecare răspuns corect: 1F; 2F; 3A. 3 x 2p.= 6 puncte Se acordă 2p. pentru modificarea corectă a afirmaţiei false. 2 x 2p.= 4 puncte"
+    }
+  },
+  "subiectul_2": {
+    "subiect": {
+      "exercitiul_A": {
+        "enunt": "Circulaţia sângelui la mamifere este dublă, sângele parcurgând cele două circuite.",
+        "subpunctul_a": "Comparaţi două vase de sânge componente ale circulaţiei mici a sângelui, precizând: denumirea vaselor de sânge şi o deosebire între cele două vase de sânge.",
+        "subpunctul_b": "Explicaţi rolul hemoglobinei în transportul gazelor respiratorii.",
+        "subpunctul_c": "Calculaţi conţinutul în apă al plasmei sângelui unui adult, ştiind următoarele: - volumul sangvin reprezintă 7% din masa corpului; - plasma reprezintă 55% din volumul sangvin; - apa reprezintă 90% din compoziţia plasmei sangvine; - adultul cântăreşte 64 de Kg. Scrieţi toate etapele parcurse pentru rezolvarea problemei.",
+        "subpunctul_d": "Completaţi această problemă cu o altă cerinţă pe care o formulaţi voi. Rezolvaţi cerinţa pe care aţi propus-o."
+      },
+      "exercitiul_B": {
+        "enunt": "Se încrucişează o plantă cu frunze mari şi cu flori de culoare albă cu o plantă cu frunze mici şi cu flori de culoare albastră. Frunzele mari (M) şi florile de culoare albă (A) sunt caractere dominante, iar frunzele mici (",
+        "subpunctul_m": "şi florile de culoare albastră (a) sunt caractere recesive. Părinţii sunt homozigoţi pentru ambele caractere. În prima generaţie, F 1 , se obţin organisme hibride. Prin încrucişarea între ei a hibrizilor din F 1 , se obţin, în F 2 , 16 combinaţii de factori ereditari. Stabiliţi următoarele:",
+        "subpunctul_a": "genotipul părinţilor;",
+        "subpunctul_b": "fenotipul organismelor din F 1 ;",
+        "subpunctul_c": "numărul combinaţiilor din F 2 dublu homozigote; genotipurile organismelor din F 2 cu frunze mici şi flori albe;",
+        "subpunctul_d": "completaţi această problemă cu o altă cerinţă pe care o formulaţi voi; rezolvaţi cerinţa pe care aţi propus-o. Scrieţi toate etapele rezolvării problemei."
+      }
+    },
+    "barem": "A 18 p. a) compararea a două vase de sânge componente ale circulaţiei mici a sângelui, precizând: - denumirea vaselor de sânge; 2 x 2p. = 4 puncte - o deosebire între cele două vase de sânge; 2 puncte b) explicaţia corectă; 2 puncte c) - calcularea volumului sangvin al adultului; 2 puncte 64 x 7 : 100 = 4,48 l; - calcularea valorii plasmei sangvine; 2 puncte 4,48 x 55 : 100 = 2,464 l; - calcularea conţinutului în apă al plasmei sangvine; 2 puncte 2,464 x 90 : 100 = 2,2176 l. d) - formularea cerinţei; 2 puncte - rezolvarea cerinţei. 2 puncte Notă Se punctează oricare altă modalitate de rezolvare a problemei. Pentru raţionamentul corect, neînsoţit de calcule, se acordă jumătate din punctajul repartizat rezolvării problemei."
+  },
+  "subiectul_3": {
+    "subiect": {
+      "exercitiul_1": "Aparatul Golgi, reticulul endoplasmatic, mitocondriile, lizozomii sunt exemple de organite celulare. a) Precizaţi rolul îndeplinit de două dintre organitele celulare (la alegere) enumerate. b) Stabiliţi o asemănare şi o deosebire între structura celulei vegetale şi structura celulei animale. c) Construiţi patru enunţuri afirmative, utilizând limbajul ştiinţific adecvat. Folosiţi, în acest scop, informaţii referitoare la următoarele conţinuturi: - Fazele mitozei; - Influenţa mediului asupra eredităţii. Veţi construi câte două enunţuri din fiecare conţinut.",
+      "exercitiul_2": "În lumea vie există două moduri de respiraţie: aerobă şi anaerobă. a) Daţi câte un exemplu de organisme care au respiraţie aerobă, respectiv respiraţie anaerobă. b) Stabiliţi o asemănare şi o deosebire între respiraţia aerobă şi respiraţia anaerobă. c) Alcătuiţi un minieseu intitulat „Boli ale sistemului respirator la om”, folosind informaţia ştiinţifică adecvată. În acest scop, respectaţi următoarele etape: - enumerarea a şase noţiuni specifice acestei teme; - construirea, cu ajutorul acestora, a unui text coerent, format din maximum trei-patru fraze, folosind corect şi în corelaţie noţiunile enumerate."
+    },
+    "barem": {
+      "exercitiul_1": "14 p. a) precizarea rolului îndeplinit de două dintre organitele celulare; 2 x 1p. = 2 puncte b) stabilirea unei asemănări între structura celulei vegetale şi structura celulei animale; 2 puncte - stabilirea unei deosebiri între structura celulei vegetale şi structura celulei animale; 2 puncte c) construirea a patru enunţuri afirmative folosind, în acest scop, informaţii referitoare la conţinuturile indicate. 4 x 2p. = 8 puncte",
+      "exercitiul_2": "16 p. a) câte un exemplu de organisme care au respiraţie aerobă, respectiv respiraţie anaerobă; 2 x 1p. = 2 puncte b) stabilirea unei asemănări şi a unei deosebiri între respiraţia aerobă şi respiraţia anaerobă; 2 x 2p. = 4 puncte c) alcătuirea minieseului, folosind informaţia ştiinţifică adecvată: - pentru fiecare noţiune enumerată, specifică temei, se acordă câte 1p. 6 x1p.= 6 puncte - pentru coerenţa textului, de maximum trei-patru fraze, în alcătuirea căruia fiecare noţiune este folosită corect, în corelaţie cu celelalte noţiuni, se acordă 4 p. 4 puncte"
+    }
+  }
+}

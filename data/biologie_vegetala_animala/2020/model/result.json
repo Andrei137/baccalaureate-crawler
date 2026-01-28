@@ -1,0 +1,61 @@
+{
+  "subiectul_1": {
+    "subiect": {
+      "exercitiul_A": "Scrieţi, pe foaia de examen, noţiunile cu care trebuie să completaţi spaţiile libere din afirmaţia următoare, astfel încât aceasta să fie corectă. Lipaza ............ are rol în digestia ............ .",
+      "exercitiul_B": "Daţi două exemple de faze ale diviziunii meiotice; scrieţi în dreptul fiecărei faze câte o caracteristică.",
+      "exercitiul_C": {
+        "enunt": "Scrieţi, pe foaia de examen, litera corespunzătoare răspunsului corect. Este corectă o singură variantă de răspuns.",
+        "subpunctul_1": "Filicatele sunt: a) Angiosperme b) Briofite c) Gimnosperme d) Pteridofite",
+        "subpunctul_2": "Celula glială este componentă a ţesutului: a) conjunctiv b) epitelial c) muscular d) nervos",
+        "subpunctul_3": "Una dintre bolile care afectează sistemul digestiv al omului este: a) astmul bronşic b) astigmatismul c) hepatita d) scleroza în plăci",
+        "subpunctul_4": "Fotosinteza la plante: a) constă în sinteza de substanţe minerale b) foloseşte dioxidul de carbon din aer c) se evidenţiază după consumul de substanţă organică d) se realizează în absenţa pigmenţilor asimilatori",
+        "subpunctul_5": "La mamifere, hipotalamusul: a) conţine nuclei cu rol în menținerea echilibrului corpului b) este localizat între măduva spinării şi bulbul rahidian c) este sediul activităţii nervoase superioare d) este componentă a diencefalului"
+      },
+      "exercitiul_D": {
+        "enunt": "Citiţi, cu atenţie, afirmaţiile următoare. Dacă apreciaţi că afirmaţia este adevărată, scrieţi, pe foaia de examen, în dreptul cifrei corespunzătoare afirmaţiei, litera A. Dacă apreciaţi că afirmaţia este falsă, scrieţi, pe foaia de examen, în dreptul cifrei corespunzătoare afirmaţiei, litera F şi modificaţi parţial afirmaţia pentru ca aceasta să devină adevărată. Folosiţi, în acest scop, informaţia ştiinţifică adecvată. Nu se acceptă folosirea negaţiei.",
+        "subpunctul_1": "La plante, seva brută circulă prin vasele liberiene.",
+        "subpunctul_2": "Celulele senzoriale auditive se află în melcul membranos din urechea internă.",
+        "subpunctul_3": "Coroida este componentă a sistemului optic al ochiului mamiferelor."
+      }
+    },
+    "barem": {
+      "exercitiul_A": "Se acordă câte 2p. pentru fiecare noţiune corectă. 2 x 2p. = 4 puncte",
+      "exercitiul_B": "- două exemple de faze ale diviziunii meiotice; 2 x 1p. = 2 puncte - câte o caracteristică pentru fiecare dintre cele două faze ale diviziunii meiotice. 2 x 2p. = 4 puncte",
+      "exercitiul_C": "Se acordă câte 2p. pentru fiecare răspuns corect: 1d; 2d; 3c; 4b; 5d. 5 x 2p. = 10 puncte",
+      "exercitiul_D": "Se acordă câte 2p. pentru fiecare răspuns corect: 1F; 2A; 3F. 3 x 2p. = 6 puncte Se acordă câte 2p. pentru modificarea corectă a fiecărei afirmaţii false. 2 x 2p. = 4 puncte"
+    }
+  },
+  "subiectul_2": {
+    "subiect": {
+      "exercitiul_A": {
+        "enunt": "Inima şi vasele de sânge alcătuiesc sistemul circulator al mamiferelor. Acesta poate fi afectat de numeroase boli.",
+        "subpunctul_a": "Precizaţi o cauză, două manifestări și o măsură de prevenire a accidentului vascular cerebral.",
+        "subpunctul_b": "Comparaţi venele pulmonare cu venele cave, precizând două deosebiri dintre aceste vase de sânge.",
+        "subpunctul_c": "Calculaţi masa apei din plasma sângelui unei persoane, ştiind următoarele: - sângele reprezintă 7% din masa corpului; - plasma sangvină reprezintă 55% din masa sângelui; - apa reprezintă 90% din masa plasmei sangvine; - masa corpului persoanei este de 63 Kg. Scrieţi toate etapele parcurse pentru rezolvarea cerinţei.",
+        "subpunctul_d": "Completaţi problema de la punctul c) cu o altă cerinţă pe care o formulaţi voi, folosind informaţii ştiinţifice specifice biologiei; rezolvaţi cerinţa pe care aţi propus-o."
+      },
+      "exercitiul_B": {
+        "enunt": "Se încrucişează două soiuri de fasole, unul cu flori violete şi păstăi galbene şi altul cu flori albe şi păstăi verzi. Florile violete (V) şi păstăile galbene (G) sunt caractere dominante, iar florile albe (",
+        "subpunctul_v": "şi păstăile verzi (g) sunt caractere recesive. Părinţii sunt homozigoţi pentru ambele caractere. În F 1 se obțin organisme hibride. Prin încrucişarea între ei a hibrizilor din F 1 , se obţin în F 2 16 combinaţii de factori ereditari. Stabiliţi următoarele:",
+        "subpunctul_a": "genotipul părintelui cu ambele caractere dominante;",
+        "subpunctul_b": "tipurile de gameţi formaţi de organismele din F 1 ;",
+        "subpunctul_c": "numărul combinațiilor din F 2 cu flori albe; genotipul organismelor din F 2 care au flori violete și păstăi verzi.",
+        "subpunctul_d": "Completaţi această problemă cu o altă cerinţă pe care o formulaţi voi, folosind informaţii ştiinţifice specifice biologiei; rezolvaţi cerinţa pe care aţi propus-o. Scrieţi toate etapele rezolvării problemei."
+      }
+    },
+    "barem": {
+      "exercitiul_A": "a) precizarea: - unei cauze a accidentului vascular cerebral; 1 punct - a două manifestări ale accidentului vascular cerebral; 2 x 1p. = 2 puncte - unei măsuri de prevenire a accidentului vascular cerebral; 1 punct b) precizarea a două deosebiri dintre venele pulmonare şi venele cave; 2 x 2p. = 4 puncte c) - calcularea masei sângelui persoanei; 2 puncte 63 x 7 : 100 = 4,41 kg; - calcularea masei plasmei sangvine; 2 puncte 4,41 x 55 : 100 = 2,4255 kg; - calcularea masei apei din plasma sangvină; 2 puncte 2,4255 x 90 : 100 = 2,18295 kg; d) - formularea cerinţei; 2 puncte - rezolvarea cerinţei. 2 puncte Notă Se punctează oricare altă modalitate de rezolvare a problemei. Pentru raţionamentul corect, neînsoţit de calcule, se acordă jumătate din punctajul repartizat rezolvării problemei.",
+      "exercitiul_B": "a) genotipul părintelui cu ambele caractere dominante: VVGG; 1 punct b) tipurile de gameţi formaţi de organismele din F 1 : VG; Vg; vG; vg; 4 x 1p. = 4 puncte c) numărul combinațiilor din F 2 cu flori albe: 4 (4/16); 1 punct - genotipul organismelor din F 2 care au flori violete și păstăi verzi: VVgg; Vvgg; 2 x 1p. = 2 puncte d) - formularea cerinţei; 2 puncte - rezolvarea cerinţei. 2 puncte"
+    }
+  },
+  "subiectul_3": {
+    "subiect": {
+      "exercitiul_1": "Funcţiile de bază ale organismelor sunt: de nutriţie, de relaţie, de reproducere. a) Daţi trei exemple de sisteme care participă la realizarea funcţiilor de nutriţie ale organismelor. b) Scrieți un argument în favoarea afirmaţiei următoare: „Organismele care aparţin regnului Fungi au nutriţie heterotrofă”. c) Construiţi patru enunţuri afirmative, câte două pentru fiecare conţinut, utilizând limbajul ştiinţific adecvat. Folosiţi, în acest scop, informaţii referitoare la următoarele conţinuturi: - Sensibilitatea şi mişcarea la plante. - Reproducerea sexuată la angiosperme.",
+      "exercitiul_2": "Conform Teoriei celulare, elaborată independent de către savanţii Mathias Schleiden şi Theodor Schwann, toate organismele vii sunt alcătuite din celule. a) Caracterizaţi cloroplastele precizând: două particularităţi structurale; rol. b) Explicaţi afirmaţia următoare: „Celulele realizează permanent schimburi de substanţe cu mediul înconjurător”. c) Alcătuiţi un minieseu intitulat „Celula procariotă”, folosind informaţia ştiinţifică adecvată. În acest scop, respectaţi următoarele etape: - enumerarea a şase noţiuni specifice acestei teme; - construirea, cu ajutorul acestora, a unui text coerent, format din maximum trei-patru fraze, folosind corect şi în corelaţie noţiunile enumerate."
+    },
+    "barem": {
+      "exercitiul_1": "14 puncte a) trei exemple de sisteme care participă la realizarea funcţiilor de nutriţie ale organismelor; 3 x 1p. = 3 puncte b) scrierea unui argument; 3 puncte c) construirea a patru enunţuri afirmative, utilizând limbajul ştiinţific adecvat, folosind informaţii referitoare la conţinuturile indicate. 4 x 2p. = 8 puncte",
+      "exercitiul_2": "16 puncte a) caracterizarea cloroplastelor precizând: - două particularităţi structurale; 2 x 1p. = 2 puncte - rolul îndeplinit; 1 punct b) explicarea corectă; 3 puncte c) alcătuirea minieseului, folosindu-se informaţia ştiinţifică adecvată, respectându-se cerinţele: - pentru fiecare noţiune enumerată, specifică temei, se acordă câte 1p.; 6 x 1p.= 6 puncte - pentru coerenţa textului, de maximum trei-patru fraze, în alcătuirea căruia fiecare noţiune este folosită corect, în corelaţie cu celelalte noţiuni, se acordă 4 p. 4 puncte"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "subiectul_1": {
+    "subiect": {
+      "enunt": "Scrieţi pe foaia de examen litera corespunzătoare răspunsului corect, pentru fiecare dintre situaţiile de mai jos. Este corectă o singură variantă de răspuns.",
+      "exercitiul_1": "Dacă pentru J. P. Sartre existenţa precede esenţa atunci: a. natura umană este dată b. omul deţine o libertate limitată c. omul se construieşte pe sine d. alegerile sunt imposibile",
+      "exercitiul_2": "Deoarece comportamentul uman presupune deliberare şi alegere între bine şi rău, omul este o fiinţă: a. care fabrică unelte b. finită c. instinctuală d. morală",
+      "exercitiul_3": "Controversa legată de problema eutanasiei este o temă a eticii: a. hedoniste b. aristotelice c. aplicate d. tradiţionale",
+      "exercitiul_4": "Libertatea omului în societate angajează şi responsabilitatea acestuia, în sensul: a. discriminării celorlalţi b. respectării legilor c. încălcării regulilor d. dominării celorlalţi",
+      "exercitiul_5": "Potrivit lui J. St. Mill, libertatea individuală poate fi diminuată legitim în situaţia în care: a. se doreşte subordonarea societăţii civile b. se previne încălcarea libertăţii celorlalţi c. se impune anularea drepturilor omului d. se instaurează un regim dictatorial",
+      "exercitiul_6": "Dreptul la indemnizaţie pentru creşterea copilului este un drept: a. natural b. negativ c. cultural d. pozitiv",
+      "exercitiul_7": "În accepţiunea lui Imm. Kant, judecăţile a posteriori sunt acelea care: a. provin din experienţă b. preced experienţa c. nu au legătură cu experienţa d. sunt pur raţionale",
+      "exercitiul_8": "Opinia iarba este verde este adevărată, dacă şi numai dacă, prin confruntare cu realitatea, se constată că iarba este verde, potrivit teoriei adevărului: a. coerenţă b. corespondenţă c. utilitate d. pragmatic",
+      "exercitiul_9": "Conceptul de fericire este înlocuit cu conceptul de datorie în etica: a. teleologică b. deontologică c. hedonistă d. eudaimonistă",
+      "exercitiul_10": "Datorită garantării drepturilor negative, proprietatea privată este protejată împotriva: a. intervenţiei divine b. calamităţilor naturale c. intervenţiei statului d. destinului"
+    },
+    "barem": "câte 3 puncte pentru fiecare răspuns corect, astfel: 1-c, 2-d, 3-c, 4-b, 5-b, 6-d, 7-a, 8-b, 9-b, 10-c. 10x3p= 30 puncte"
+  },
+  "subiectul_2": {
+    "subiect": {
+      "exercitiul_A": "În coloana din stânga sunt enumerate concepte și teorii specifice politicii moderne, iar în coloana din dreapta sunt numerotate enunţuri adevărate referitoare la acestea. Scrieţi pe foaia de examen asocierile corecte dintre fiecare literă din coloana din stânga şi cifra corespunzătoare din coloana din dreapta. a. Etatismul b. Liberalismul c. Democrația d. Filosofia politică 1. Îl are ca principal reprezentant pe J. St. Mill. 2. Consideră că statul este elementul central iar individul trebuie să i se supună. 3. Are ca element central problema puterii politice și a legitimității acesteia. 4. Este conceptul central al filosofiei lui Karl Marx. 5. Din punct de vedere etimologic, înseamnă puterea poporului.",
+      "exercitiul_B": "Argumentați, în aproximativ zece rânduri, în favoarea sau împotriva teoriei adevărului utilitate.",
+      "exercitiul_C": "Construiți un exemplu prin care să evidențiați rolul/importanţa erorii în procesul cunoașterii."
+    },
+    "barem": {
+      "exercitiul_A": "câte 4 puncte pentru fiecare asociere corectă, astfel: a-2 b-1 c-5 d-3 4x4p=16 puncte",
+      "exercitiul_B": "- argumentarea în favoarea sau împotriva teoriei adevărului utilitate 6 puncte - încadrarea în limita de spaţiu precizată 2 puncte",
+      "exercitiul_C": "construirea unui exemplu care evidențiază rolul/importanţa erorii în procesul cunoașterii 6 puncte"
+    }
+  },
+  "subiectul_3": {
+    "subiect": {
+      "exercitiul_A": {
+        "enunt": "Citiți, cu atenție, textul de mai jos: Din toate acestea se vede că statul este o instituție naturală și că omul este din natură o ființă socială, pe când antisocialul din natură (…) este ori un supraom, ori o fiară, ca acela batjocorit de Homer. Vocea (nearticulată) este doar semnul plăcerii și al durerii, și există și la celelalte vietăți (…), pe când limba servește a exprima ce este folositor și ce este vătămător, precum și ce este drept sau nedrept. (…) Căci după cum omul în perfecțiunea sa este cea mai nobilă dintre ființe, tot astfel, lipsit de lege și de dreptate, este cea mai rea din toate (…). (Aristotel, Politica) Răspundeți următoarelor cerințe:",
+        "subpunctul_1": "Menționați, pe baza textului dat, două caracteristici ale naturii umane.",
+        "subpunctul_2": "Evidențiați, în aproximativ o jumătate de pagină, o corelație existentă între termenii natură umană și sociabilitate, utilizând termenii menționați în sens filosofic.",
+        "subpunctul_3": "Formulați un punct de vedere personal referitor la actualitatea perspectivei filosofice prezentată în textul dat."
+      },
+      "exercitiul_B": {
+        "enunt": "Anarhismul, etatismul și liberalismul sunt teorii politice ce includ și reflecții referitoare la natura și scopurile guvernării, la relațiile existente între individ și stat.",
+        "subpunctul_1": "Menționați trei trăsături specifice liberalismului.",
+        "subpunctul_2": "Ilustrați, printr-un exemplu concret, relația existentă între stat și cetățean, din perspectiva liberalismului."
+      }
+    },
+    "barem": {
+      "exercitiul_A": "1. câte 2 puncte pentru menționarea, pe baza textului dat, a fiecăreia dintre cele două caracteristici ale naturii umane 2x2p= 4 puncte 2. - câte 1 punct pentru utilizarea fiecăruia dintre cei doi termeni daţi în sens filosofic 2x1p= 2 puncte - evidenţierea unei corelaţii existente între termenii dați 4 puncte - coerenţa textului redactat 2 puncte - încadrarea în limita de spaţiu precizată 2 puncte 3. formularea unui punct de vedere personal referitor la actualitatea perspectivei filosofice prezentată în textul dat 6 puncte",
+      "exercitiul_B": "1. câte 2 puncte pentru menționarea fiecărei trăsături specifice liberalismului 3x2p= 6 puncte 2. ilustrarea, printr-un exemplu concret, a relației existente între stat și cetățean, din perspectiva liberalismului 4 puncte"
+    }
+  }
+}

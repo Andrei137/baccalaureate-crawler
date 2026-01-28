@@ -1,0 +1,49 @@
+{
+  "subiectul_1": {
+    "subiect": {
+      "enunt": "Scrieţi pe foaia de examen litera corespunzătoare răspunsului corect, pentru fiecare dintre situaţiile de mai jos. Este corectă o singură variantă de răspuns.",
+      "exercitiul_1": "Sensul vieții este o problemă specifică: a. teoriei cunoașterii b. teoriilor științifice c. naturii umane d. naturii fizice",
+      "exercitiul_2": "Printre teoriile morale se află: a. teoria cuantelor c. teoria adevărului coerență b. teoria hedonistă d. teoria adevărului corespondență",
+      "exercitiul_3": "Problemele de etică aplicată: a. au un caracter preponderent teoretic b. au un caracter controversat c. au la bază o concepție deontologică d. cunosc o soluționare univocă",
+      "exercitiul_4": "Libertatea social-politică se definește în raport cu: a. diverse tipuri de constrângeri b. ceva aleator c. bunul plac al oamenilor d. întâmplările cotidiene",
+      "exercitiul_5": "Responsabilitate social-politică: a. decurge din libertatea social-politică b. se manifestă întotdeauna c. nu este necesară d. este o problemă gnoseologică",
+      "exercitiul_6": "Drepturile naturale ale omului sunt: a. dreptul la educație b. dreptul la viață, proprietate, libertate c. dreptul la liberă exprimare d. dreptul la liberă circulație",
+      "exercitiul_7": "Pentru R. Descartes idealul cunoașterii este dat de: a. cunoașterea obscură c. cunoașterea empirică b. cunoașterea clară și distinctă d. cunoașterea confuză",
+      "exercitiul_8": "Stabilirea adevărului prin raportarea cunoștinței noi la un ansamblu de idei considerat adevărat este specific: a. adevărului corespondență c. adevărului pragmatist b. adevărului coerență d. adevărului absolut",
+      "exercitiul_9": "Aristotel este un promotor al orientării din etică numită: a. deontologie b. teologism c. eudaimonism d. hedonism",
+      "exercitiul_10": "Respectarea drepturilor omului constituie un principiu al: a. statului totalitar b. statului abuziv c. statului arbitrar d. statului democratic"
+    },
+    "barem": "câte 3 puncte pentru fiecare răspuns corect, astfel: 1-c, 2-b, 3-b, 4-a, 5-a, 6-b, 7-b, 8-b, 9-c, 10-d 10x3p= 30 puncte"
+  },
+  "subiectul_2": {
+    "subiect": {
+      "exercitiul_A": "În coloana din stânga sunt enumerate concepte de teoria cunoașterii, iar în coloana din dreapta sunt numerotate enunțuri adevărate referitoare la acestea. Scrieți pe foaia de examen asocierile corecte dintre fiecare literă din coloana din stânga și cifra corespunzătoare din coloana din dreapta. a. Analitic b. Sintetic c. A priori d. A posteriori 1. Cunoștințe care sunt independente absolut de orice experiență. 2. Cunoștințe care sunt independente doar parțial de experiență. 3. Cunoștințele provin din experiență. 4. Predicatul explicitează o notă a subiectului. 5. Predicatul adaugă o notă nouă subiectului.",
+      "exercitiul_B": "Argumentați, în aproximativ zece rânduri, în favoarea sau împotriva tezei potrivit căreia: suntem democrați nu pentru că majoritatea are întotdeauna dreptate, ci pentru că tradițiile democratice sunt cel mai puțin rele din câte cunoaștem",
+      "exercitiul_C": "Construiți un exemplu de propoziție a cărei valoare de adevăr poate fi stabilită prin corespondență cu realitatea."
+    },
+    "barem": {
+      "exercitiul_A": "câte 4 puncte pentru fiecare asociere corectă, astfel: a-4 b-5 c-1 d-3 4x4p=16 puncte",
+      "exercitiul_B": "argumentarea în favoarea sau împotriva tezei potrivit căreia suntem democrați nu pentru că majoritatea are întotdeauna dreptate, ci pentru că tradițiile democratice sunt cel mai puțin rele din câte cunoaștem: argumentare convingătoare -6p./argumentare neconvingătoare, superficială -2p. 6 puncte - încadrarea în limita de spațiu precizată 2 puncte",
+      "exercitiul_C": "construirea unui exemplu de propoziție a cărei valoare de adevăr poate fi stabilită prin corespondență cu realitatea (în situația în care candidatul tratează subiectul la nivel teoretic, fără a formula un exemplu, se acordă 2 puncte din cele 6 puncte posibile) 6 puncte"
+    }
+  },
+  "subiectul_3": {
+    "subiect": {
+      "exercitiul_A": {
+        "enunt": "Citiți, cu atenție, textul de mai jos: Animalul este însă cu desăvârşire străin de „existenţa întru mister şi pentru revelare” şi de dimensiunile şi complicaţiile vieţii ce rezultă din acest mod de existenţă. Existenţa întru mister şi pentru revelare este un mod eminamente uman. Specific uman va fi, prin urmare, și tot alaiul imens de consecințe ce se desprind din acest mod, adică destinul creator al omului, impulsurile, aparatura și îngrădirile acestuia. (L. Blaga, Geneza metaforei și sensul culturii) Răspundeți următoarelor cerințe:",
+        "subpunctul_1": "Menționați, pe baza textului dat, două caracteristici ale naturii umane.",
+        "subpunctul_2": "Evidențiați, în aproximativ o jumătate de pagină, o corelație existentă între termenii natură umană şi mod de existență, utilizându-i în sens filosofic.",
+        "subpunctul_3": "Formulați un punct de vedere personal referitor la actualitatea perspectivei filosofice prezentată în textul dat."
+      },
+      "exercitiul_B": {
+        "enunt": "Știind că filosofia merită să fie studiată nu de dragul unor răspunsuri precise la întrebările ei, ci mai degrabă de dragul întrebărilor înseși:",
+        "subpunctul_1": "Menționați două întrebări specifice filosofiei.",
+        "subpunctul_2": "Ilustrați printr-un exemplu concret, o situație de viață în care în care filosofia s-a dovedit utilă."
+      }
+    },
+    "barem": {
+      "exercitiul_A": "1. câte 2 puncte pentru menționarea, pe baza textului dat, a fiecăreia dintre cele două caracteristici ale naturii umane 2x2p= 4 puncte 2. - câte 1 punct pentru utilizarea fiecăruia dintre cei doi termeni daţi în sens filosofic 2x1p= 2 puncte - evidenţierea unei corelaţii existente între termenii dați 4 puncte - coerenţa textului redactat 2 puncte - încadrarea în limita de spaţiu precizată 2 puncte 3. formularea unui punct de vedere personal referitor la actualitatea perspectivei filosofice prezentată în textul dat (în situația în care candidatul formulează punctul de vedere personal, fără să-l prezinte adecvat, se acordă 2 puncte din cele 6 puncte posibile) 6 puncte",
+      "exercitiul_B": "1. câte 2 puncte pentru menționarea oricăreia dintre cele două întrebări specifice filosofiei 2x2p= 4 puncte 2. ilustrarea, printr-un exemplu concret, a unei situații de viață în care filosofia a fost utilă (în situația în care candidatul tratează subiectul la nivel teoretic, fără a formula un exemplu concret, se acordă 2 puncte din cele 6 puncte posibile) 6 puncte"
+    }
+  }
+}

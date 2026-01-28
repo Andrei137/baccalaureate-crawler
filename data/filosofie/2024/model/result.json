@@ -1,0 +1,49 @@
+{
+  "subiectul_1": {
+    "subiect": {
+      "enunt": "Scrieţi pe foaia de examen litera corespunzătoare răspunsului corect, pentru fiecare dintre situaţiile de mai jos. Este corectă o singură variantă de răspuns.",
+      "exercitiul_1": "Filosoful care afirmă că omul, spre deosebire de animal, este definit prin nevoia de a depăși imediatul și prin destinul său creator, este: a. Aristotel b. René Descartes c. Platon d. Lucian Blaga",
+      "exercitiul_2": "Problematica binelui și a răului, în sens strict: a. apare atunci când reflectăm numai asupra limitelor cunoașterii b. este proprie numai omului și apare atunci când reflectăm asupra moralității acțiunilor noastre c. apare atunci când reflectăm numai asupra analizei logice a limbajului d. apare atunci când reflectăm asupra sensului existenței",
+      "exercitiul_3": "Problemele de etică aplicată: a. au un caracter preponderent teoretic b. au un caracter controversat c. cunosc soluționare prin analiza logică a limbajului d. cunosc o soluționare univocă",
+      "exercitiul_4": "Libertatea pozitivă ca formă a libertății social-politice: a. este caracterizată prin libertate absolută b. constă în realizarea condițiilor presupuse de îndeplinirea scopurilor individuale prin intervenția sporită a statului în viața societății sau a individului c. realizarea ei în practică presupune restrângerea intervenției statului la un nivel minim, așa încât individul să aibă libertate absolută d. desemnează absența oricăror constrângeri și este sinonimă cu anarhia",
+      "exercitiul_5": "Considerată drept fundament al tuturor valorilor umane, libertatea social-politică pentru a fi mai bine înțeleasă, în sens strict, trebuie corelată cu: a. sociabilitatea b. un ideal de moralitate formulat fără echivoc c. responsabilitatea social-politică d. cunoașterea",
+      "exercitiul_6": "Filosoful francez Jean-Paul Sartre consideră că: a. în cazul omului, existența precede esența b. omul tinde să-și reveleze misterul c. omul absurd spune da și efortul său nu va înceta niciodată d. viața este tocmai voință de putere",
+      "exercitiul_7": "Potrivit filosofului Im. Kant, cunoștințele a priori au două caracteristici fundamentale și anume: a. necesitatea și contingența c. necesitatea și universalitatea b. înclinația și datoria d. plăcerea și fericirea",
+      "exercitiul_8": "Reprezentanții teoriei pragmatiste a adevărului apreciază valoarea ideilor noastre din perspectiva: a. compatibilității lor cu ansamblul idelor considerate adevărate la un moment dat b. legii c. compatibilității lor cu ansamblul idelor considerate false la un moment dat d. utilității",
+      "exercitiul_9": "Ideea de bază a hedonismului susținut de John Stuart Mill este aceea potrivit căreia: a. fericirea constă în activitatea sufletului conformă cu virtutea b. fundamentul moralei este utilitatea sau principiul celei mai mari fericiri c. fericirea constă în activitatea sufletului conformă cu rațiunea d. fundamentul moralei este datoria",
+      "exercitiul_10": "Propoziția „Afară este soare” este adevărată, din perspectiva teoriei adevărului corespondență numai dacă: a. este în discordanță cu alte propoziții acceptate deja ca fiind adevărate b. adevărul se verifică prin utilitatea ei c. este în concordanță cu realitatea la care se referă d. adevărul se va aplica unei judecăți sintetice a priori"
+    },
+    "barem": "- câte 3 puncte pentru fiecare răspuns corect, astfel: 1-d, 2-b, 3-b, 4-b, 5-c, 6-a, 7-c, 8-d, 9-b, 10-c 10x3p= 30 puncte"
+  },
+  "subiectul_2": {
+    "subiect": {
+      "exercitiul_A": "Analizaţi, într-o pagină, problematica libertăţii şi responsabilităţii social-politice, din perspectivă filosofică, având în vedere următoarele repere: - numirea unui filosof care, în scrierile sale, a făcut referire la problematica libertăţii şi responsabilităţii social-politice 1 punct - explicarea unei teze/idei filosofice despre libertatea şi responsabilitatea social-politică, precizată explicit - ilustrarea tezei/ideii filosofice pe care aţi precizat-o, printr-un exemplu concret de situaţie din societatea contemporană - menţionarea unei consecinţe asupra funcţionării unui regim democratic, în cazul în care libertatea de asociere în cadrul unui asemenea regim este limitată de către autorităţi 1 punct",
+      "exercitiul_B": "Argumentați în favoarea sau împotriva tezei potrivit căreia activitatea călăuzită de rațiune este binele suprem pentru om.",
+      "exercitiul_C": "Ilustrați, printr-un exemplu concret, modul în care este evaluată moralitatea unei acțiuni din perspectiva unui reprezentant al eticii hedoniste."
+    },
+    "barem": {
+      "exercitiul_A": "- numirea unui filosof care, în scrierile sale, a făcut referire la problematica libertăţii şi responsabilităţii social-politice 1 punct - precizarea explicită a tezei cerute 2 puncte - explicarea tezei/ideii filosofice despre libertatea şi responsabilitatea social-politică: explicare adecvată-6p./ explicare superficială, neconvingătoare -2p. 6 puncte - încadrarea în limita de spațiu precizată(1pagină ± ¼ pagină) 2 puncte - ilustrarea tezei/ideii filosofice precizată, printr-un exemplu concret de situaţie din societatea contemporană((în situația în care candidatul tratează subiectul la nivel teoretic, fără a formula un exemplu concret, se acordă 1 puncte din cele 4 puncte posibile) 4 puncte - menţionarea unei consecinţe asupra funcţionării unui regim democratic, în cazul în care libertatea de asociere în cadrul unui asemenea regim este limitată de către autorităţi 1 punct",
+      "exercitiul_B": "- argumentarea în favoarea sau împotriva tezei date: argumentare convingătoare - 6p./argumentare neconvingătoare, superficială -2p. 6 puncte - respectarea structurii formale a argumentării (premisă, conectori logici, concluzie) 2 puncte",
+      "exercitiul_C": "ilustrarea cerută: scrierea oricărui exemplu concret, adecvat-6p/ scrierea unei explicații corecte, dar la nivel teoretic, fără însă a formula un exemplu concret -2p. 6 puncte"
+    }
+  },
+  "subiectul_3": {
+    "subiect": {
+      "exercitiul_A": {
+        "enunt": "Se dă următorul text: Și cu toate că am un corp care mi-e foarte strâns legat – fiindcă totuși, pe de o parte, am o idee distinctă și clară a mea însumi ca ființă cugetătoare doar, neîntinsă, iar pe de altă parte, o idee distinctă a corpului ca lucru întins doar, necugetător, e sigur că sunt deosebit cu adevărat de corpul meu… (R. Descartes, Meditații despre filosofia primă)",
+        "subpunctul_1": "Menționați două caracteristici ale naturii umane vizate de text.",
+        "subpunctul_2": "Explicați, în aproximativ o jumătate de pagină, o corelație existentă între termenii cugetare și esența umană, utilizând termenii menționați în sens filosofic.",
+        "subpunctul_3": "Argumentați un punct de vedere personal referitor la actualitatea perspectivei filosofice din textul dat."
+      },
+      "exercitiul_B": {
+        "enunt": "Știind că, încercând să argumenteze că dreptatea este proprie naturii umane, filosofii au formulat diverse puncte de vedere:",
+        "subpunctul_1": "Menționați două temeiuri ale dreptății, proprii naturii umane.",
+        "subpunctul_2": "Construiți un argument care să justifice ideea potrivit căreia sociabilitatea este o trăsătură specific umană."
+      }
+    },
+    "barem": {
+      "exercitiul_A": "1.- câte 2 puncte pentru menționarea, pe baza textului dat, a fiecăreia dintre cele două caracteristici ale naturii umane 2x2p= 4 puncte 2.- câte 1 punct pentru utilizarea fiecăruia dintre cei doi termeni daţi în sens filosofic 2x1p= 2 puncte - explicarea corelaţiei existente între termenii dați: explicare adecvată-6p/explicare superficială, neconvingătoare -2p. 6 puncte - coerenţa textului redactat 1punct - încadrarea în limita de spaţiu precizată(1/2 pagină± 2 rânduri) 1punct 3. - formularea punctului de vedere personal referitor la actualitatea perspectivei filosofice din textul dat 2 puncte - argumentarea punctului de vedere personal formulat referitor la actualitatea perspectivei filosofice din textul dat: argumentare convingătoare -4p./argumentare neconvingătoare, superficială -2p. 4 puncte",
+      "exercitiul_B": "1.- câte 2 puncte pentru menționarea fiecăruia dintre cele două temeiuri ale dreptății, proprii naturii umane 2x2p= 4 puncte 2.- construirea argumentului cerut 4 puncte - respectarea structurii formale a argumentului (premisă, conectori logici, concluzie) 2 puncte"
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "subiectul_1": {
+    "subiect": "Pentru fiecare dintre următorii itemi, scrieți, pe foaia de examen, doar cifra corespunzătoare și notați în dreptul ei doar litera asociată răspunsului corect. Este corectă o singură variantă de răspuns. 1. Grupurile în cadrul cărora relațiile se realizează după anumite reguli scrise, în interiorul acestora existând o ierarhie oficială, sunt grupuri: a. de egali c. informale b. formale d. de apartenență 2. Biserica îndeplinește funcția de mediere între: a. stat și partidele politice c. stat și școală b. stat și ONG-uri d. stat și societatea civilă 3. Preferința firmelor de a angaja cu precădere proaspăt absolvenți este un exemplu de discriminare : a. etnică c. de vârstă b. de gen d. rasială 4. Principiul separării puterilor, ca principiu al statului democratic, se referă la: a. distincția între puterea legislativă, executivă, judecătorească c. delegarea puterii prin vot b. dreptul statului de a-și fixa propriile reguli în viața statului d. domnia legii 5. Ansamblul de statusuri deținute de către individ și asociate între ele reprezintă statusul: a. dobândit c. atribuit b. prescris d. global 6. Ocuparea unei funcții publice prin relații preferențiale este un exemplu de: a. corupție c. toleranță b. respect d. prejudecată 7. În cazul grupurilor primare, sociologii consideră că: a. sentimentul de apartenență la grup este mai slab b. relațiile sunt numai directe, față în față c. relațiile sunt impersonale, fără implicare afectivă d. nu există sentimentul apartenenței la grup 8. Despre socializarea anticipatorie, din perspectivă sociologică, se poate afirma că: a. durează cel mai mult în viața individului b. pregătește persoanele pentru rolurile pe care le dețin deja c. pregătește persoanele pentru rolurile pe care le vor deține în viitor d. este identică cu educația non-formală 9. Orice ființă umană își găsește echilibrul afectiv în cadrul familiei prin funcția: a. de producție c. economică b. de status d. afectivă 10. Scopul unei cercetări sociologice este să: a. descrie și să explice științific realitatea socială c. promoveze interese personale b. descrie și să aplice opinia spontană d. promoveze interese obscure",
+    "barem": "câte 3 puncte pentru fiecare răspuns corect, astfel: 1-b, 2-d, 3-c, 4-a, 5-d, 6-a, 7-b, 8-c, 9-d, 10-a 10x3p= 30 puncte"
+  },
+  "subiectul_2": {
+    "subiect": {
+      "enunt": "Se dă următorul text: Comportamentul antisocial se caracterizează prin încălcarea normelor și valorilor promovate de grup și societate și este propriu socializării negativ",
+      "exercitiul_e": "În acest caz se realizează defectuos procesul de socializare, motiv pentru care trebuie să intervină procesul de resocializare. Construiți o ipoteză de cercetare sociologică pornind de la textul dat.",
+      "exercitiul_a": "Formulați, într-un singur enunț, ideea principală a textului.",
+      "exercitiul_b": "Menționați două concepte sociologice din text.",
+      "exercitiul_c": "Precizați înțelesul celor două concepte sociologice, menționate la subpunctul b.",
+      "exercitiul_d": "Explicați, în aproximativ o pagină, modul specific în care interacționează conceptele sociologice menționate la subpunctul b.",
+      "exercitiul_f": "Argumentați un punct de vedere personal referitor la rolul școlii în realizarea socializării concordante care diminuează posibilitatea apariției socializării discordante."
+    },
+    "barem": {
+      "exercitiul_a": "formularea ideii principale a textului 2 puncte Notă: Punctajul se acordă numai în situația în care ideea principală este formulată într-un singur enunț.",
+      "exercitiul_b": "câte 1 punct pentru menţionarea oricăror două concepte la care se face referire în text 2x1p=2 puncte",
+      "exercitiul_c": "câte 3 puncte pentru precizarea înțelesului fiecăruia dintre cele două concepte menționate 2x3p=6 puncte",
+      "exercitiul_d": "explicarea cerută: explicare adecvată cu încadrarea în limita de spațiu precizată(± un sfert de pagină) – 8p./ explicare adecvată fără încadrarea în limita de spațiu precizată-6 p./ explicare superficială, neconvingătoare – 3p. 8puncte",
+      "exercitiul_e": "construirea ipotezei de cercetare sociologică: construirea oricărei ipoteze de cercetare sociologică pornind de la textul dat, cu respectarea caracterului științific al formulării ipotezei -6 p/ construirea oricărei ipoteze de cercetare sociologică pornind de la textul dat, fără respectarea caracterului științific al formulării ipotezei– 2p 6 puncte",
+      "exercitiul_f": "argumentarea punctului de vedere personal cerut: argumentare convingătoare – 6p./ argumentare neconvingătoare, superficială – 2p. 6 puncte"
+    }
+  },
+  "subiectul_3": {
+    "subiect": {
+      "enunt": "Răspundeți fiecăreia dintre următoarele cerințe:",
+      "exercitiul_1": "Precizați înțelesul noțiunii de metodă de cercetare.",
+      "exercitiul_2": "Menționați două caracteristici ale termenului de partid politic.",
+      "exercitiul_3": "Evidențiați o corelație existentă între termenii grup de referință și socializare redactând un text coerent, de o jumătate de pagină, în care să îi utilizați în sensul specific sociologiei. Punctajul se acordă pentru: a. utilizarea celor doi termeni în sensul specific sociologiei b. evidențierea corelației cerute c. coerența textului redactat 1 punct d. încadrarea în limita de spațiu precizată",
+      "exercitiul_4": "Ilustrați, printr-un exemplu concret, modul în care dezvoltarea de parteneriate public-privat pentru furnizarea unor bunuri sau servicii poate conduce la creșterea eficienței activității instituțiilor publice .",
+      "exercitiul_5": "Argumentați afirmația potrivit căreia școala este un factor important al mobilității sociale."
+    },
+    "barem": {
+      "exercitiul_1": "precizarea înţelesului noţiunii date 3 puncte",
+      "exercitiul_2": "câte 3 puncte pentru menţionarea oricăror două caracteristici ale termenului dat 2x3p=6 puncte",
+      "exercitiul_3": "a. câte 1 punct pentru utilizarea fiecăruia dintre cei doi termeni în sensul specific sociologiei 2x1p=2 puncte b. evidenţierea oricărei corelaţii existente între termenii daţi 4 puncte c. coerența textului redactat 1 punct d. încadrarea în limita de spațiu precizată (±2 rânduri) 2 puncte",
+      "exercitiul_4": "ilustrarea cerută: scrierea oricărui exemplu concret, adecvat – 6p./ scrierea unei explicații corecte, dar la nivel teoretic, fără însă a formula un exemplu concret – 2p. 6 puncte",
+      "exercitiul_5": "argumentarea afirmaţiei date: argumentare convingătoare, cu respectarea caracterului formal al construirii argumentării (premisă, conectori logici, concluzie)– 6p./ argumentare neconvingătoare, superficială – 2p. 6 puncte"
+    }
+  }
+}

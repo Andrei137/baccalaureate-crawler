@@ -1,0 +1,60 @@
+{
+  "subiectul_1": {
+    "subiect": {
+      "exercitiul_A": "Scrieţi, pe foaia de examen, noţiunile cu care trebuie să completaţi spaţiile libere din afirmaţia următoare, astfel încât aceasta să fie corectă. Procesul de descompunere a apei în ............ şi hidrogen are loc în faza/etapa de ............ a fotosintezei.",
+      "exercitiul_B": "Daţi două exemple de fructe uscate indehiscente, întâlnite la angiosperme; scrieţi în dreptul fiecărui exemplu de fruct câte o caracteristică.",
+      "exercitiul_C": {
+        "enunt": "Scrieţi, pe foaia de examen, litera corespunzătoare răspunsului corect. Este corectă o singură variantă de răspuns.",
+        "subpunctul_1": "Crustaceii, arahnidele şi insectele sunt: a) artropode b) celenterate c) cordate d) moluşte",
+        "subpunctul_2": "Scleroza în plăci este afecţiune a sistemului: a) circulator b) digestiv c) muscular d) nervos",
+        "subpunctul_3": "Organit din celula eucariotă cu rol în respiraţia aerobă este: a) aparatul Golgi b) centrozomul c) mitocondria d) reticulul endoplasmatic",
+        "subpunctul_4": "Fiecare dintre celulele-fiice formate prin diviziunea meiotică a unei celule-mamă cu 2n = 46 cromozomi are: a) 2n = 46 cromozomi b) 2n = 23 cromozomi c) n = 46 cromozomi d) n = 23 cromozomi",
+        "subpunctul_5": "Ovarele, la om: a) conţin numeroase tuburi seminifere b) reprezintă sediul fecundaţiei c) sunt gonadele feminine d) sunt localizate în cavitatea toracică"
+      },
+      "exercitiul_D": {
+        "enunt": "Citiţi, cu atenţie, afirmaţiile următoare. Dacă apreciaţi că afirmaţia este adevărată, scrieţi, pe foaia de examen, în dreptul cifrei corespunzătoare afirmaţiei, litera A. Dacă apreciaţi că afirmaţia este falsă, scrieţi, pe foaia de examen, în dreptul cifrei corespunzătoare afirmaţiei, litera F şi modificaţi parţial afirmaţia pentru ca aceasta să devină adevărată. Folosiţi, în acest scop, informaţia ştiinţifică adecvată. Nu se acceptă folosirea negaţiei.",
+        "subpunctul_1": "Rinichii mamiferelor sunt protejaţi la exterior de zona medulară.",
+        "subpunctul_2": "La mamifere, în timpul unei inspiraţii normale, sternul se apropie de coloana vertebrală.",
+        "subpunctul_3": "Cerebelul are rol în menţinerea echilibrului corpului."
+      }
+    },
+    "barem": {
+      "exercitiul_A": "Se acordă câte 2p. pentru fiecare noţiune corectă. 2 x 2p. = 4 puncte",
+      "exercitiul_B": "- două exemple de fructe uscate indehiscente, întâlnite la angiosperme; 2 x 1p. = 2 puncte - câte o caracteristică pentru fiecare exemplu de fruct uscat indehiscent. 2 x 2p. = 4 puncte",
+      "exercitiul_C": "Se acordă câte 2p. pentru fiecare răspuns corect: 1a; 2d; 3c; 4d; 5c. 5 x 2p. = 10 puncte",
+      "exercitiul_D": "Se acordă câte 2p. pentru fiecare răspuns corect: 1F; 2F; 3A. 3 x 2p.= 6 puncte Se acordă câte 2p. pentru modificarea corectă a fiecărei afirmaţii false. 2 x 2p.= 4 puncte"
+    }
+  },
+  "subiectul_2": {
+    "subiect": {
+      "exercitiul_A": {
+        "enunt": "Sistemul circulator al mamiferelor este alcătuit din inimă şi vase de sânge. Sângele pompat de inimă circulă într-un sistem închis de vase.",
+        "subpunctul_a": "Numiţi două tipuri de vase de sânge ale sistemului circulator şi cele două compartimente ale inimii prin care circulă sânge oxigenat.",
+        "subpunctul_b": "Precizaţi două deosebiri dintre valvulele semilunare (sigmoide) şi valvulele atrio- ventriculare.",
+        "subpunctul_c": "Calculaţi masa apei din plasma sângelui unei persoane, ştiind următoarele: - sângele reprezintă 7% din masa corpului; - plasma sangvină reprezintă 55% din masa sângelui; - apa reprezintă 90% din masa plasmei sangvine; - masa corpului persoanei este de 77 Kg. Scrieţi toate etapele parcurse pentru rezolvarea cerinţei.",
+        "subpunctul_d": "Completaţi problema de la punctul c) cu o altă cerinţă pe care o formulaţi voi, folosind informaţii ştiinţifice specifice biologiei; rezolvaţi cerinţa pe care aţi propus-o."
+      },
+      "exercitiul_B": {
+        "enunt": "Se încrucişează două soiuri de tufănele care se deosebesc prin culoarea şi dimensiunea florilor. Florile de culoare roz (",
+        "subpunctul_a": "şi mici (m) sunt caractere recesive, iar florile de culoare albă (A) şi mari (M) sunt caractere dominante. Un soi de tufănele are flori de culoare albă şi mari, fiind homozigot pentru ambele caractere, iar celălalt soi de tufănele are flori de culoare roz şi mici. În F 1 se obţin organisme hibride. Prin încrucişarea între ei a indivizilor din F 1 , se obţin, în F 2 , 16 combinaţii de factori ereditari. Stabiliţi următoarele: genotipul părinţilor;",
+        "subpunctul_b": "trei exemple de tipuri de gameţi produşi de indivizii din F 1 ;",
+        "subpunctul_c": "raportul de segregare după fenotip din F 2 ; genotipul organismelor din F 2 cu flori de culoare roz şi mari.",
+        "subpunctul_d": "Completaţi această problemă cu o altă cerinţă pe care o formulaţi voi, folosind informaţii ştiinţifice specifice biologiei; rezolvaţi cerinţa pe care aţi propus-o. Scrieţi toate etapele rezolvării problemei."
+      }
+    },
+    "barem": {
+      "exercitiul_A": "a) numirea a două tipuri de vase de sânge ale sistemului circulator şi a celor două compartimente ale inimii prin care circulă sânge oxigenat; 4 x 1p. = 4 puncte b) precizarea a două deosebiri dintre valvulele semilunare (sigmoide) şi valvulele atrio- ventriculare; 2 x 2p. = 4 puncte c) - calcularea masei sângelui persoanei; 2 puncte 77 x 7 : 100 = 5,39 kg; - calcularea masei plasmei sangvine; 2 puncte 5,39 x 55 : 100 = 2,9645 kg; - calcularea masei apei din plasma sangvină; 2 puncte 2,9645 x 90 : 100 = 2,66805 kg; d) - formularea cerinţei; 2 puncte - rezolvarea cerinţei. 2 puncte Notă Se punctează oricare altă modalitate de rezolvare a problemei. Pentru raţionamentul corect, neînsoţit de calcule, se acordă jumătate din punctajul repartizat rezolvării problemei.",
+      "exercitiul_B": "a) genotipul părinţilor: AAMM; aamm; 2 x 1p. = 2 puncte b) trei exemple de tipuri de gameţi produşi de indivizii din F 1 ; 3 x 1p. = 3 puncte c) raportul de segregare după fenotip din F 2 : 9:3:3:1; 1 punct - genotipul organismelor din F 2 cu flori de culoare roz şi mari (aaMM; aaMm); 2 x 1p. = 2 puncte d) - formularea cerinţei; 2 puncte - rezolvarea cerinţei. 2 puncte"
+    }
+  },
+  "subiectul_3": {
+    "subiect": {
+      "exercitiul_1": "La mamifere, digestia este realizată de sistemul digestiv. a) Numiţi doi produşi finali ai digestiei lipidelor. b) Caracterizaţi hepatita, precizând: cauza, două manifestări, o măsură de prevenire. c) Construiţi patru enunţuri afirmative, câte două pentru fiecare conţinut, utilizând limbajul ştiinţific adecvat. Folosiţi, în acest scop, informaţii referitoare la următoarele conţinuturi: - Pancreasul exocrin. - Digestia bucală.",
+      "exercitiul_2": "Ochiul este unul dintre organele de simţ care, împreună cu sistemul nervos au rol în realizarea sensibilităţii la mamifere. a) Enumeraţi alte trei organe de simţ ale mamiferelor. b) Scrieţi un argument în favoarea afirmaţiei următoare: „Coroida are rol în hrănirea globului ocular”. c) Alcătuiţi un minieseu intitulat „Sistemul optic al ochiului mamiferelor”, folosind informaţia ştiinţifică adecvată. În acest scop, respectaţi următoarele etape: - enumerarea a şase noţiuni specifice acestei teme; - construirea, cu ajutorul acestora, a unui text coerent, format din maximum trei-patru fraze, folosind corect şi în corelaţie noţiunile enumerate."
+    },
+    "barem": {
+      "exercitiul_1": "14 puncte a) numirea a doi produşi finali ai digestiei lipidelor; 2 x 1p. = 2 puncte b) caracterizarea hepatitei, precizând: - cauza hepatitei; 1 punct - două manifestări ale hepatitei; 2 x 1p. = 2 puncte - o măsură de prevenire a hepatitei; 1 punct c) construirea a patru enunţuri afirmative, utilizând limbajul ştiinţific adecvat, folosind informaţii referitoare la conţinuturile indicate. 4 x 2p. = 8 puncte",
+      "exercitiul_2": "16 puncte a) enumerarea altor trei organe de simţ ale mamiferelor; 3 x 1p. = 3 puncte b) scrierea unui argument; 3 puncte c) alcătuirea minieseului, folosindu-se informaţia ştiinţifică adecvată, respectându-se cerinţele: - pentru fiecare noţiune enumerată, specifică temei, se acordă câte 1p.; 6 x 1p.= 6 puncte - pentru coerenţa textului, de maximum trei-patru fraze, în alcătuirea căruia fiecare noţiune este folosită corect, în corelaţie cu celelalte noţiuni, se acordă 4 p. 4 puncte"
+    }
+  }
+}

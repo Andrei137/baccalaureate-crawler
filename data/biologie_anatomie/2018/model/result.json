@@ -1,0 +1,59 @@
+{
+  "subiectul_1": {
+    "subiect": {
+      "exercitiul_A": "Scrieţi, pe foaia de examen, noţiunile cu care trebuie să completaţi spaţiile libere din afirmaţia următoare, astfel încât aceasta să fie corectă. Parasimpaticul şi ............ sunt componente ale sistemului nervos ............ .",
+      "exercitiul_B": "Numiţi două afecţiuni ale analizatorului vizual; asociaţi fiecare afecţiune numită cu câte o caracteristică.",
+      "exercitiul_C": {
+        "enunt": "Scrieţi, pe foaia de examen, litera corespunzătoare răspunsului corect. Este corectă o singură variantă de răspuns.",
+        "subpunctul_1": "Femurul este unul dintre oasele scheletului: a) capului b) membrului inferior c) membrului superior d) trunchiului",
+        "subpunctul_2": "Sângele oxigenat este propulsat în artera aortă prin contracţia: a) atriului drept al inimii b) atriului stâng al inimii c) ventriculului drept al inimii d) ventriculului stâng al inimii",
+        "subpunctul_3": "Afecţiune a sistemului reproducător feminin este: a) anemia b) anexita c) emfizemul d) nefrita",
+        "subpunctul_4": "Componenta rinichiului la nivelul căreia se formează urina este: a) nefronul b) pelvisul renal c) vezica urinară d) uretra",
+        "subpunctul_5": "Produşii finali ai digestiei proteinelor, care sunt absorbiţi la nivelul intestinului subţire sunt: a) acizii graşi b) aminoacizii c) monozaharidele d) vitaminele"
+      },
+      "exercitiul_D": {
+        "enunt": "Citiţi, cu atenţie, afirmaţiile următoare. Dacă apreciaţi că afirmaţia este adevărată, scrieţi, pe foaia de examen, în dreptul cifrei corespunzătoare afirmaţiei, litera A. Dacă apreciaţi că afirmaţia este falsă, scrieţi, pe foaia de examen, în dreptul cifrei corespunzătoare afirmaţiei, litera F şi modificaţi parţial afirmaţia pentru ca aceasta să devină adevărată. Nu se acceptă folosirea negaţiei.",
+        "subpunctul_1": "Segmentul central al analizatorului auditiv conţine receptorii auditivi.",
+        "subpunctul_2": "Croitorul este muşchi al capului.",
+        "subpunctul_3": "Biotopul şi biocenoza sunt componente ale unui ecosistem."
+      }
+    },
+    "barem": {
+      "exercitiul_A": "Se acordă câte 2p. pentru fiecare noţiune corectă. 2 x 2p.= 4 puncte",
+      "exercitiul_B": "- numirea a două afecţiuni ale analizatorului vizual; 2 x 1p.= 2 puncte - asocierea fiecărei afecţiuni numite cu câte o caracteristică. 2 x 2p.= 4 puncte",
+      "exercitiul_C": "Se acordă câte 2p. pentru fiecare răspuns corect: 1b; 2d; 3b; 4a; 5b. 5 x 2p.= 10 puncte",
+      "exercitiul_D": "Se acordă câte 2p. pentru fiecare răspuns corect: 1F; 2F; 3A. 3 x 2p.= 6 puncte Se acordă câte 2p. pentru modificarea corectă a fiecărei afirmaţii false. 2 x 2p.= 4 puncte"
+    }
+  },
+  "subiectul_2": {
+    "subiect": {
+      "exercitiul_A": {
+        "enunt": "ADN-ul şi ARN-ul sunt polimeri ai unor unităţi numite nucleotide.",
+        "subpunctul_a": "Precizaţi o asemănare şi o deosebire între o nucleotidă ADN şi o nucleotidă ARN.",
+        "subpunctul_b": "Un fragment al unei macromolecule de ADN bicatenar conţine 544 de nucleotide, dintre care 214 conţin timină. Stabiliţi următoarele: - numărul nucleotidelor cu guanină din macromolecula de ADN (scrieţi toate etapele necesare rezolvării acestei cerinţe); - numărul legăturilor duble şi al legăturilor triple din fragmentul macromoleculei de ADN bicatenar; - secvenţa de nucleotide din catena de ADN 5’-3’ complementară, ştiind că pe catena 3’-5’ secvenţa de nucleotide este următoarea: GTAACT.",
+        "subpunctul_c": "Completaţi problema de la punctul b) cu o altă cerinţă pe care o formulaţi voi, folosind informaţii ştiinţifice specifice biologiei; rezolvaţi cerinţa pe care aţi propus-o."
+      },
+      "exercitiul_B": {
+        "enunt": "O persoană cu grupa sanguină O şi Rh pozitiv este supusă unei intervenţii chirurgicale. Este necesară realizarea unei transfuzii cu o cantitate mică de sânge. În spital există rezerve de sânge aparţinând următoarelor grupe: O şi Rh negativ, A şi Rh pozitiv, B şi Rh negativ. Precizaţi:",
+        "subpunctul_a": "consecinţa în cazul transfuziei cu sânge provenit de la un donator incompatibil din punctul de vedere al sistemului ABO;",
+        "subpunctul_b": "grupa/grupele sângelui care poate fi folosit de medici pentru transfuzie, din rezervele de sânge ale spitalului; motivaţi răspunsul dat.",
+        "subpunctul_c": "tipul de aglutinogen/antigen caracteristic grupei sanguine B.",
+        "subpunctul_d": "Completaţi această problemă cu o altă cerinţă pe care o formulaţi voi, folosind informaţii ştiinţifice specifice biologiei; rezolvaţi cerinţa pe care aţi propus-o."
+      }
+    },
+    "barem": {
+      "exercitiul_A": "a) precizarea unei asemănări şi a unei deosebiri între o nucleotidă ADN şi o nucleotidă ARN; 2 x 2p.= 4 puncte b) - numărul de nucleotide care conţin guanină – etapele rezolvării: - stabilirea numărului de nucleotide care conţin adenină (214); 1 punct - stabilirea numărului de nucleotide care conţin adenină + timină (428); 1 punct - stabilirea numărului de nucleotide care conţin citozină + guanină (116); 1 punct - stabilirea numărului de nucleotide care conţin guanină (58); 1 punct - numărul legăturilor duble din fragmentul macromoleculei de ADN bicatenar (214); 2 puncte - numărul legăturilor triple din fragmentul macromoleculei de ADN bicatenar (58); 2 puncte - secvenţa de nucleotide din catena de ADN 5’-3’ complementară: CATTGA. 2 puncte Notă Pentru raţionamentul corect, neînsoţit de calcule, se acordă jumătate din punctajul repartizat etapelor calculării numărului de nucleotide cu guanină. c) - formularea cerinţei; 2 puncte - rezolvarea cerinţei. 2 puncte",
+      "exercitiul_B": "a) consecinţa în cazul transfuziei cu sânge provenit de la un donator incompatibil din punctul de vedere al sistemului ABO; 2 puncte b) grupa sângelui care poate fi folosit de medici pentru transfuzie, din rezervele de sânge ale spitalului: O şi Rh negativ; 2 puncte - motivarea corectă; 2 puncte c) tipul de aglutinogen/antigen caracteristic grupei sanguine B; 2 puncte d) formularea cerinţei; 2 puncte - rezolvarea cerinţei. 2 puncte"
+    }
+  },
+  "subiectul_3": {
+    "subiect": {
+      "exercitiul_1": "În timpul ventilaţiei pulmonare sunt mobilizate mai multe volume respiratorii. a) Înlocuiţi literele din relaţia de mai jos cu noţiunile corespunzătoare: Capacitatea pulmonară (totală) = volumul curent + B + C + D. b) Indicaţi un factor care ar putea influenţa valoarea capacităţii pulmonare (totale). c) Construiţi patru enunţuri afirmative, câte două pentru fiecare conţinut, utilizând limbajul ştiinţific adecvat. Folosiţi, în acest scop, informaţii referitoare la următoarele conţinuturi: - Schimbul de gaze la nivelul alveolelor pulmonare. - Transportul O 2 prin intermediul sângelui.",
+      "exercitiul_2": "Glandele endocrine secretă hormoni, care sunt transportaţi la locul lor de acţiune prin intermediul sângelui. a) Precizaţi localizarea hipofizei, a tiroidei şi a pancreasului. b) Scrieţi un argument în favoarea susţinerii afirmaţiei următoare: „Hipofiza controlează activitatea endocrină a altor glande.” c) Alcătuiţi un minieseu intitulat „Diabetul zaharat şi diabetul insipid – boli endocrine”, folosind informaţia ştiinţifică adecvată. În acest scop, respectaţi următoarele etape: - enumerarea a şase noţiuni specifice acestei teme; - construirea, cu ajutorul acestora, a unui text coerent, format din maximum trei-patru fraze, folosind corect şi în corelaţie noţiunile enumerate."
+    },
+    "barem": {
+      "exercitiul_1": "14 puncte a) înlocuirea cu noţiunile corespunzătoare a celor trei litere (B, C, D) din relaţia dată; 3 x 1p.= 3 puncte b) indicarea unui factor care ar putea influenţa valoarea capacităţii pulmonare (totale); 3 puncte c) construirea a patru enunţuri afirmative, utilizând limbajul ştiinţific adecvat, folosind, în acest scop, informaţii referitoare la conţinuturile indicate. 4 x 2p. = 8 puncte",
+      "exercitiul_2": "16 puncte a) precizarea localizării hipofizei, a tiroidei şi a pancreasului; 3 x 1p.= 3 puncte b) scrierea unui argument; 3 puncte c) alcătuirea minieseului, folosindu-se informaţia ştiinţifică adecvată, respectându-se cerinţele: - pentru fiecare noţiune enumerată, specifică temei, se acordă câte 1p. 6 x 1p.= 6 puncte - pentru coerenţa textului, de maximum trei-patru fraze, în alcătuirea căruia fiecare noţiune este folosită corect, în corelaţie cu celelalte noţiuni, se acordă 4 p. 4 puncte"
+    }
+  }
+}

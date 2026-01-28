@@ -1,0 +1,60 @@
+{
+  "subiectul_1": {
+    "subiect": {
+      "exercitiul_A": "Scrieţi, pe foaia de examen, noţiunile cu care trebuie să completaţi spaţiile libere din afirmaţia următoare, astfel încât aceasta să fie corectă. Corneea, umoarea apoasă, ............ şi ............ sunt componente ale sistemului optic al ochiului mamiferelor.",
+      "exercitiul_B": "Daţi două exemple de faze ale diviziunii celulare mitotice; scrieţi în dreptul fiecărei faze câte o caracteristică.",
+      "exercitiul_C": {
+        "enunt": "Scrieţi, pe foaia de examen, litera corespunzătoare răspunsului corect. Este corectă o singură variantă de răspuns.",
+        "subpunctul_1": "Coniferele sunt: a) alge b) filicate c) dicotiledonate d) gimnosperme",
+        "subpunctul_2": "Crustaceii sunt: a) artropode b) cordate c) gasteropode d) scifozoare",
+        "subpunctul_3": "Corola florii angiospermelor este alcătuită din totalitatea: a) carpelelor b) petalelor c) sepalelor d) staminelor",
+        "subpunctul_4": "Rinichii mamiferelor: a) au la exterior o capsulă fibroasă b) participă la realizarea funcției de relație c) sunt componente ale căilor urinare d) sunt localizați în cavitatea toracică",
+        "subpunctul_5": "La plante, fotosinteza: a) are sediul la nivelul mitocondriei b) constă în eliberarea de CO 2 c) este un tip de nutriţie autotrofă d) se realizează în absența luminii"
+      },
+      "exercitiul_D": {
+        "enunt": "Citiţi, cu atenţie, afirmaţiile următoare. Dacă apreciaţi că afirmaţia este adevărată, scrieţi, pe foaia de examen, în dreptul cifrei corespunzătoare afirmaţiei, litera A. Dacă apreciaţi că afirmaţia este falsă, scrieţi, pe foaia de examen, în dreptul cifrei corespunzătoare afirmaţiei, litera F şi modificaţi parţial afirmaţia pentru ca aceasta să devină adevărată. Folosiţi, în acest scop, informaţia ştiinţifică adecvată. Nu se acceptă folosirea negaţiei.",
+        "subpunctul_1": "Ovulele și spermatozoizii sunt celule haploide.",
+        "subpunctul_2": "Tripsina, componentă a sucului pancreatic, are rol în digestia chimică a glucidelor.",
+        "subpunctul_3": "Cantitatea de energie obţinută prin respiraţia aerobă este mai mică decât cantitatea de energie obţinută prin respiraţia anaerobă."
+      }
+    },
+    "barem": {
+      "exercitiul_A": "Se acordă câte 2p. pentru fiecare noţiune corectă. 2 x 2p. = 4 puncte",
+      "exercitiul_B": "- două exemple de faze ale diviziunii celulare mitotice; 2 x 1p. = 2 puncte - câte o caracteristică pentru fiecare fază dată exemplu. 2 x 2p. = 4 puncte",
+      "exercitiul_C": "Se acordă câte 2p. pentru fiecare răspuns corect: 1d; 2a; 3b; 4a; 5c. 5 x 2p. = 10 puncte",
+      "exercitiul_D": "Se acordă câte 2p. pentru fiecare răspuns corect: 1A; 2F; 3F. 3 x 2p. = 6 puncte Se acordă câte 2p. pentru modificarea corectă a fiecărei afirmaţii false. 2 x 2p. = 4 puncte"
+    }
+  },
+  "subiectul_2": {
+    "subiect": {
+      "exercitiul_A": {
+        "enunt": "Sistemul circulator al omului este alcătuit din inimă și vase de sânge.",
+        "subpunctul_a": "Caracterizaţi o boală a sistemului circulator la om, precizând: denumirea bolii, o cauză, o manifestare, două măsuri de prevenire.",
+        "subpunctul_b": "Explicați rolul arterei aorte.",
+        "subpunctul_c": "Calculaţi masa apei din plasma sângelui unui copil, ştiind următoarele: - sângele reprezintă 7% din masa corpului; - plasma sangvină reprezintă 55% din masa sângelui; - apa reprezintă 90% din masa plasmei sangvine; - masa corpului copilului este de 28 Kg. Scrieţi toate etapele parcurse pentru rezolvarea cerinţei.",
+        "subpunctul_d": "Completaţi problema de la punctul c) cu o altă cerinţă pe care o formulaţi voi, folosind informaţii ştiinţifice specifice biologiei; rezolvaţi cerinţa pe care aţi propus-o."
+      },
+      "exercitiul_B": {
+        "enunt": "Se încrucişează două soiuri de nuci care se deosebesc prin două perechi de caractere. Un soi de nuc are fructe mari (M), ovoidale (a), fiind heterozigot pentru dimensiunea fructelor, iar celălalt soi de nuc are fructe mici (m), alungite (A), fiind heterozigot pentru forma fructelor. În F 1 se obțin mai multe combinații de factori ereditari. Stabiliţi următoarele:",
+        "subpunctul_a": "genotipurile părinților;",
+        "subpunctul_b": "tipurile de gameţi produşi de fiecare dintre cei doi părinți;",
+        "subpunctul_c": "genotipul indivizilor din F 1 cu ambele caractere dominante; procentul combinațiilor din F 1 cu fructe ovoidale;",
+        "subpunctul_d": "Completaţi această problemă cu o altă cerinţă pe care o formulaţi voi, folosind informaţii ştiinţifice specifice biologiei; rezolvaţi cerinţa pe care aţi propus-o. Scrieţi toate etapele rezolvării problemei."
+      }
+    },
+    "barem": {
+      "exercitiul_A": "a) caracterizarea unei boli a sistemului circulator la om, precizând: - denumirea bolii; 1 punct - o cauză a bolii; 1 punct - o manifestare a bolii; 1 punct - două măsuri de prevenire; 2 x 1p. = 2 puncte b) explicarea corectă; 3 puncte c) - calcularea masei sângelui copilului; 2 puncte 28 x 7: 100 = 1,96 kg; - calcularea masei plasmei sangvine; 2 puncte 1,96 x 55 : 100 = 1,078 kg; - calcularea masei apei din plasma sangvină; 2 puncte 1,078 x 90 : 100 = 0,9702 kg; d) - formularea cerinţei; 2 puncte - rezolvarea cerinţei. 2 puncte Notă Se punctează oricare altă modalitate de rezolvare a problemei. Pentru raţionamentul corect, neînsoţit de calcule, se acordă jumătate din punctajul repartizat rezolvării problemei.",
+      "exercitiul_B": "a) genotipurile părinților: Mmaa; mmAa; 2 x 1p. = 2 puncte b) tipurile de gameţi produşi de fiecare dintre cei doi părinți: Ma; ma; mA; ma; 4 x 1p. = 4 puncte c) genotipul indivizilor din F 1 cu ambele caractere dominante: MmAa; 1 punct - procentul combinațiilor din F 1 cu fructe ovoidale (50%); 1 punct d) - formularea cerinţei; 2 puncte - rezolvarea cerinţei. 2 puncte"
+    }
+  },
+  "subiectul_3": {
+    "subiect": {
+      "exercitiul_1": "Sistemul nervos împreună cu organele de simț au rol în realizarea sensibilităţii la mamifere. a) Precizaţi trei caracteristici ale urechii medii a mamiferelor. b) Scrieți un argument în favoarea rolului pielii de organ de simț. c) Construiţi patru enunţuri afirmative, câte două pentru fiecare conţinut, utilizând limbajul ştiinţific adecvat. Folosiţi, în acest scop, informaţii referitoare la următoarele conţinuturi: - Encefalul - componente - Boli ale sistemului nervos central la om – factori de risc",
+      "exercitiul_2": "Celulele, unități structurale și funcționale ale lumii vii, se grupează în țesuturi, iar acestea, la rândul lor, formează organe. a) Enumeraţi trei componente ale unei celule eucariote. b) Explicați relația dintre structură și funcție în cazul vaselor conducătoare lemnoase ale angiospermelor. c) Alcătuiţi un minieseu intitulat „Țesuturile animale epiteliale”, folosind informaţia ştiinţifică adecvată. În acest scop, respectaţi următoarele etape: - enumerarea a şase noţiuni specifice acestei teme; - construirea, cu ajutorul acestora, a unui text coerent, format din maximum trei-patru fraze, folosind corect şi în corelaţie noţiunile enumerate."
+    },
+    "barem": {
+      "exercitiul_1": "14 puncte a) precizarea a trei caracteristici ale urechii medii a mamiferelor; 3 x 1p. = 3 puncte b) scrierea unui argument; 3 puncte c) construirea a patru enunţuri afirmative, utilizând limbajul ştiinţific adecvat, folosind informaţii referitoare la conţinuturile indicate. 4 x 2p. = 8 puncte",
+      "exercitiul_2": "16 puncte a) enumerarea a trei componente ale unei celule eucariote; 3 x 1p. = 3 puncte b) explicarea corectă; 3 puncte c) alcătuirea minieseului, folosindu-se informaţia ştiinţifică adecvată, respectându-se cerinţele: - pentru fiecare noţiune enumerată, specifică temei, se acordă câte 1p.; 6 x 1p.= 6 puncte - pentru coerenţa textului, în alcătuirea căruia fiecare noţiune este folosită corect, în corelaţie cu celelalte noţiuni, se acordă 2 p. 2 puncte - pentru respectarea lungimii textului - maxim trei-patru fraze - se acordă 2 p. 2 puncte"
+    }
+  }
+}

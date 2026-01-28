@@ -1,0 +1,43 @@
+{
+  "subiectul_1": {
+    "subiect": "Pentru fiecare dintre următorii itemi, scrieți, pe foaia de examen, doar cifra corespunzătoare și notați în dreptul ei doar litera asociată răspunsului corect. Este corectă o singură variantă de răspuns. 1. Ca tendință generală, în ceea ce privește familia din societatea contemporană, se poate observa: a. alegerea partenerului de viață de către părinți sau rude b. dominația și autoritatea bărbatului asupra femeii c. egalizarea pozițiilor din căsătorie între bărbați și femei d. autoritatea și dominanța excesivă a părinților asupra copiilor 2. În societățile secularizate, religia: a. nu mai exercită o influență semnificativă asupra altor sfere ale societății b. are un impact tot mai mare asupra vieții politice c. joacă un rol central în ghidarea vieții publice d. are un rol esențial în organizarea relațiilor de muncă 3. Partidele politice de opoziție: a. susțin toate politicile partidului de guvernământ b. sunt excluse într-un stat democratic c. votează toate inițiativele partidului de guvernământ d. oferă alternative viabile la politicile inițiate de Guvern 4. Funcția economică a familiei: a. se referă la atitudini negative față de unele persoane străine b. constă în întreținerea gospodăriei, în acumularea unui venit c. constă în transmiterea limbii, obiceiurilor și valorilor sociale d. semnifică un tratament prin care sunt avantajați oamenii cu averi 5. Statul social urmărește: a. protejarea cetățenilor care încalcă legea b. asigurarea accesului tuturor cetățenilor la condiții mai bune de viață c. ignorarea actelor de absenteism de la locul de muncă d. diminuarea suveranității naționale unice și inalienabile 6. Biserica a jucat un rol important în viața oamenilor, deoarece: a. nașterea, căsătoria și moartea sunt însoțite de ritualuri specifice fiecărei religii b. este unica instituție socială c. nu a avut nicio influență asupra familiei d. nu îi călăuzește pe oameni în modul de comportare sau de exprimare 7. Un rol al şcolii este acela de a: a. descuraja formarea aprecierii valorilor și a cunoștințelor b. determina apariția inegalității de șanse în rândul elevilor c. contribui la formarea personalității și a autonomiei elevilor d. diminua numărul indivizilor care realizează socializarea concordantă 8. Principiul guvernării reprezentative, din Constituțiile statelor moderne, afirmă că: a. statul nu este îngrădit în realizarea scopurilor sale de puteri externe b. poporul guvernează prin reprezentanți aleși c. puterea trebuie deținută de o singură persoană d. statul nu permite cetățenilor acțiuni colective 9. Abandonul școlar poate determina: a. performanță în educație c. reușită școlară b. delincvență juvenilă d. comunicare eficientă 10. Activități precum participarea la concursuri și olimpiade școlare sunt specifice: a. educației formale c. educației parentale b. educației informale d. educației non-formale",
+    "barem": "câte 3 puncte pentru fiecare răspuns corect, astfel: 1-c, 2-a, 3-d, 4-b, 5-b, 6-a, 7-c, 8-b, 9-b, 10-d 10x3p= 30 puncte"
+  },
+  "subiectul_2": {
+    "subiect": {
+      "enunt": "Se dă următorul text: În orice familie distingem o distribuție a rolurilor sociale conform acelor norme și valori ce sunt dominante într-o cultură dată. În acest fel, conform unei diviziuni tradiționale a muncii casnice, rolurile soției puteau fi asociate bucătăriei, creșterii copiilor sau îngrijirii bătrânilor familiei, pe când rolurile soțului puteau fi asociate lucrului în afara gospodăriei și asigurării veniturilo",
+      "exercitiul_r": "În societățile contemporane, apar mult mai des familii în care soția lucrează în afara gospodăriei pentru a asigura veniturile necesare traiului, iar soțul se îngrijește de gospodărie și copii.",
+      "exercitiul_a": "Formulați, într-un singur enunț, ideea principală a textului.",
+      "exercitiul_b": "Menționați două concepte sociologice din text.",
+      "exercitiul_c": "Precizați înțelesul celor două concepte sociologice, menționate la subpunctul b.",
+      "exercitiul_d": "Explicați, în aproximativ o pagină, modul specific în care interacționează conceptele sociologice menționate la subpunctul b.",
+      "exercitiul_e": "Construiți o ipoteză de cercetare sociologică pornind de la textul dat.",
+      "exercitiul_f": "Argumentați un punct de vedere personal referitor la rolul mass-mediei în viața socială contemporană."
+    },
+    "barem": {
+      "exercitiul_a": "formularea ideii principale a textului 2 puncte Notă: Punctajul se acordă numai în situația în care ideea principală este formulată într-un singur enunț.",
+      "exercitiul_b": "câte 1 punct pentru menţionarea oricăror două concepte din text 2x1p=2 puncte",
+      "exercitiul_c": "câte 3 puncte pentru precizarea înțelesului fiecăruia dintre cele două concepte menționate 2x3p=6 puncte",
+      "exercitiul_d": "explicarea cerută: explicare adecvată cu încadrarea în limita de spațiu precizată(± un sfert de pagină) – 8p./ explicare adecvată fără încadrarea în limita de spațiu precizată-6 p./ explicare superficială, neconvingătoare – 3p. 8puncte",
+      "exercitiul_e": "construirea ipotezei de cercetare sociologică: construirea oricărei ipoteze de cercetare sociologică pornind de la textul dat, cu respectarea caracterului științific al formulării ipotezei -6 p/ construirea oricărei ipoteze de cercetare sociologică pornind de la textul dat, fără respectarea caracterului științific al formulării ipotezei– 2p 6 puncte",
+      "exercitiul_f": "argumentarea punctului de vedere personal cerut: argumentare convingătoare – 6p./ argumentare neconvingătoare, superficială – 2p. 6 puncte"
+    }
+  },
+  "subiectul_3": {
+    "subiect": {
+      "enunt": "Răspundeţi fiecăreia dintre următoarele cerinţe:",
+      "exercitiul_1": "Precizaţi înțelesul noţiunii de status dobândit.",
+      "exercitiul_2": "Menționați două caracteristici ale termenului de grup de egali.",
+      "exercitiul_3": "Evidenţiaţi o corelaţie existentă între termenii metodă de cercetare şi documente sociale, redactând un text coerent, de o jumătate de pagină, în care să îi utilizaţi în sensul specific sociologiei. Punctajul se acordă pentru: a. utilizarea celor doi termeni în sensul specific sociologiei b. evidențierea corelației cerute c. coerența textului redactat 1 punct d. încadrarea în limita de spațiu precizată",
+      "exercitiul_4": "Ilustraţi, printr-un exemplu concret, un conflict de rol.",
+      "exercitiul_5": "Argumentaţi afirmaţia potrivit căreia dobândirea unui status este rezultatul unei alegeri individuale și a unei competiții."
+    },
+    "barem": {
+      "exercitiul_1": "precizarea înţelesului noţiunii date 3 puncte",
+      "exercitiul_2": "câte 3 puncte pentru menţionarea oricăror două caracteristici ale termenului dat 2x3p=6 puncte",
+      "exercitiul_3": "a. câte 1 punct pentru utilizarea fiecăruia dintre cei doi termeni în sensul specific sociologiei 2x1p=2 puncte b. evidenţierea oricărei corelaţii existente între termenii daţi 4 puncte c. coerența textului redactat 1 punct d. încadrarea în limita de spațiu precizată (±2 rânduri) 2 puncte",
+      "exercitiul_4": "ilustrarea cerută: scrierea oricărui exemplu concret, adecvat – 6p./ scrierea unei explicații corecte, dar la nivel teoretic, fără însă a formula un exemplu concret – 2p. 6 puncte",
+      "exercitiul_5": "argumentarea afirmaţiei date: argumentare convingătoare, cu respectarea caracterului formal al construirii argumentării (premisă, conectori logici, concluzie)– 6p./ argumentare neconvingătoare, superficială – 2p. 6 puncte"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "subiectul_1": {
+    "subiect": {
+      "exercitiul_A": {
+        "enunt": "Scrieţi pe foaia de examen litera corespunzătoare răspunsului corect, pentru fiecare dintre enunțurile de mai jos. Este corectă o singură variantă de răspuns.",
+        "subpunctul_1": "Operațiunile prin care se creează bunurile economice sunt operațiuni: a. de consum b. de repartiție c. de redistribuire d. de producție",
+        "subpunctul_2": "În economia de piață, nivelul cheltuielilor salariale trebuie corelat cu: a. responsabilitatea întreprinzătorilor c. valoarea resurselor economice b. nivelul productivității muncii d. volumul nevoilor",
+        "subpunctul_3": "Prețul plătit de debitor pentru a dispune pe timp de un an de 100 de unități monetare se exprimă cu ajutorul indicatorului economic: a. rata dobânzii c. cota de rezervă obligatorie b. cota de profit la capital d. rata rentabilității",
+        "subpunctul_4": "„Sănătatea” economică a firmei semnifică faptul că: a. modificarea procentuală a productivității globale medii este mai mare decât modificarea absolută a cheltuielilor salariale b. creșterea productivității marginale a factorilor de producție este egală cu dinamica veniturilor obținute de firmă c. creșterea productivității muncii este superioară și doar temporar și în mod excepțional egală dinamicii salariului d. modificarea absolută a salariilor nominale este strict superioară modificării procentuale a rodniciei muncii",
+        "subpunctul_5": "Elasticitatea ofertei în funcţie de preţ se calculează ca: a. raport între sporul absolut al cantităţii oferite şi preţul iniţial înmulţit cu raportul dintre sporul relativ al prețului şi cantitatea oferită iniţial b. raport între sporul relativ al cantităţii oferite şi cantitatea oferită iniţial împărţit la raportul dintre preţul iniţial şi sporul relativ al prețului c. raport între sporul relativ al cantităţii oferite şi cantitatea oferită iniţial înmulţit cu raportul dintre sporul absolut al prețului şi preţul iniţial d. raport între sporul absolut al cantităţii oferite şi cantitatea oferită iniţial împărţit la raportul dintre sporul absolut al prețului şi preţul iniţial",
+        "subpunctul_6": "Notând cu Q cantitatea oferită și cu P prețul, o ofertă inelastică în raport de preț este ilustrată de relația: a. Δ%Q=Δ%P b. Δ%Q<Δ%P c. Δ%Q=+∞ d. Δ%Q=0"
+      },
+      "exercitiul_B": {
+        "enunt": "Pentru fiecare enunț scrieţi, pe foaia de examen, cifra corespunzătoare şi notaţi în dreptul ei litera A, dacă apreciaţi că enunţul este adevărat, sau F, dacă apreciaţi că enunţul este fals:",
+        "subpunctul_1": "Utilitatea economică a unui bun este o caracteristică a ofertei de pe piața acelui bun.",
+        "subpunctul_2": "Bunurile economice se deosebesc de bunurile libere prin raritatea lor.",
+        "subpunctul_3": "Piaţa este locul de formare a prețului.",
+        "subpunctul_4": "Între preţ şi cantitatea cerută există o relaţie pozitivă.",
+        "subpunctul_5": "În cazul bunurilor cu cerere elastică la preţ există o directă proporționalitate între modificarea preţului şi modificarea venitului total obținut din vânzări.",
+        "subpunctul_6": "Bunurile de lux nu pot avea utilitate, în sens general."
+      }
+    },
+    "barem": "A. câte 3 puncte pentru fiecare dintre cele 6 răspunsuri corecte, astfel: 1-d, 2-b, 3-a, 4-c, 5-d, 6-b 6x3p=18 puncte B. câte 2 puncte pentru fiecare dintre cele 6 răspunsuri corecte, astfel: 1-F, 2-A, 3-A, 4-F, 5-F, 6-F 6x2p=12 puncte"
+  },
+  "subiectul_2": {
+    "subiect": "A. Transcrieţi pe foaia de examen tabelul de mai jos: Producţia (buc.) 200 400 600 Preţul unitar (u.m.) 12 9 8 Costul unitar (u.m.) 10 6 7 Profitul unitar (u.m.) Profitul (u.m.) a) Completaţi tabelul dat, menționând totodată formulele utilizate pentru calcule. b) Reprezentați, în același sistem de axe, nivelul prețului și al costului unitar, în funcție de cantitatea produsă. c) Precizați, pe baza datelor din tabel și în funcție de nivelul profitului obținut, care este volumul optim al producţiei. B. În anul A 1 , volumul valoric al bunurilor economice de pe piață este de 30 mld. u.m., iar puterea de cumpărare a banilor este de 200 mil. de unități. Precizați: - valoarea banilor în A 1 ; - nivelul cererii de masă monetară în A 1 . C. Pentru fiecare dintre problemele următoare determinați indicatorul economic cerut, scriind formula folosită şi precizând semnificația notațiilor utilizate: 1. În condițiile în care veniturile salariale obținute de un angajat al unei firme au fost în anul A 0 de 60.000 u.m., nivelul mediu al prețurilor bunurilor de consum a fost de 10 u.m., iar cel al bunurilor de producție a fost de 8 u.m., determinați salariul real în A 0 exprimat în număr de unități. 2. Știind că nivelul costurilor fixe globale ale unei firme este de 30 u.m., iar costurile care depind de nivelul producției firmei sunt de 40 u.m., determinați cheltuielile anuale de producție. 3. În anul A 0 un deținător de obligațiuni a obținut 3300 u.m. ca venit fix pe titlu. Determinați cursul obligațiunii, dacă titlurile s-ar tranzacționa pe piața secundară a capitalurilor în anul A 1 la o rată a dobânzii de 6%.",
+    "barem": "A. a) - câte 2 puncte pentru precizarea fiecăreia dintre cele două formule utilizate pentru calcule 2x2p=4 puncte - câte 2 puncte pentru completarea valorilor pentru fiecare dintre cele două rânduri, astfel: Profitul unitar (2, 3, 1); Profitul (400, 1200, 600) 2x2p=4 puncte b) trasarea graficului cerut (în același sistem de axe) 4 puncte c) precizarea volumului optim al producției: 400 buc. 4 puncte B. câte 3 puncte pentru precizarea fiecăruia dintre cei doi indicatori economici ceruți, astfel: - valoarea banilor în A 1 este de 200 mil. de unități; - nivelul cererii de masă monetară în A 1 este de 30 mld. u.m. 2x3p=6 puncte C. - câte 3 puncte pentru scrierea formulelor în vederea determinării fiecăruia dintre cei trei indicatori economici ceruți la subpunctele 1., 2. și 3. 3x3p=9 puncte Notă: Punctajul se acordă numai în situația în care se face precizarea semnificației notațiilor din formulă. - câte 3 puncte pentru precizarea valorilor determinate în cazul fiecăruia dintre cei trei indicatori economici ceruți la subpunctele 1., 2. și 3., astfel: 1. salariul real în A 0 a fost de 6000 de unități; 2. cheltuielile anuale de producție sunt de 70 u.m.; 3. cursul obligațiunii este 55.000 u.m. 3x3p=9 puncte"
+  },
+  "subiectul_3": {
+    "subiect": {
+      "enunt": "Răspundeţi la fiecare dintre următoarele cerinţe:",
+      "exercitiul_1": "Se dă următorul text: Poți avea acces la credit, dar trebuie să ai în vedere riscurile! Dacă împrumutul acordat de bancă este cu dobândă variabilă, atunci există riscul ca dobânda să crească, iar dacă este în alte unități monetare decât leul și tu ești plătit în lei, atunci există și riscul valutar. Când faci bugetul, ia în calcul că rata dobânzii poate să crească. Înainte să decizi plata în avans a creditului, solicită băncii un calcul al sumei totale de plată, inclusiv al costurilor aferente acestei operațiuni. a) Formulați ideea principală a textului. b) Enumerați patru noțiuni economice din textul dat. c) Menționați câte o caracteristică pentru două dintre noțiunile enumerate la subpunctul b).",
+      "exercitiul_2": "Știind că modificările intervenite pe o anumită piață afectează și piețele corelate acesteia, precizați ce efect va avea creșterea prețului băuturilor carbogazoase asupra cererii de apă minerală carbogazoasă și a prețului apei minerale carbogazoase, în condițiile în care băuturile carbogazoase și apa minerală sunt bunuri substituibile."
+    },
+    "barem": {
+      "exercitiul_1": "a) formularea ideii principale a textului 2 puncte b) câte 1 punct pentru enumerarea oricăror patru noțiuni economice din textul dat 4x1p=4 puncte c) câte 3 puncte pentru menționarea oricărei caracteristici corecte pentru fiecare dintre cele două noțiuni 2x3p=6 puncte",
+      "exercitiul_2": "câte 4 puncte pentru precizarea efectelor cerute în condițiile date, astfel: cererea de apă minerală carbogazoasă va crește, prețului apei minerale carbogazoase va crește 2x4p=8 puncte"
+    }
+  }
+}

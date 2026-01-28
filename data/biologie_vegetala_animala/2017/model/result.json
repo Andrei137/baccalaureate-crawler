@@ -1,0 +1,60 @@
+{
+  "subiectul_1": {
+    "subiect": {
+      "exercitiul_A": "Scrieţi, pe foaia de examen, noţiunile cu care trebuie să completaţi spaţiile libere din afirmaţia următoare, astfel încât aceasta să fie corectă. Profaza, ............, anafaza şi ............ sunt faze ale diviziunii mitotice.",
+      "exercitiul_B": "Daţi două exemple de tipuri de ţesut muscular; scrieţi în dreptul fiecărui tip de ţesut muscular câte o caracteristică.",
+      "exercitiul_C": {
+        "enunt": "Scrieţi, pe foaia de examen, litera corespunzătoare răspunsului corect. Este corectă o singură variantă de răspuns.",
+        "subpunctul_1": "Anurele sunt: a) artropode b) cordate c) celenterate d) gasteropode",
+        "subpunctul_2": "Aparţin regnului Fungi: a) Ascomicetele b) Angiospermele c) Coniferele d) Pteridofitele",
+        "subpunctul_3": "Exemplu de fruct uscat, indehiscent, întâlnit la angiosperme, este: a) baca b) nuca c) păstaia d) silicva",
+        "subpunctul_4": "La mamifere, componenta comună a sistemelor respirator şi digestiv este: a) bronhia b) esofagul c) faringele d) traheea",
+        "subpunctul_5": "Ribozomii: a) au rol în sinteza proteinelor b) conţin o substanţă numită cromatină c) sunt specifici celulei vegetale d) sunt delimitaţi de o membrană dublă"
+      },
+      "exercitiul_D": {
+        "enunt": "Citiţi, cu atenţie, afirmaţiile următoare. Dacă apreciaţi că afirmaţia este adevărată, scrieţi, pe foaia de examen, în dreptul cifrei corespunzătoare afirmaţiei, litera A. Dacă apreciaţi că afirmaţia este falsă, scrieţi, pe foaia de examen, în dreptul cifrei corespunzătoare afirmaţiei, litera F şi modificaţi parţial afirmaţia pentru ca aceasta să devină adevărată. Folosiţi, în acest scop, informaţia ştiinţifică adecvată. Nu se acceptă folosirea negaţiei.",
+        "subpunctul_1": "Rinichii mamiferelor sunt localizaţi în cavitatea abdominală.",
+        "subpunctul_2": "Umoarea apoasă, umoarea sticloasă, cristalinul şi retina sunt componente ale sistemului optic al ochiului mamiferelor.",
+        "subpunctul_3": "Una dintre bolile cu transmitere sexuală întâlnită la ambele sexe, cauzată de o bacterie, este candidoza."
+      }
+    },
+    "barem": {
+      "exercitiul_A": "Se acordă câte 2p. pentru fiecare noţiune corectă. 2 x 2p. = 4 puncte",
+      "exercitiul_B": "- două exemple de tipuri de ţesut muscular; 2 x 1p. = 2 puncte - câte o caracteristică pentru fiecare tip de ţesut muscular. 2 x 2p. = 4 puncte",
+      "exercitiul_C": "Se acordă câte 2p. pentru fiecare răspuns corect: 1b; 2a; 3b; 4c; 5a. 5 x 2p. = 10 puncte",
+      "exercitiul_D": "Se acordă câte 2p. pentru fiecare răspuns corect: 1A; 2F; 3F. 3 x 2p.= 6 puncte Se acordă câte 2p. pentru modificarea corectă a fiecărei afirmaţii false. 2 x 2p.= 4 puncte"
+    }
+  },
+  "subiectul_2": {
+    "subiect": {
+      "exercitiul_A": {
+        "enunt": "La mamifere, sângele circulă prin sistemul circulator format din inimă şi vase de sânge. Sângele conţine plasmă şi elemente figurate.",
+        "subpunctul_a": "Caracterizaţi ateroscleroza precizând: două cauze, două manifestări, o măsură de prevenire.",
+        "subpunctul_b": "Formulaţi un argument în favoarea afirmaţiei următoare: „Leucocitele au rol în asigurarea imunităţii organismului”.",
+        "subpunctul_c": "Calculaţi masa apei din plasma sângelui unui sportiv, ştiind următoarele: - sângele reprezintă 7% din masa corpului; - plasma sangvină reprezintă 55% din masa sângelui; - apa reprezintă 90% din masa plasmei sangvine; - masa corpului sportivului este de 89 Kg. Scrieţi toate etapele parcurse pentru rezolvarea cerinţei.",
+        "subpunctul_d": "Completaţi problema de la punctul c) cu o altă cerinţă pe care o formulaţi voi, folosind informaţii ştiinţifice specifice biologiei; rezolvaţi cerinţa pe care aţi propus-o. Scrieţi toate etapele rezolvării problemei."
+      },
+      "exercitiul_B": {
+        "enunt": "Se încrucişează o plantă de talie înaltă (A), cu frunze ovale (B), fiind homozigotă pentru ambele caractere, cu o plantă pitică (",
+        "subpunctul_a": "şi cu frunze cordate (b). În F 1 se obţin descendenţi hibrizi. Prin încrucişarea între ei a indivizilor din F 1 , se obţin, în F 2 , 16 combinaţii de factori ereditari. Stabiliţi următoarele: genotipurile celor două plante şi fenotipul descendenţilor din F 1 ;",
+        "subpunctul_b": "două exemple de tipuri de gameţi produşi de indivizii din F 1 ;",
+        "subpunctul_c": "numărul combinaţiilor din F 2 , dublu heterozigote; genotipul indivizilor din F 2 de talie înaltă şi cu frunze cordate.",
+        "subpunctul_d": "Completaţi această problemă cu o altă cerinţă pe care o formulaţi voi, folosind informaţii ştiinţifice specifice biologiei; rezolvaţi cerinţa pe care aţi propus-o. Scrieţi toate etapele rezolvării problemei."
+      }
+    },
+    "barem": {
+      "exercitiul_A": "a) caracterizarea aterosclerozei precizând: - două cauze; 2 x 1p. = 2 puncte - două manifestări; 2 x 1p. = 2 puncte - o măsură de prevenire; 1 punct b) formularea unui argument; 3 puncte c) - calcularea masei sângelui sportivului; 2 puncte 89 x 7 : 100 = 6,23 kg; - calcularea masei plasmei sangvine; 2 puncte 6,23 x 55 : 100 = 3,4265 kg; - calcularea masei apei din plasma sangvină; 2 puncte 3,4265 x 90 : 100 = 3,08385 kg; d) - formularea cerinţei; 2 puncte - rezolvarea cerinţei. 2 puncte Notă Se punctează oricare altă modalitate de rezolvare a problemei. Pentru raţionamentul corect, neînsoţit de calcule, se acordă jumătate din punctajul repartizat rezolvării problemei.",
+      "exercitiul_B": "a) genotipurile celor două plante: AABB; aabb; 2 x 1p. = 2 puncte - fenotipul descendenţilor din F 1 : plante de talie înaltă, cu frunze ovale; 1 punct b) două exemple de tipuri de gameţi produşi de indivizii din F 1 ; 2 x 1p. = 2 puncte c) numărul combinaţiilor din F 2 , dublu heterozigote: 4 (4/16); 1 punct - genotipul indivizilor din F 2 de talie înaltă şi cu frunze cordate (AAbb; Aabb); 2 x 1p. = 2 puncte d) - formularea cerinţei; 2 puncte - rezolvarea cerinţei. 2 puncte"
+    }
+  },
+  "subiectul_3": {
+    "subiect": {
+      "exercitiul_1": "Funcţiile de nutriţie ale organismelor se realizează cu participarea mai multor sisteme de organe. a) Scrieţi ecuaţia chimică a respiraţiei anaerobe. b) Explicaţi relaţia dintre respiraţia aerobă şi fotosinteză. c) Construiţi patru enunţuri afirmative, câte două pentru fiecare conţinut, utilizând limbajul ştiinţific adecvat. Folosiţi, în acest scop, informaţii referitoare la următoarele conţinuturi: - Excreţia la plante. - Mecanismele absorbţiei apei şi a sărurilor minerale, la plante.",
+      "exercitiul_2": "Măduva spinării şi encefalul sunt componente ale sistemului nervos central al mamiferelor. a) Precizaţi cele trei componente ale trunchiului cerebral. b) Scrieţi un argument în favoarea afirmaţiei următoare: Cerebelul are rol în menţinerea echilibrului corpului. c) Alcătuiţi un minieseu intitulat „Măduva spinării”, folosind informaţia ştiinţifică adecvată. În acest scop, respectaţi următoarele etape: - enumerarea a şase noţiuni specifice acestei teme; - construirea, cu ajutorul acestora, a unui text coerent, format din maximum trei-patru fraze, folosind corect şi în corelaţie noţiunile enumerate."
+    },
+    "barem": {
+      "exercitiul_1": "14 puncte a) ecuaţia chimică a respiraţiei anaerobe; 3 puncte b) explicarea corectă; 3 puncte c) construirea a patru enunţuri afirmative, utilizând limbajul ştiinţific adecvat, folosind informaţii referitoare la conţinuturile indicate. 4 x 2p. = 8 puncte",
+      "exercitiul_2": "16 puncte a) precizarea celor trei componente ale trunchiului cerebral; 3 x 1p. = 3 puncte b) scrierea unui argument; 3 puncte c) alcătuirea minieseului, folosindu-se informaţia ştiinţifică adecvată, respectându-se cerinţele: - pentru fiecare noţiune enumerată, specifică temei, se acordă câte 1p.; 6 x 1p.= 6 puncte - pentru coerenţa textului, de maximum trei-patru fraze, în alcătuirea căruia fiecare noţiune este folosită corect, în corelaţie cu celelalte noţiuni, se acordă 4 p. 4 puncte"
+    }
+  }
+}

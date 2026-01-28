@@ -1,0 +1,61 @@
+{
+  "subiectul_1": {
+    "subiect": {
+      "exercitiul_A": "Scrieţi, pe foaia de examen, noţiunile cu care trebuie să completaţi spaţiile libere din afirmaţia următoare, astfel încât aceasta să fie corectă. Gineceul florii angiospermelor este alcătuit din ovar cu ovule, ............ şi ............ .",
+      "exercitiul_B": "Numiţi două grupe de angiosperme; scrieţi în dreptul fiecărei grupe câte un exemplu reprezentativ.",
+      "exercitiul_C": {
+        "enunt": "Scrieţi, pe foaia de examen, litera corespunzătoare răspunsului corect. Este corectă o singură variantă de răspuns.",
+        "subpunctul_1": "Arahnidele sunt: a) artropode b) cefalopode c) celenterate d) moluşte",
+        "subpunctul_2": "Este cale respiratorie a mamiferelor: a) esofagul b) intestinul c) plămânul d) traheea",
+        "subpunctul_3": "Nutriţia autotrofă: a) este specifică organismelor animale b) constă în sinteza de substanţe organice c) poate fi evidenţiată după O 2 absorbit d) se poate realiza saprofit şi parazit",
+        "subpunctul_4": "Boli ale sistemului nervos central la om sunt: a) candidoza şi sifilisul b) epilepsia şi paralizia c) gastrita şi hepatita d) strabismul şi TBC-ul",
+        "subpunctul_5": "La mamifere, vezica urinară: a) are formă de pâlnie cu baza spre hilul renal b) este localizată între uretere şi uretră c) face parte din structura rinichilor d) transportă urina către pelvisul renal"
+      },
+      "exercitiul_D": {
+        "enunt": "Citiţi, cu atenţie, afirmaţiile următoare. Dacă apreciaţi că afirmaţia este adevărată, scrieţi, pe foaia de examen, în dreptul cifrei corespunzătoare afirmaţiei, litera A. Dacă apreciaţi că afirmaţia este falsă, scrieţi, pe foaia de examen, în dreptul cifrei corespunzătoare afirmaţiei, litera F şi modificaţi parţial afirmaţia pentru ca aceasta să devină adevărată. Folosiţi, în acest scop, informaţia ştiinţifică adecvată. Nu se acceptă folosirea negaţiei.",
+        "subpunctul_1": "Urechea medie a mamiferelor conţine receptorii pentru auz.",
+        "subpunctul_2": "Veziculele seminale sunt glande anexe ale sistemului reproducător feminin.",
+        "subpunctul_3": "Muşchiul diafragm are rol în realizarea inspiraţiei şi expiraţiei la mamifere."
+      }
+    },
+    "barem": {
+      "exercitiul_A": "Se acordă câte 2p. pentru fiecare noţiune corectă. 2 x 2p. = 4 puncte",
+      "exercitiul_B": "- numirea a două grupe de angiosperme; 2 x 1p. = 2 puncte - câte un exemplu reprezentativ pentru fiecare grupă de angiosperme. 2 x 2p. = 4 puncte",
+      "exercitiul_C": "Se acordă câte 2p. pentru fiecare răspuns corect: 1a; 2d; 3b; 4b; 5b. 5 x 2p. = 10 puncte",
+      "exercitiul_D": "Se acordă câte 2p. pentru fiecare răspuns corect: 1F; 2F; 3A. 3 x 2p. = 6 puncte Se acordă câte 2p. pentru modificarea corectă a fiecărei afirmaţii false. 2 x 2p. = 4 puncte"
+    }
+  },
+  "subiectul_2": {
+    "subiect": {
+      "exercitiul_A": {
+        "enunt": "Dilatarea inegală şi neregulată a venelor superficiale ale membrelor inferioare ale omului este una dintre manifestările varicelor.",
+        "subpunctul_a": "Precizaţi alte două manifestări ale acestei boli, cauza şi o măsură de prevenire.",
+        "subpunctul_b": "Comparaţi venele cave cu venele pulmonare precizând o asemănare şi o deosebire între aceste vase de sânge.",
+        "subpunctul_c": "Calculaţi masa apei din plasma sângelui unui atlet, ştiind următoarele: - sângele reprezintă 7% din masa corpului; - plasma sangvină reprezintă 55% din masa sângelui; - apa reprezintă 90% din masa plasmei sangvine; - masa corpului atletului este de 68 Kg. Scrieţi toate etapele parcurse pentru rezolvarea cerinţei.",
+        "subpunctul_d": "Completaţi această problemă cu o altă cerinţă pe care o formulaţi voi, folosind informaţii ştiinţifice specifice biologiei; rezolvaţi cerinţa pe care aţi propus-o."
+      },
+      "exercitiul_B": {
+        "enunt": "Se încrucişează două soiuri de smochin care se deosebesc prin două perechi de caractere: dimensiunea şi culoarea fructelor. Fructele mari (M), de culoare verde (V) sunt caractere dominante, iar fructele mici (m), de culoare mov (",
+        "subpunctul_v": "sunt caractere recesive. Un smochin are fructe mari, de culoare verde, fiind homozigot pentru ambele caractere, iar celălalt smochin are fructe mici, de culoare mov. În F 1 se obţin descendenţi hibrizi. Prin încrucişarea între ei a indivizilor din F 1 , se obţin, în F 2 , 16 combinaţii de factori ereditari. Stabiliţi următoarele:",
+        "subpunctul_a": "genotipurile organismelor parentale;",
+        "subpunctul_b": "trei exemple de tipuri de gameţi produşi de indivizii din F 1 ;",
+        "subpunctul_c": "numărul combinaţiilor din F 2 , homozigote pentru culoarea fructelor; genotipul indivizilor din F 2 cu fructe mici, de culoare verde.",
+        "subpunctul_d": "Completaţi această problemă cu o altă cerinţă pe care o formulaţi voi, folosind informaţii ştiinţifice specifice biologiei; rezolvaţi cerinţa pe care aţi propus-o. Scrieţi toate etapele rezolvării problemei."
+      }
+    },
+    "barem": {
+      "exercitiul_A": "a) precizarea: - altor două manifestări ale varicelor; 2 x 1p. = 2 puncte - cauzei varicelor; 1 punct - unei măsuri de prevenire a varicelor; 1 punct b) precizarea unei asemănări şi a unei deosebiri între venele cave şi venele pulmonare; 2 x 2p. = 4 puncte c) - calcularea masei sângelui atletului; 2 puncte 68 x 7 : 100 = 4,76 kg; - calcularea masei plasmei sangvine; 2 puncte 4,76 x 55 : 100 = 2,618 kg; - calcularea masei apei din plasma sangvină; 2 puncte 2,618 x 90 : 100 = 2,3562 kg; d) - formularea cerinţei; 2 puncte - rezolvarea cerinţei. 2 puncte Notă Se punctează oricare altă modalitate de rezolvare a problemei. Pentru raţionamentul corect, neînsoţit de calcule, se acordă jumătate din punctajul repartizat rezolvării problemei.",
+      "exercitiul_B": "a) genotipurile organismelor parentale: MMVV; mmvv; 2 x 1p. = 2 puncte b) trei exemple de tipuri de gameţi produşi de indivizii din F 1 ; 3 x 1p. = 3 puncte c) numărul combinaţiilor din F 2 , homozigote pentru culoarea fructelor: 8 (8/16); 1 punct - genotipul indivizilor din F 2 cu fructe mici, de culoare verde: mmVV; mmVv; 2 x 1p. = 2 puncte d) - formularea cerinţei; 2 puncte - rezolvarea cerinţei. 2 puncte"
+    }
+  },
+  "subiectul_3": {
+    "subiect": {
+      "exercitiul_1": "Celula, unitatea structurală şi funcţională a lumii vii, se divide indirect prin mitoză şi meioză. a) Caracterizaţi un organit comun celulei vegetale şi celulei animale precizând: denumirea organitului celular, două caracteristici structurale, un rol. b) Explicaţi în ce constă importanţa meiozei. c) Construiţi patru enunţuri afirmative, utilizând limbajul ştiinţific adecvat. Folosiţi, în acest scop, informaţii referitoare la următoarele conţinuturi: - Cromozomii. - Profaza.",
+      "exercitiul_2": "Sistemul digestiv al mamiferelor are rol în realizarea procesului de digestie. a) Numiţi doi produşi finali ai digestiei lipidelor. b) Caracterizaţi apendicita, precizând: cauza, două manifestări, o măsură de prevenire. c) Alcătuiţi un minieseu intitulat „Bila – secreţia celulelor hepatice”, folosind informaţia ştiinţifică adecvată. În acest scop, respectaţi următoarele etape: - enumerarea a şase noţiuni specifice acestei teme; - construirea, cu ajutorul acestora, a unui text coerent, format din maximum trei-patru fraze, folosind corect şi în corelaţie noţiunile enumerate."
+    },
+    "barem": {
+      "exercitiul_1": "14 puncte a) caracterizarea unui organit comun celulei vegetale şi celulei animale precizând: - denumirea organitului celular; 1 punct - două caracteristici structurale ale organitului celular; 2 x 1p. = 2 puncte - un rol al organitului celular; 1 punct b) explicarea corectă; 2 puncte c) construirea a patru enunţuri afirmative, utilizând limbajul ştiinţific adecvat, folosind informaţii referitoare la conţinuturile indicate. 4 x 2p. = 8 puncte",
+      "exercitiul_2": "16 puncte a) numirea a doi produşi finali ai digestiei lipidelor; 2 x 1p. = 2 puncte b) caracterizarea apendicitei, precizând: - cauza apendicitei; 1 punct - două manifestări ale apendicitei; 2 x 1p. = 2 puncte - o măsură de prevenire a apendicitei; 1 punct c) alcătuirea minieseului, folosindu-se informaţia ştiinţifică adecvată, respectându-se cerinţele: - pentru fiecare noţiune enumerată, specifică temei, se acordă câte 1p.; 6 x 1p.= 6 puncte - pentru coerenţa textului, de maximum trei-patru fraze, în alcătuirea căruia fiecare noţiune este folosită corect, în corelaţie cu celelalte noţiuni, se acordă 4 p. 4 puncte"
+    }
+  }
+}

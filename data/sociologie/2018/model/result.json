@@ -1,0 +1,41 @@
+{
+  "subiectul_1": {
+    "subiect": "A. Scrieţi pe foaia de examen litera corespunzătoare răspunsului corect, pentru fiecare dintre situaţiile de mai jos. Este corectă o singură variantă de răspuns. 1. Funcţia biologică a familiei asigură: a. protecţia copiilor b. descendenţa cuplului c. integrarea urmaşilor în societate d. satisfacerea nevoilor spirituale 2. În societăţile tradiţionale, rurale, relaţia dintre părinţi şi copii se bazează pe: a. democratizarea relaţiei dintre părinte şi copil b. tendinţele de egalizare a femeii cu barbatul c. autoritatea şi dominanţa părinţilor d. acceptarea libertăţii de exprimare a copiilor 3. Organizațiile, după forma de proprietate, pot fi: a. totale b. private c. politice d. economice 4. Activităţile cu conţinut pedagogic specific, desfăşurate în cadrul organizat al sistemului de învăţământ, reprezintă: a. educaţia nonformală b. educaţia formală c. educaţia informală d. educaţia familială 5. Respectarea drepturilor fundamentale ale omului este specifică unui regim politic: a. democratic b. absolutist c. totalitar d. dictatorial 6. Politica prin care o categorie de cetățeni ai unui stat sunt lipsiți de anumite drepturi, pe baza unor considerente neîntemeiate, înseamnă: a. acceptare b. toleranţă c. discriminare d. socializare B. Precizaţi două cauze ale manifestării conflictelor sociale. C. Construiţi un enunţ, corect din punct de vedere sociologic, care să evidenţieze o relaţie între stat şi societate civilă.",
+    "barem": "A. câte 3 puncte pentru fiecare răspuns corect, astfel: 1-b, 2-c, 3-b, 4-b, 5-a, 6-c 6x3p= 18 puncte B. câte 3 puncte pentru precizarea oricăror două cauze ale manifestării conflictelor sociale 2x3p=6 puncte C. construirea unui enunţ, corect din punct de vedere sociologic, care să evidenţieze o relaţie între stat și societate civilă 6 puncte"
+  },
+  "subiectul_2": {
+    "subiect": {
+      "enunt": "Una dintre caracteristicile comune la nivelul reprezentărilor asupra grupurilor etnice și rasiale o reprezintă stereotipuril",
+      "exercitiul_e": "Acestea sunt atribute pe care le acordăm unor persoane în virtutea grupurilor lor de apartenență, pentru care considerăm respectivele atribute ca fiind definitorii. Discriminarea apare ca o consecință a valorificării unor stereotipuri la adresa acestor grupuri.",
+      "exercitiul_A": "Formulaţi ideea principală a textului.",
+      "exercitiul_B": "Menționați două concepte sociologice la care se face referire în text.",
+      "exercitiul_C": "Explicaţi, în aproximativ o jumătate de pagină, modul specific în care interacţionează conceptele sociologice menționate la punctul B.",
+      "exercitiul_D": "Construiţi un argument care să confirme sau să infirme ipoteza potrivit căreia un individ poate comite fapte ilicite dacă există discordanţă între aşteptările sale şi ceea ce poate obţine pe cale legală.",
+      "exercitiul_E": "Prezentaţi un punct de vedere personal referitor la semnificaţia sărăciei în societatea contemporană."
+    },
+    "barem": {
+      "exercitiul_A": "formularea ideii principale a textului 4 puncte",
+      "exercitiul_B": "câte 2 punct pentru menţionarea oricăror două concepte sociologice la care face referire textul 2x2p= 4 puncte",
+      "exercitiul_C": "- explicarea modului specific în care interacţionează conceptele sociologice menționate la punctul B 6 puncte - coerenţa textului redactat 2 puncte - încadrarea în limita de spaţiu precizată 2 puncte",
+      "exercitiul_D": "construirea unui argument care să confirme sau să infirme ipoteza dată 6 puncte",
+      "exercitiul_E": "prezentarea unui punct de vedere personal referitor la semnificaţia sărăciei în societatea contemporană 6 puncte"
+    }
+  },
+  "subiectul_3": {
+    "subiect": {
+      "enunt": "Răspundeţi fiecăreia dintre următoarele cerinţe:",
+      "exercitiul_1": "Precizaţi înțelesul noţiunii de document social.",
+      "exercitiul_2": "Enumeraţi două caracteristici ale grupului informal.",
+      "exercitiul_3": "Evidenţiaţi o corelaţie existentă între termenii de indicatori de status şi de relații sociale, redactând un text coerent, de o jumătate de pagină, în care să îi utilizaţi în sensul specific sociologiei.",
+      "exercitiul_4": "Ilustraţi, printr-un exemplu concret, grupul de referință.",
+      "exercitiul_5": "Argumentaţi, în aproximativ zece rânduri, afirmaţia potrivit căreia datorită sistemului de status- roluri pe care îl deţine individul, pot apărea conflicte în îndeplinirea rolurilor de către o persoană."
+    },
+    "barem": {
+      "exercitiul_1": "precizarea înţelesului noţiunii de document social 4 puncte",
+      "exercitiul_2": "câte 3 puncte pentru menţionarea oricăror două caracteristici ale grupului informal 2x3p= 6 puncte",
+      "exercitiul_3": "- câte 1 punct pentru utilizarea fiecăruia dintre termenii daţi în sensul specific sociologiei 2x1p= 2 puncte - evidenţierea unei corelaţii existente între termenii daţi 4 puncte - coerenţa textului redactat 2 puncte - încadrarea în limita de spaţiu precizată 2 puncte",
+      "exercitiul_4": "ilustrarea, printr-un exemplu concret, a grupului de referință 4 puncte",
+      "exercitiul_5": "- argumentarea afirmaţiei potrivit căreia datorită sistemului de status-roluri pe care îl deţine individul, pot apărea conflicte în îndeplinirea rolurilor de către o persoană 4 puncte - încadrarea în limita de spaţiu precizată 2 puncte"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "subiectul_1": {
+    "subiect": {
+      "enunt": "Scrieţi, pe foaia de examen, litera corespunzătoare răspunsului corect:",
+      "exercitiul_1": "În sens general, utilitatea unui bun este dată de: a. mărimea produsului b. proprietăţile intrinseci ale bunului respectiv c. preferinţele de consum ale cumpărătorului d. calitatea reclamei",
+      "exercitiul_2": "Situația în care o creștere cu 10% a prețurilor determină o reducere cu 20% a cantității vândute reflectă o cerere: a. elastică b. perfect inelastică c. cu elasticitate unitară d. perfect elastică",
+      "exercitiul_3": "Consumatorul raţional este acel agent economic care: a. nu ţine cont de preferinţele sale subiective b. cheltuieşte cât mai puţin din venitul său disponibil c. obţine satisfacţia maximă posibilă, în condiţiile unui venit dat d. cumpără numai bunuri de strictă necesitate",
+      "exercitiul_4": "Piaţa pe care nu există bariere la intrarea pe piaţă / ieşirea de pe piaţă a producătorilor este: a. piaţa de monopol b. piaţa de oligopol c. piaţa cu concurenţă perfectă d. piaţa cu concurenţă monopolistică",
+      "exercitiul_5": "Clasificarea elementelor capitalului tehnic în capital fix şi capital circulant are la bază şi criteriul: a. procurării b. modului de consum c. uzurii d. posibilității de amortizare",
+      "exercitiul_6": "Principalul indicator de eficiență a combinării factorilor de producţie este: a. utilitatea marginală b. costul marginal c. productivitatea marginală a unui factor de producție d. venitul marginal obținut de producători din vânzări",
+      "exercitiul_7": "Când productivitatea marginală a factorului substituit este mai mică decât productivitatea marginală a factorului ce îl substituie, rata marginală de substituţie: a. este nulă b. este mai mică decât 1 c. este mai mare decât 1 d. tinde spre infinit",
+      "exercitiul_8": "Pe piaţa muncii, creşterea cererii de muncă şi scăderea concomitentă a ofertei de muncă determină: a. reducerea salariului real b. scăderea gradului de ocupare c. creșterea salariului de echilibru d. reducerea ratei profitului",
+      "exercitiul_9": "În situaţia în care încasările totale ale firmei scad cu un procentaj mai mic decât scade costul producţiei, rata profitului, calculată la cost: a. este mai mare decât rata profitului, calculată la capital b. este egală cu rata profitului, calculată la cifra de afaceri c. rămâne constantă d. creşte",
+      "exercitiul_10": "De regulă și în condiții normale, dacă rata dobânzii pe piaţa monetară creşte, atunci cursul titlurilor la bursa de valori: a. rămâne constant b. se dublează c. nu este influenţat d. scade"
+    },
+    "barem": "câte 3 puncte pentru fiecare dintre cele 10 răspunsuri corecte, astfel: 1-b, 2-a, 3-c, 4-c, 5-b, 6-c, 7-b, 8-c, 9-d, 10-d 10x3p=30 de puncte"
+  },
+  "subiectul_2": {
+    "subiect": "1. Transcrieţi pe foaia de examen tabelul de mai jos: Timp (T) Preţul (u.m./buc.) Cererea (buc.) Oferta (buc.) Exces de cerere (buc.) Exces de ofertă (buc.) T 1 4000 800 300 T 2 4500 700 400 T 3 5000 600 450 T 4 5100 500 500 T 5 5300 400 650 A. Completaţi coloanele tabelului dat. B. Construiţi un grafic prin care să ilustraţi evoluţia cererii şi ofertei în intervalul T 1 -T 5 . C. Precizaţi care este, conform graficului: a) cantitatea de echilibru; b) preţul ce corespunde cantităţii de echilibru. 2. Un agent economic contractează un împrumut de 30.000 u.m. la o bancă pe o perioadă de trei ani, cu o rată anuală a dobânzii de 10%. A. Știind că împrumutul este rambursabil în trei tranşe anuale egale, determinați, scriind algoritmul folosit pentru efectuarea calculelor şi precizând semnificația notațiilor din formulele utilizate: a) suma pe care o plătește agentul economic în cel de-al treilea an; b) valoarea totală a dobânzii plătite pentru creditul luat. B. Presupunând că împrumutul a fost contractat pentru trei ani, cu capitalizare, calculați dobânda pe care agentul economic trebuie să o plătească, scriind totodată formula de calcul şi precizând semnificația notațiilor din formulă.",
+    "barem": "1. A. câte 2 puncte pentru completarea fiecăreia dintre cele două coloane ale tabelului, astfel: „exces de cerere” 500, 300, 150, 0, nu există; „exces de ofertă” nu există, nu există, nu există, 0, 250 2x2p=4 puncte B. construirea graficului cerut 4 puncte C. câte 2 puncte pentru precizarea fiecăruia dintre cele două elemente cerute: a) cantitatea de echilibru 500 buc., b) prețul ce corespunde cantității de echilibru 5100 u.m./buc. 2x2p=4 puncte 2. - câte 2 puncte pentru scrierea algoritmului în vederea determinării fiecăruia dintre indicatorii ceruţi la subpunctele A. a), A. b) și B.: algoritm complet – 2p./ algoritm incomplet – 1p. 3x2p=6 puncte - câte 2 puncte pentru precizarea semnificației notațiilor din formulele utilizate pentru determinarea fiecăruia dintre indicatorii ceruţi la subpunctele A. a), A. b) și B. 3x2p=6 puncte - câte 2 puncte pentru precizarea valorilor determinate în cazul fiecăruia dintre indicatorii ceruţi la subpunctele A. a), A. b) și B., astfel: suma pe care o plătește agentul economic în cel de-al treilea an = 11.000 u.m., valoarea totală a dobânzii plătite pentru creditul luat = 6000 u.m., dobânda, în situaţia dată = 9930 u.m. 3x2p=6 puncte Notă: În situația în care candidatul nu obține valorile din barem din cauza unor erori de calcul se acordă 1 punct din cele 2 puncte posibile."
+  },
+  "subiectul_3": {
+    "subiect": {
+      "enunt": "Răspundeţi la fiecare dintre următoarele cerinţe:",
+      "exercitiul_1": "Definiți uzura fizică a capitalului fix.",
+      "exercitiul_2": "Menționați trei forme de proprietate care coexistă în economia de piață.",
+      "exercitiul_3": "Exemplificați, utilizând valori numerice, modificarea procentuală a salariului nominal, în situaţia în care salariul real a înregistrat un indice de 95%, iar preţurile au crescut cu 30%.",
+      "exercitiul_4": "Justificaţi corectitudinea următorului enunţ: Până la atingerea punctului de saturație, utilitatea marginală este pozitivă și descrescătoare."
+    },
+    "barem": {
+      "exercitiul_1": "definirea noţiunii date 6 puncte",
+      "exercitiul_2": "câte 4 puncte pentru menționarea oricăror trei forme de proprietate care coexistă în economia de piață 3x4p=12 puncte",
+      "exercitiul_3": "scrierea exemplului: exemplu adecvat cu valori numerice care respectă cerința și care arată creșterea salariului nominal cu 23,5% – 6p./ exemplu cu valori numerice care respectă cerința, dar care nu ilustrează sensul modificării salariului nominal și/sau nu indică modificarea de 23,5% – 4p./ exemplu construit doar la nivel teoretic – 2p. 6 puncte",
+      "exercitiul_4": "justificarea corectitudinii enunţului dat: justificare convingătoare, în termeni specifici economiei – 6p./ justificare neconvingătoare – 2p. 6 puncte"
+    }
+  }
+}

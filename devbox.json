@@ -5,10 +5,10 @@
   "shell": {
     "scripts": {
       "parse": [
-        "uv run -m src.parser.main"
+        "uv run src/main.py"
       ],
       "scrape": [
-        "uv run -m src.scrape.main"
+        "uv run -m src.scraper.main"
       ],
       "check": [
         "find data -mindepth 3 -maxdepth 3 -type d ! -exec test -f \"{}/subiect.pdf\" \\; -print",

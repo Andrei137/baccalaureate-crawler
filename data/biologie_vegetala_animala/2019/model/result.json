@@ -1,0 +1,60 @@
+{
+  "subiectul_1": {
+    "subiect": {
+      "exercitiul_A": "Scrieţi, pe foaia de examen, noţiunile cu care trebuie să completaţi spaţiile libere din afirmaţia următoare, astfel încât aceasta să fie corectă. Respirația ............are rol în producerea de ............ .",
+      "exercitiul_B": "Daţi un exemplu de animal nevertebrat și un exemplu de animal vertebrat; scrieţi în dreptul fiecărui animal tipul de respirație.",
+      "exercitiul_C": {
+        "enunt": "Scrieţi, pe foaia de examen, litera corespunzătoare răspunsului corect. Este corectă o singură variantă de răspuns. 1 Briofitele aparţin regnului: a) Animale b) Monera c) Plante d) Protiste",
+        "subpunctul_2": "Fruct uscat dehiscent întâlnit la angiosperme este: a) achena b) cariopsa c) nuca d) păstaia",
+        "subpunctul_3": "Vasele liberiene ale angiospermelor: a) au ornamente spiralate b) se numesc trahee c) sunt formate din celule vii d) transportă seva brută",
+        "subpunctul_4": "Boală cu transmitere sexuală, provocată de Treponema pallidum, este: a) candidoza b) gonoreea c) SIDA d) sifilisul",
+        "subpunctul_5": "La mamifere, cerebelul: a) are rol în menținerea echilibrului corpului b) conține nucleii bazali, cu rol în reglarea poziției c) este alcătuit din două emisfere cerebrale d) este componentă a trunchiului cerebral"
+      },
+      "exercitiul_D": {
+        "enunt": "Citiţi, cu atenţie, afirmaţiile următoare. Dacă apreciaţi că afirmaţia este adevărată, scrieţi, pe foaia de examen, în dreptul cifrei corespunzătoare afirmaţiei, litera A. Dacă apreciaţi că afirmaţia este falsă, scrieţi, pe foaia de examen, în dreptul cifrei corespunzătoare afirmaţiei, litera F şi modificaţi parţial afirmaţia pentru ca aceasta să devină adevărată. Folosiţi, în acest scop, informaţia ştiinţifică adecvată. Nu se acceptă folosirea negaţiei.",
+        "subpunctul_1": "Coroida ochiului mamiferelor conţine celule fotosensibile.",
+        "subpunctul_2": "Gineceul florii angiospermelor este alcătuit din totalitatea staminelor.",
+        "subpunctul_3": "În procesul de eliminare a urinei, ureterele transportă urina către vezica urină."
+      }
+    },
+    "barem": {
+      "exercitiul_A": "Se acordă câte 2p. pentru fiecare noţiune corectă. 2 x 2p. = 4 puncte",
+      "exercitiul_B": "- un exemplu de animal nevertebrat și un exemplu de animal vertebrat; 2 x 1p. = 2 puncte - tipul de respirație pentru fiecare dintre cele două animale. 2 x 2p. = 4 puncte",
+      "exercitiul_C": "Se acordă câte 2p. pentru fiecare răspuns corect: 1c; 2d; 3c; 4d; 5a. 5 x 2p. = 10 puncte",
+      "exercitiul_D": "Se acordă câte 2p. pentru fiecare răspuns corect: 1F; 2F; 3A. 3 x 2p. = 6 puncte Se acordă câte 2p. pentru modificarea corectă a fiecărei afirmaţii false. 2 x 2p. = 4 puncte"
+    }
+  },
+  "subiectul_2": {
+    "subiect": {
+      "exercitiul_A": {
+        "enunt": "Sistemul circulator al mamiferelor este alcătuit din inimă şi vase de sânge. Acesta poate fi afectat de numeroase boli.",
+        "subpunctul_a": "Precizaţi o cauză, o manifestare și două măsuri de prevenire a infarctului miocardic.",
+        "subpunctul_b": "Comparaţi venele pulmonare cu venele cave, precizând o asemănare și o deosebire între aceste vase de sânge.",
+        "subpunctul_c": "Calculaţi masa apei din plasma sângelui unei persoane, ştiind următoarele: - sângele reprezintă 8% din masa corpului; - plasma sangvină reprezintă 55% din masa sângelui; - apa reprezintă 90% din masa plasmei sangvine; - masa corpului persoanei este de 101 Kg. Scrieţi toate etapele parcurse pentru rezolvarea cerinţei.",
+        "subpunctul_d": "Completaţi problema de la punctul c) cu o altă cerinţă pe care o formulaţi voi, folosind informaţii ştiinţifice specifice biologiei; rezolvaţi cerinţa pe care aţi propus-o."
+      },
+      "exercitiul_B": {
+        "enunt": "Se încrucişează două plante care se deosebesc prin două perechi de caractere: forma frunzelor şi culoarea florilor. Frunzele rotunde (R) şi florile de culoare albă (A) sunt caractere dominante, iar frunzele ovale (",
+        "subpunctul_r": "şi florile de culoare violet (a) sunt caractere recesive. Una dintre plante are frunze rotunde și flori de culoare violet, fiind heterozigotă pentru forma frunzelor, iar cealaltă plantă are frunze ovale şi flori de culoare albă, fiind homozigotă pentru culoarea florilor. În F 1 se obțin mai multe combinații de factori ereditari. Stabiliţi următoarele:",
+        "subpunctul_a": "genotipurile celor două plante;",
+        "subpunctul_b": "tipurile de gameţi produşi de cei doi părinți;",
+        "subpunctul_c": "numărul combinațiilor din F 1 cu flori albe; genotipul indivizilor din F 1 cu frunze rotunde și flori albe și al celor cu frunze ovale și flori de culoare albă.",
+        "subpunctul_d": "Completaţi această problemă cu o altă cerinţă pe care o formulaţi voi, folosind informaţii ştiinţifice specifice biologiei; rezolvaţi cerinţa pe care aţi propus-o. Scrieţi toate etapele rezolvării problemei."
+      }
+    },
+    "barem": {
+      "exercitiul_A": "a) precizarea: - unei cauze a infarctului miocardic; 1 punct - unei manifestări a infarctului miocardic; 1 punct - a două măsuri de prevenire a infarctului miocardic; 2 x 1p. = 2 puncte b) precizarea unei asemănări și a unei deosebiri între venele pulmonare și venele cave; 2 x 2p. = 4 puncte c) - calcularea masei sângelui persoanei; 2 puncte 101 x 8 : 100 = 8,08 kg; - calcularea masei plasmei sangvine; 2 puncte 8,08 x 55 : 100 = 4,444 kg; - calcularea masei apei din plasma sangvină; 2 puncte 4,444 x 90 : 100 = 3,9996 kg; d) - formularea cerinţei; 2 puncte - rezolvarea cerinţei. 2 puncte Notă Se punctează oricare altă modalitate de rezolvare a problemei. Pentru raţionamentul corect, neînsoţit de calcule, se acordă jumătate din punctajul repartizat rezolvării problemei.",
+      "exercitiul_B": "a) genotipurile celor două plante: Rraa; rrAA; 2 x 1p. = 2 puncte b) tipurile de gameţi produşi de cei doi părinți: Ra; ra; rA; 3 x 1p. = 3 puncte c) numărul combinațiilor din F 1 cu flori albe; 1 punct - genotipul indivizilor din F 1 cu frunze rotunde și flori albe și al celor cu frunze ovale și flori de culoare albă: RrAa; rrAa; 2 x 1p. = 2 puncte d) - formularea cerinţei; 2 puncte - rezolvarea cerinţei. 2 puncte"
+    }
+  },
+  "subiectul_3": {
+    "subiect": {
+      "exercitiul_1": "Celula reprezintă unitatea structurală și funcțională a lumii vii. Organismele aparţin modului de organizare procariot sau eucariot. a) Numiți trei organite celulare comune celulei vegetale și celulei animale. b) Scrieți un argument în favoarea afirmaţiei următoare: „Între diviziunea mitotică și diviziunea meiotică există asemănări”. c) Construiţi patru enunţuri afirmative, câte două pentru fiecare conţinut, utilizând limbajul ştiinţific adecvat. Folosiţi, în acest scop, informaţii referitoare la următoarele conţinuturi: - Membrana celulară. - Cromatina.",
+      "exercitiul_2": "În lumea vie, există două tipuri de nutriţie: autotrofă şi heterotrofă. Mamiferele se hrănesc heterotrof, sistemul digestiv realizând procesul de digestie. a) Numiți trei enzime din compoziția sucului pancreatic, care acționează asupra proteinelor, glucidelor respectiv a lipidelor, la nivelul intestinului subțire. b) Explicaţi afirmaţia următoare: „Secreția salivară are rol în digestia chimică a unor alimente”. c) Alcătuiţi un minieseu intitulat „Importanța fotosintezei”, folosind informaţia ştiinţifică adecvată. În acest scop, respectaţi următoarele etape: - enumerarea a şase noţiuni specifice acestei teme; - construirea, cu ajutorul acestora, a unui text coerent, format din maximum trei-patru fraze, folosind corect şi în corelaţie noţiunile enumerate."
+    },
+    "barem": {
+      "exercitiul_1": "14 puncte a) numirea a trei organite celulare comune celulei vegetale și celulei animale; 3 x 1p. = 3 puncte b) scrierea unui argument; 3 puncte c) construirea a patru enunţuri afirmative, utilizând limbajul ştiinţific adecvat, folosind informaţii referitoare la conţinuturile indicate. 4 x 2p. = 8 puncte",
+      "exercitiul_2": "16 puncte a) numirea a trei enzime din compoziția sucului pancreatic, care acționează asupra proteinelor, glucidelor respectiv a lipidelor, la nivelul intestinului subțire; 3 x 1p. = 3 puncte b) explicarea corectă; 3 puncte c) alcătuirea minieseului, folosindu-se informaţia ştiinţifică adecvată, respectându-se cerinţele: - pentru fiecare noţiune enumerată, specifică temei, se acordă câte 1p.; 6 x 1p.= 6 puncte - pentru coerenţa textului, de maximum trei-patru fraze, în alcătuirea căruia fiecare noţiune este folosită corect, în corelaţie cu celelalte noţiuni, se acordă 4 p. 4 puncte"
+    }
+  }
+}

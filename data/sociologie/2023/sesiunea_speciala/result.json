@@ -1,0 +1,37 @@
+{
+  "subiectul_1": {
+    "subiect": "Scrieţi pe foaia de examen litera corespunzătoare răspunsului corect, pentru fiecare dintre situaţiile de mai jos. Este corectă o singură variantă de răspuns. 1. Partenerii unui cuplu care nu doresc să se căsătorească pot alege ca mod de a trăi împreună: a. mariajul c. divorțul b. celibatul d. concubinajul 2. Din perspectivă sociologică, secularizarea în societatea contemporană înseamnă diminuarea influenței: a. ONG-urilor c. instituțiilor financiare b. bisericii d. justiției 3. O funcție a partidelor de opoziție este aceea de a propune alternative la politicile inițiate de: a. mass-media c. guvern b. biserică d. familie 4. Familia contemporană își exercită calitatea de consumator, ca expresie a funcției: a. afective c. de socializare b. protective d. economice 5. Organizațiile, după forma de proprietate, pot fi: a. totale c. private b. militare d. politice 6. Forma instituțională a religiei este: a. biserica c. divinitatea b. sacrul d. binele 7. Competențele dobândite de un copil, prin participarea la cercul de lectură, sunt considerate ca fiind rezultate ale educației: a. non-formale c. financiare b. formale d. informale 8. Respectarea drepturilor fundamentale ale omului este specifică unui regim politic: a. totalitar b. democratic c. dictatorial d. abuziv 9. Un ansamblu de persoane care derulează constant activități caritabile își poate legifera, formaliza și eficientiza munca, înființând oficial: a. un grup primar c. o organizație non-guvernamentală b. un grup informal d. un grup de prieteni 10. Educația de tip informal poate fi exercitată prin: a. liceu c. școală b. universitate d. mass-media",
+    "barem": "câte 3 puncte pentru fiecare răspuns corect, astfel: 1-d, 2-b, 3-c, 4-d, 5-c, 6-a, 7-a, 8-b, 9-c, 10-d 10x3p= 30 puncte"
+  },
+  "subiectul_2": {
+    "subiect": {
+      "exercitiul_A": "În coloana din stânga sunt enumerate aspecte metodologice ale cercetării sociologice, iar în coloana din dreapta sunt numerotate enunţuri adevărate referitoare la acestea. Scrieţi pe foaia de examen asocierile corecte dintre fiecare literă din coloana din stânga şi cifra corespunzătoare din coloana din dreapta.",
+      "exercitiul_a": "Ancheta",
+      "exercitiul_b": "Experimentul",
+      "exercitiul_c": "Fișa de observație",
+      "exercitiul_d": "Chestionarul 1. Presupune diada familială și alte rude. 2. Reprezintă tehnica de cercetare bazată pe întrebări și răspunsuri scrise. 3. Constă în colectarea de informații obținute în urma adresării unor întrebări, fiind cea mai răspândită metodă de cercetare sociologică. 4. Semnifică un instrument de cercetare utilizat pentru consemnarea datelor obținute cu ajutorul simțurilor. 5. Este o metodă de cercetare care constă în manipularea controlată a unor fenomene sociale, cu scopul înțelegerii acestora.",
+      "exercitiul_B": "Citiți, cu atenție, textul de mai jos: Socializarea este un proces care familiarizează oamenii cu normele și obiceiurile sociale. Acest proces ajută indivizii să funcționeze conform cu societatea și, la rândul său, ajută societatea să funcționeze fără probleme. Membrii familiei, profesorii, liderii din diverse instituții și colegii joacă roluri în socializarea unei persoane. Pornind de la textul dat, răspundeți următoarelor cerințe: 1. Formulați ideea principală a textului. 2. Explicaţi, în aproximativ o jumătate de pagină, modul specific în care interacţionează două concepte sociologice la care face referire textul. 3. Construiţi un argument care să confirme sau să infirme ipoteza potrivit căreia reușita în procesul de socializare a cât mai multor indivizi conduce la creșterea calității vieții în societate. 4. Prezentaţi un punct de vedere personal referitor la importanța școlii în asumarea unor noi roluri și valori sociale."
+    },
+    "barem": {
+      "exercitiul_A": "câte 3 puncte pentru fiecare asociere corectă, astfel: a-3; b-5; c-4; d-2 4x3p=12 puncte",
+      "exercitiul_B": "1. formularea ideii principale a textului 2 puncte 2. - câte 1 punct pentru menționarea fiecăruia dintre cele două concepte sociologice la care face referire textul 2x1p=2 puncte - explicarea modului specific în care interacţionează conceptele menționate: explicare adecvată-4p./ explicare inadecvată-1p. 4 puncte - coerenţa textului redactat 2 puncte - încadrarea în limita de spaţiu precizată 2 puncte 3. construirea unui argument care să confirme sau să infirme ipoteza dată 3 puncte 4. prezentarea unui punct de vedere personal referitor la importanța școlii în asumarea unor noi roluri și valori sociale (în situația în care candidatul formulează punctul de vedere personal, fără să-l prezinte se acordă 1 punct din cele 3 puncte posibile) 3 puncte"
+    }
+  },
+  "subiectul_3": {
+    "subiect": {
+      "enunt": "Răspundeţi fiecăreia dintre următoarele cerinţe:",
+      "exercitiul_1": "Precizaţi înțelesul noţiunii de structură socială.",
+      "exercitiul_2": "Menționați două caracteristici ale grupului de referință.",
+      "exercitiul_3": "Evidenţiaţi o corelaţie existentă între termenii de status dobândit şi rol social, redactând un text coerent, de o jumătate de pagină, în care să îi utilizaţi în sensul specific sociologiei.",
+      "exercitiul_4": "Ilustraţi, printr-un exemplu concret, modul în care un grup este definit prin capacitatea lui de a acționa ca actor colectiv.",
+      "exercitiul_5": "Argumentaţi, în aproximativ zece rânduri, afirmaţia potrivit căreia incompatibilitățile între statusuri pot genera conflictele de status."
+    },
+    "barem": {
+      "exercitiul_1": "precizarea înţelesului noţiunii de structură socială 4 puncte",
+      "exercitiul_2": "câte 3 puncte pentru menţionarea oricăror două caracteristici ale grupului de referință 2x3p=6 puncte",
+      "exercitiul_3": "- câte 1 punct pentru utilizarea fiecăruia dintre termenii daţi în sensul specific sociologiei 2x1p=2 puncte - evidenţierea unei corelaţii existente între termenii daţi 4 puncte - coerenţa textului redactat 2 puncte - încadrarea în limita de spaţiu precizată 2 puncte",
+      "exercitiul_4": "ilustrarea, printr-un exemplu concret, a modului în care un grup este definit prin capacitatea lui de a acționa ca actor colectiv (în situația în care candidatul tratează subiectul la nivel teoretic, fără a formula un exemplu concret, se acordă 1 punct din cele 4 puncte posibile) 4 puncte",
+      "exercitiul_5": "- argumentarea afirmaţiei potrivit căreia incompatibilitățile între statusuri pot genera conflictele de status: argumentare convingătoare -4p./ argumentare neconvingătoare, superficială -2p. 4 puncte - încadrarea în limita de spaţiu precizată 2 puncte"
+    }
+  }
+}

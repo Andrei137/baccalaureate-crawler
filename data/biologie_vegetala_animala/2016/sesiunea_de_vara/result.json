@@ -1,0 +1,60 @@
+{
+  "subiectul_1": {
+    "subiect": {
+      "exercitiul_A": "Scrieţi, pe foaia de examen, noţiunile cu care trebuie să completaţi spaţiile libere din afirmaţia următoare, astfel încât aceasta să fie corectă. La om, ............ sunt gonadele feminine, iar ............ sunt gonadele masculine.",
+      "exercitiul_B": "Daţi două exemple de cordate; scrieţi în dreptul fiecărui cordat câte o caracteristică morfologică.",
+      "exercitiul_C": {
+        "enunt": "Scrieţi, pe foaia de examen, litera corespunzătoare răspunsului corect. Este corectă o singură variantă de răspuns.",
+        "subpunctul_1": "Din regnul Fungi fac parte: a) Angiospermele şi Gimnospermele b) Ascomicetele şi Bazidiomicetele c) Cefalopodele şi Gasteropodele d) Insectele şi Arahnidele",
+        "subpunctul_2": "Scleroza în plăci şi paralizia sunt boli ale sistemului: a) excretor b) nervos central c) reproducător feminin d) respirator",
+        "subpunctul_3": "Celulele cu conuri şi celulele cu bastonaşe sunt: a) absente în pata galbenă b) componentele nervului optic c) localizate în coroidă d) receptori vizuali",
+        "subpunctul_4": "Respiraţia aerobă: a) are loc în absenţa oxigenului atmosferic b) este specifică plantelor superioare c) produce o cantitate mare de energie d) se mai numeşte şi fermentaţie",
+        "subpunctul_5": "La mamifere, rinichiul este: a) componentă a sistemului digestiv b) localizat în cavitatea abdominală c) protejat de două pleure d) una dintre căile urinare"
+      },
+      "exercitiul_D": {
+        "enunt": "Citiţi, cu atenţie, afirmaţiile următoare. Dacă apreciaţi că afirmaţia este adevărată, scrieţi, pe foaia de examen, în dreptul cifrei corespunzătoare afirmaţiei, litera A. Dacă apreciaţi că afirmaţia este falsă, scrieţi, pe foaia de examen, în dreptul cifrei corespunzătoare afirmaţiei, litera F şi modificaţi parţial afirmaţia pentru ca aceasta să devină adevărată. Folosiţi, în acest scop, informaţia ştiinţifică adecvată. Nu se acceptă folosirea negaţiei.",
+        "subpunctul_1": "Receptorii pentru auz ai mamiferelor sunt localizaţi în urechea medie.",
+        "subpunctul_2": "În timpul unei inspiraţii normale, presiunea aerului din plămâni creşte peste valoarea presiunii atmosferice.",
+        "subpunctul_3": "Puritatea gameţilor este una dintre legile mendeliene ale eredităţii."
+      }
+    },
+    "barem": {
+      "exercitiul_A": "Se acordă câte 2p. pentru fiecare noţiune corectă. 2 x 2p. = 4 puncte",
+      "exercitiul_B": "- două exemple de cordate; 2 x 1p. = 2 puncte - câte o caracteristică morfologică pentru fiecare cordat. 2 x 2p. = 4 puncte",
+      "exercitiul_C": "Se acordă câte 2p. pentru fiecare răspuns corect: 1b; 2b; 3d; 4c; 5b. 5 x 2p. = 10 puncte",
+      "exercitiul_D": "Se acordă câte 2p. pentru fiecare răspuns corect: 1F; 2F; 3A. 3 x 2p.= 6 puncte Se acordă câte 2p. pentru modificarea corectă a fiecărei afirmaţii false. 2 x 2p.= 4 puncte"
+    }
+  },
+  "subiectul_2": {
+    "subiect": {
+      "exercitiul_A": {
+        "enunt": "Infarctul miocardic, ateroscleroza, accidentul vascular cerebral, varicele şi hipertensiunea arterială sunt boli ale sistemului circulator al omului, alcătuit din inimă şi vase de sânge.",
+        "subpunctul_a": "Caracterizaţi una dintre bolile enumerate în enunţul de mai sus, precizând: o cauză, două manifestări, două măsuri de prevenire.",
+        "subpunctul_b": "Explicaţi modul în care limfocitele participă la asigurarea imunităţii organismului.",
+        "subpunctul_c": "Calculaţi masa apei din plasma sângelui unui copil, ştiind următoarele: - sângele reprezintă 7% din masa corpului; - plasma sangvină reprezintă 55% din masa sângelui; - apa reprezintă 90% din masa plasmei sangvine; - masa corpului copilului este de 18 Kg. Scrieţi toate etapele parcurse pentru rezolvarea cerinţei.",
+        "subpunctul_d": "Completaţi problema de la punctul c) cu o altă cerinţă pe care o formulaţi voi, folosind informaţii ştiinţifice specifice biologiei; rezolvaţi cerinţa pe care aţi propus-o."
+      },
+      "exercitiul_B": {
+        "enunt": "În urma încrucişării dintre două plante de trifoi, una cu flori roşii şi mari (RRMM) şi alta cu flori albe şi mici (rrmm), se obţin în prima generaţie, F 1 , plante hibride. Prin încrucişarea între ei a hibrizilor din F 1 , se obţin, în F 2 , 16 combinaţii de factori ereditari. Stabiliţi următoarele:",
+        "subpunctul_a": "fenotipul organismelor din F 1 ;",
+        "subpunctul_b": "tipurile de gameţi formaţi de organismele din F 1 ;",
+        "subpunctul_c": "numărul combinaţiilor din F 2 dublu heterozigote; genotipul organismelor din F 2 care au flori roşii şi mici.",
+        "subpunctul_d": "Completaţi această problemă cu o altă cerinţă pe care o formulaţi voi, folosind informaţii ştiinţifice specifice biologiei; rezolvaţi cerinţa pe care aţi propus-o. Scrieţi toate etapele rezolvării problemei."
+      }
+    },
+    "barem": {
+      "exercitiul_A": "a) caracterizarea uneia dintre bolile enumerate în enunţ, precizând: - o cauză a bolii; 1 punct - două manifestări ale bolii; 2 x 1p. = 2 puncte - două măsuri de prevenire a bolii; 2 x 1p. = 2 puncte b) explicarea corectă; 3 puncte c) - calcularea masei sângelui copilului; 2 puncte 18 x 7 : 100 = 1,26 kg; - calcularea masei plasmei sangvine; 2 puncte 1,26 x 55 : 100 = 0,693 kg; - calcularea masei apei din plasma sangvină; 2 puncte 0,693 x 90 : 100 = 0,6237 kg; d) - formularea cerinţei; 2 puncte - rezolvarea cerinţei. 2 puncte Notă Se punctează oricare altă modalitate de rezolvare a problemei. Pentru raţionamentul corect, neînsoţit de calcule, se acordă jumătate din punctajul repartizat rezolvării problemei.",
+      "exercitiul_B": "a) fenotipul organismelor din F 1 : flori roşii şi mari; 1 punct b) tipurile de gameţi formaţi de organismele din F 1 : RM; Rm; rM; rm; 4 x 1p. = 4 puncte c) numărul combinaţiilor din F 2 dublu heterozigote: 4 (4/16); 1 punct - genotipul organismelor din F 2 care au flori roşii şi mici: RRmm; Rrmm; 2 x 1p. = 2 puncte d) - formularea cerinţei; 2 puncte - rezolvarea cerinţei. 2 puncte"
+    }
+  },
+  "subiectul_3": {
+    "subiect": {
+      "exercitiul_1": "Celula reprezintă unitatea structurală şi funcţională a vieţuitoarelor. Ea se poate divide prin mitoză şi meioză. a) Enumeraţi trei faze ale meiozei. b) Scrieţi un argument în favoarea afirmaţiei: „Celula eucariotă are o organizare structurală complexă comparativ cu celula procariotă”. c) Construiţi patru enunţuri afirmative, câte două pentru fiecare conţinut, utilizând limbajul ştiinţific adecvat. Folosiţi, în acest scop, informaţii referitoare la următoarele conţinuturi: - Recombinarea genetică prin schimb reciproc de gene. - Importanţa mitozei.",
+      "exercitiul_2": "Sistemul digestiv al mamiferelor este alcătuit din tub digestiv şi glande anexe. a) Caracterizaţi o boală a sistemului digestiv la om, precizând: numele bolii, o cauză, o manifestare. b) Explicaţi afirmaţia următoare: „La mamifere, lungimea intestinului subţire este adaptată la natura hranei”. c) Alcătuiţi un minieseu intitulat „Ficatul”, folosind informaţia ştiinţifică adecvată. În acest scop, respectaţi următoarele etape: - enumerarea a şase noţiuni specifice acestei teme; - construirea, cu ajutorul acestora, a unui text coerent, format din maximum trei-patru fraze, folosind corect şi în corelaţie noţiunile enumerate."
+    },
+    "barem": {
+      "exercitiul_1": "14 puncte a) enumerarea a trei faze ale meiozei; 3 x 1p. = 3 puncte b) scrierea unui argument; 3 puncte c) construirea a patru enunţuri afirmative, utilizând limbajul ştiinţific adecvat, folosind informaţii referitoare la conţinuturile indicate. 4 x 2p. = 8 puncte",
+      "exercitiul_2": "16 puncte a) caracterizarea unei boli a sistemului digestiv la om, precizând: - numele bolii; 1 punct - o cauză a bolii; 1 punct - o manifestare a bolii; 1 punct b) explicarea corectă; 3 puncte c) alcătuirea minieseului, folosindu-se informaţia ştiinţifică adecvată, respectându-se cerinţele: - pentru fiecare noţiune enumerată, specifică temei, se acordă câte 1p.; 6 x 1p.= 6 puncte - pentru coerenţa textului, de maximum trei-patru fraze, în alcătuirea căruia fiecare noţiune este folosită corect, în corelaţie cu celelalte noţiuni, se acordă 4 p. 4 puncte"
+    }
+  }
+}

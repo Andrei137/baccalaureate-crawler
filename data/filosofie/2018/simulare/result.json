@@ -1,0 +1,50 @@
+{
+  "subiectul_1": {
+    "subiect": {
+      "enunt": "Scrieţi pe foaia de examen litera corespunzătoare răspunsului corect, pentru fiecare dintre situaţiile de mai jos. Este corectă o singură variantă de răspuns.",
+      "exercitiul_1": "Referitor la problematica naturii umane, Lucian Blaga considera că: a. omul mai întâi există, se găsește, se ivește în lume și, după aceea, se definește b. omul există întru mister și pentru revelare c. conștiința se naște dintr-o mișcare de revoltă d. omul religios crede întotdeauna în existența unei realități absolute care transcende această lume",
+      "exercitiul_2": "Teoriile morale, care determină semnificația conceptelor de bine și de rău, constituie domeniul: a. esteticii b. eticii c. gnoseologiei d. epistemologiei",
+      "exercitiul_3": "Problematica sensului vieții vizează răspunsul la întrebarea: a. Este cunoașterea posibilă? b. Ce este determinismul? c. Care sunt sursele cunoașterii autentice? d. Este fericirea un scop al vieții?",
+      "exercitiul_4": "Filosoful care consideră că restrângerea libertății individuale este justificată atunci când are rolul de a preveni încălcarea libertății altor oameni este: a. Jean- Paul Sartre b. John Stuart Mill c. Platon d. G.W. Friedrich Hegel",
+      "exercitiul_5": "Omul poate efectua alegerile între bine şi rău datorită calităţii sale de: a. fiinţă întru imediat b. fiinţă care valorizează c. fiinţă senzorială d. fiinţă care amână",
+      "exercitiul_6": "Domeniul de studiu al eticii aplicate îl reprezintă: a. problemele morale controversate b. teoria valorilor c. determinarea originii conceptelor de bine și rău d. acțiunile făcute din înclinație",
+      "exercitiul_7": "Ideea potrivit căreia fericirea poate fi obținută prin activitatea rațională a sufletului, conformă cu virtutea, este specifică eticii: a. utilitariste b. eudaimoniste c. hedoniste d. deontologice",
+      "exercitiul_8": "Dreptatea procedurală se referă la: a. repartizarea nedreptăților și recompensarea celui care a fost prejudiciat b. repartizarea bunurilor și îndatoririlor, a avantajelor și dezavantajelor c. distribuirea bunurilor, obligațiilor și avantajelor în funcție de merit d. respectarea și aplicarea corectă a legilor și înfăptuirea justiției",
+      "exercitiul_9": "Susține că o acțiune are valoare morală doar atunci când este guvernată de principii care-i asigură necesitatea și universalitatea: a. etica teleologică b. hedonismul c. etica deontologică d. eudaimonismul",
+      "exercitiul_10": "Omul este considerat subiect axiologic, purtător şi generator al valorilor în: a. filosofia morală b. teoria cunoaşterii c. metafilosofie d. filosofia social - politică"
+    },
+    "barem": "câte 3 puncte pentru fiecare răspuns corect, astfel: 1-b, 2-b, 3-d, 4-b, 5-b, 6-a, 7-b, 8-d, 9-c, 10-a 10x3p= 30 puncte"
+  },
+  "subiectul_2": {
+    "subiect": {
+      "exercitiul_A": "În coloana din stânga sunt enumerate concepte specifice problematicii libertății, iar în coloana din dreapta sunt numerotate enunţuri adevărate referitoare la acestea. Scrieţi pe foaia de examen asocierile corecte dintre fiecare literă din coloana din stânga şi cifra corespunzătoare din coloana din dreapta. a. Libertatea pozitivă b. Libertatea negativă c. Libertatea absolută d. Libertatea de exprimare 1. Presupune restrângerea intervenției statului la un nivel minim. 2. A fost promovată de către filosoful francez Jean-Paul Sartre. 3. Face din plăcere scopul suprem al omului. 4. Constă în comunicarea de informații sau idei fără amestecul autorităților publice și fără a se ține seama de frontiere. 5. Implică intervenția sporită a statului în viața societății sau a individului.",
+      "exercitiul_B": "Argumentați, în aproximativ zece rânduri, în favoarea sau împotriva intervenției statului în asigurarea libertății individuale.",
+      "exercitiul_C": "Construiți un exemplu prin care să evidențiați importanţa asumării responsabilității propriilor acțiuni, de către un adolescent."
+    },
+    "barem": {
+      "exercitiul_A": "câte 4 puncte pentru fiecare asociere corectă, astfel: a-5 b-1 c-2 d-4 4x4p=16 puncte",
+      "exercitiul_B": "- argumentarea în favoarea sau împotriva intervenției statului în asigurarea libertății individuale 6 puncte - încadrarea în limita de spaţiu precizată 2 puncte",
+      "exercitiul_C": "construirea unui exemplu care evidențiază importanţa asumării responsabilității propriilor acțiuni, de către un adolescent 6 puncte"
+    }
+  },
+  "subiectul_3": {
+    "subiect": {
+      "enunt": "A.Citiţi, cu atenţie, textul de mai jos: Omul este capturat de un destin creator, într-un sens cu adevărat minunat; omul e în stare pentru acest destin să renunţe – câteodată chiar până la autonimicire la avantajele echilibrului şi bucuriile securităţii. (",
+      "exercitiul_L": {
+        "enunt": "Blaga, Geneza metaforei şi sensul culturii) Răspundeţi următoarelor cerinţe:",
+        "subpunctul_1": "Menţionaţi, pe baza textului dat, două caracteristici ale naturii umane.",
+        "subpunctul_2": "Evidenţiaţi, în aproximativ o jumătate de pagină, o corelaţie existentă între termenii subiect creator şi mutaţie ontologică.",
+        "subpunctul_3": "Formulaţi un punct de vedere personal referitor la actualitatea perspectivei filosofice prezentată în textul dat."
+      },
+      "exercitiul_B": {
+        "enunt": "Ştiind că, o formă a dreptăţii distributive are drept criteriu meritul:",
+        "subpunctul_1": "Argumentaţi, în aproximativ cinci rânduri, în favoarea ideii/tezei filosofice prezentată în enunţ.",
+        "subpunctul_2": "Ilustraţi, printr-un exemplu concret, modul în care meritul este aplicat în selectarea candidaţilor într-un interviu de angajare la un loc de muncă."
+      }
+    },
+    "barem": {
+      "exercitiul_A": "1. câte 2 puncte pentru menţionarea, pe baza textului dat, a oricăror două caracteristici ale naturii umane 2x2p= 4 puncte 2. - câte 1 punct pentru utilizarea fiecăruia dintre cei doi termeni daţi în sens filosofic 2x1p= 2 puncte - evidenţierea unei corelaţii existente între termenii daţi (de exemplu, omul ca subiect creator este capabil de a se manifesta astfel în urma unei mutaţii ontologice prin care este posibilă existenţa sa în orizontul misterului şi al revelării) 4 puncte - coerenţa textului redactat 2 puncte - încadrarea în limita de spaţiu precizată 2 puncte 3. formularea unui punct de vedere personal referitor la actualitatea perspectivei filosofice prezentată în textul dat 4 puncte",
+      "exercitiul_B": "1. - argumentarea în favoarea ideii/tezei filosofice prezentată în enunţ 4 puncte - încadrarea în limita de spaţiu precizată 2 puncte 2. ilustrarea, printr-un exemplu concret, a modului în care meritul este aplicat în selectarea candidaţilor într-un interviu de angajare la un loc de muncă 6 puncte"
+    }
+  }
+}

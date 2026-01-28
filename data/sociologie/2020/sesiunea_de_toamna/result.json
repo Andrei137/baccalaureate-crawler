@@ -1,0 +1,37 @@
+{
+  "subiectul_1": {
+    "subiect": "Scrieţi pe foaia de examen litera corespunzătoare răspunsului corect, pentru fiecare dintre situaţiile de mai jos. Este corectă o singură variantă de răspuns. 1. Funcția de socializare prin care se asigură condițiile necesare transmiterii limbii, a obiceiurilor, a valorilor și normelor sociale este specifică: a. bisericii b. familiei c. grupului de similaritate d. partidelor politice 2. Un regim căruia îi este specific principiul guvernării reprezentative este definit ca fiind: a. autoritar b. comunist c. democratic d. totalitar 3. Implicarea unui partid, în plan social, cu precădere în soluționarea unor conflicte este manifestarea funcției de: a. propulsare a unor indivizi, pe anumite criterii b. menținere a puterii c. promovare a intereselor naționale, de grup sau etnice d. mediere 4. Cunoașterea specificului cultural al celorlalți și respectarea acestuia poate diminua: a. formarea prejudecăților b. educația informală c. identificarea stereotipurilor d. coeziunea grupului 5. Atunci când indivizii își exprimă, printr-o organizare sistematică, o nemulțumire, vorbim despre: a. abatere de la moralitate b. conflict social c. criminalitate d. utilizare a puterii 6. Atunci când indivizii își exprimă acordul sau consensul cu privire la soluționarea problemelor grupului, ne referim la: a. coeziune b. discriminare c. secularizare obiectivă d. absența resurselor necesare traiului 7. Între sistemul de învățământ și sistemul economic există o relație de: a. contradicție b. dominare c. putere d. interdependență 8. Statul care își asumă suportarea greutăților și diminuarea riscurilor sociale pentru o societate confruntată cu șomaj, boală, bătrânețe, se caracterizează prin a fi un stat: a. abuziv b. autoritar c. social d. xenofob 9. Atunci când activitatea organizației este realizată non-profit și pe bază de voluntariat, aceasta este: a. firmă privată b. ONG c. întreprindere de stat d. societate comercială 10. Frustrarea și inadaptarea socială pot conduce, cu ușurință, la apariția fenomenului de: a. marginalizare b. egalitate de șanse c. integrare în grup d. toleranță",
+    "barem": "câte 3 puncte pentru fiecare răspuns corect, astfel: 1-b, 2-c, 3-d, 4-a, 5-b, 6-a, 7-d, 8-c, 9-b, 10-a 10x3p= 30 puncte"
+  },
+  "subiectul_2": {
+    "subiect": {
+      "exercitiul_A": "În coloana din stânga sunt enumerate concepte privitoare la corupție, iar în coloana din dreapta sunt numerotate enunţuri adevărate referitoare la acestea. Scrieţi pe foaia de examen asocierile corecte dintre fiecare literă din coloana din stânga şi cifra corespunzătoare din coloana din dreapta.",
+      "exercitiul_a": "Corupția",
+      "exercitiul_b": "Persoana care corupe",
+      "exercitiul_c": "Persoana care se lasă coruptă",
+      "exercitiul_d": "Cauza corupției 1. Este persoana care are ca scop obținerea anumitor avantaje, ocolind mijloacele legale și utilizând darea de mită. 2. Semnifică o stare de abatere de la moralitate, de la datorie, de la lege. 3. Poate fi scăderea nivelului de trai al indivizilor. 4. Are aceeași semnificație cu stereotipul. 5. Este persoana care în scopul obținerii unor avantaje, încalcă normele morale, deontologia profesională și legea.",
+      "exercitiul_B": "Citiți, cu atenție, textul de mai jos: Educaţia constituie un aspect al procesului de socializare prin care oamenii dobândesc comportamentele necesare pentru participarea la viaţa socială. Şcoala este un agent socializator complex, care oferă atât informaţii, calificări, cât şi un întreg climat valoric şi normativ, formal şi informal. Elevii şi studenţii învaţă nu numai din cele prezentate de profesori, dar şi din interacţiunea cu ceilalţi elevi şi studenţi. Pornind de la textul dat, răspundeți următoarelor cerințe: 1. Formulați ideea principală a textului. 2. Explicaţi, în aproximativ o jumătate de pagină, modul specific în care interacţionează două concepte sociologice la care face referire textul. 3. Construiţi un argument care să confirme sau să infirme ipoteza potrivit căreia mobilitatea socială ascendentă poate fi determinată și de către dimensiunea economică a societății. 4. Prezentaţi un punct de vedere personal referitor la faptul că, în afara şcolii, procesul socializării riscă să rămână incomplet."
+    },
+    "barem": {
+      "exercitiul_A": "câte 3 puncte pentru fiecare asociere corectă, astfel: a-2 b-1 c-5 d-3 4x3p=12 puncte",
+      "exercitiul_B": "1. formularea ideii principale a textului 2 puncte 2. - câte 1 punct pentru menționarea fiecăruia dintre cele două concepte sociologice la care face referire textul 2x1p=2 puncte - explicarea modului specific în care interacţionează conceptele menționate 4 puncte - coerenţa textului redactat 2 puncte - încadrarea în limita de spaţiu precizată 2 puncte 3. construirea unui argument care să confirme sau să infirme ipoteza dată 3 puncte 4. prezentarea unui punct de vedere personal referitor la faptul că, în afara şcolii, procesul socializării riscă să rămână incomplet 3 puncte"
+    }
+  },
+  "subiectul_3": {
+    "subiect": {
+      "enunt": "Răspundeţi fiecăreia dintre următoarele cerinţe:",
+      "exercitiul_1": "Precizaţi înțelesul noţiunii de sondaj de opinie.",
+      "exercitiul_2": "Menționați două caracteristici ale grupului mare.",
+      "exercitiul_3": "Evidenţiaţi o corelaţie existentă între termenii societate deschisă şi status dobândit, redactând un text coerent, de o jumătate de pagină, în care să îi utilizaţi în sensul specific sociologiei.",
+      "exercitiul_4": "Ilustraţi, printr-un exemplu concret, modul în care influenţa grupului de referinţă poate genera schimbarea statusului social.",
+      "exercitiul_5": "Argumentaţi, în aproximativ zece rânduri, afirmaţia potrivit căreia relaţiile interpersonale creează mediul necesar structurării şi afirmării individuale prin raportarea la cadrul de referinţă valoric."
+    },
+    "barem": {
+      "exercitiul_1": "precizarea înţelesului noţiunii de sondaj de opinie 4 puncte",
+      "exercitiul_2": "câte 3 puncte pentru menţionarea oricăror două caracteristici ale grupului mare 2x3p= 6 puncte",
+      "exercitiul_3": "- câte 1 punct pentru utilizarea fiecăruia dintre termenii daţi în sensul specific sociologiei 2x1p= 2 puncte - evidenţierea unei corelaţii existente între termenii daţi 4 puncte - coerenţa textului redactat 2 puncte - încadrarea în limita de spaţiu precizată 2 puncte",
+      "exercitiul_4": "ilustrarea, printr-un exemplu concret, a modului în care influenţa grupului de referinţă poate genera schimbarea statusului social 4 puncte",
+      "exercitiul_5": "- argumentarea afirmaţiei potrivit căreia relaţiile interpersonale creează mediul necesar structurării şi afirmării individuale prin raportarea la cadrul de referinţă valoric 4 puncte - încadrarea în limita de spaţiu precizată 2 puncte"
+    }
+  }
+}

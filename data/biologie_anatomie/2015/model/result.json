@@ -1,0 +1,58 @@
+{
+  "subiectul_1": {
+    "subiect": {
+      "exercitiul_A": "Scrieţi, pe foaia de examen, noţiunile cu care trebuie să completaţi spaţiile libere din afirmaţia următoare, astfel încât aceasta să fie corectă. Celulele cu conuri şi celulele cu &&&& sunt localizate în &&&& .",
+      "exercitiul_B": "Numiţi două afecţiuni ale sistemului excretor; asociaţi fiecare afecţiune numită cu câte o caracteristică a ei.",
+      "exercitiul_C": {
+        "enunt": "Scrieţi, pe foaia de examen, litera corespunzătoare răspunsului corect. Este corectă o singură variantă de răspuns.",
+        "subpunctul_1": "Femurul aparţine scheletului: a) capului b) membrului superior c) membrului inferior d) trunchiului",
+        "subpunctul_2": "Bila: a) are rol în digestia proteinelor şi a glucidelor b) conţine enzime digestive c) este secretată de vezica biliară d) participă la digestia intestinală a alimentelor",
+        "subpunctul_3": "Sternocleidomastoidienii sunt muşchi ai: a) abdomenului b) capului c) gâtului d) membrelor",
+        "subpunctul_4": "Fasciculele spino-bulbare conduc sensibilitatea: a) proprioceptivă inconştientă b) tactilă grosieră c) tactilă fină d) termică şi dureroasă",
+        "subpunctul_5": "Prolactina este hormon secretat de: a) gonade b) hipofiză c) suprarenale d) tiroidă"
+      },
+      "exercitiul_D": {
+        "enunt": "Citiţi, cu atenţie, afirmaţiile următoare. Dacă apreciaţi că afirmaţia este adevărată, scrieţi, pe foaia de examen, în dreptul cifrei corespunzătoare afirmaţiei, litera A. Dacă apreciaţi că afirmaţia este falsă, scrieţi, pe foaia de examen, în dreptul cifrei corespunzătoare afirmaţiei, litera F şi modificaţi parţial afirmaţia pentru ca aceasta să devină adevărată. Nu se acceptă folosirea negaţiei.",
+        "subpunctul_1": "În procesul de eliminare, urina din vezica urinară trece în tubul colector.",
+        "subpunctul_2": "Poluarea poate contribui la deteriorarea mediului.",
+        "subpunctul_3": "Segmentul intermediar al analizatorului auditiv reprezintă locul unde se formează senzaţia auditivă."
+      }
+    },
+    "barem": {
+      "exercitiul_A": "Se acordă câte 2p. pentru fiecare noţiune corectă. 2 x 2p.= 4 puncte",
+      "exercitiul_B": "- numirea a două afecţiuni ale sistemului excretor; 2 x 1p.= 2 puncte - asocierea fiecărei afecţiuni numite cu câte o caracteristică a ei. 2 x 2p.= 4 puncte",
+      "exercitiul_C": "Se acordă câte 2p. pentru fiecare răspuns corect: 1c; 2d; 3c; 4c; 5b. 5 x 2p.= 10 puncte",
+      "exercitiul_D": "Se acordă câte 2p. pentru fiecare răspuns corect: 1F; 2A; 3F. 3 x 2p.= 6 puncte Se acordă câte 2p. pentru modificarea corectă a fiecărei afirmaţii false: 2 x 2p.= 4 puncte"
+    }
+  },
+  "subiectul_2": {
+    "subiect": {
+      "exercitiul_A": {
+        "enunt": "La realizarea sintezei proteinelor participă mai multe tipuri de ARN.",
+        "subpunctul_a": "Precizaţi un tip de ARN implicat în procesul de sinteză a proteinelor şi rolul îndeplinit de acesta.",
+        "subpunctul_b": "Un fragment de ADN bicatenar conţine 2356 nucleotide. Nucleotidele cu guanină sunt în număr de 1020. Stabiliţi următoarele: - secvenţa de nucleotide din catena de ADN 5’-3’ complementară, ştiind că, pe catena 3’-5’, secvenţa de nucleotide este următoarea: GCGAAT; - corelaţia dintre cantitatea de citozină conţinută de acest fragment de ADN şi gradul lui de stabilitate, la acţiunea unor agenţi mutageni; - numărul de nucleotide cu timină conţinute de fragmentul de ADN bicatenar; - numărul legăturilor triple din fragmentul de ADN bicatenar. Scrieţi toate etapele necesare rezolvării cerinţelor problemei.",
+        "subpunctul_c": "Completaţi problema de la punctul b) cu o altă cerinţă pe care o formulaţi voi; rezolvaţi cerinţa pe care aţi propus-o."
+      },
+      "exercitiul_B": {
+        "enunt": "Analiza sângelui unei persoane care are nevoie de transfuzie cu o cantitate mică de sânge evidenţiază absenţa din plasma sanguină a aglutininelor; Stabiliţi următoarele:",
+        "subpunctul_a": "grupa de sânge şi un tip de aglutinogene/antigene de pe suprafaţa hematiilor din sângele acestei persoane;",
+        "subpunctul_b": "două exemple de grupe de sânge ale unor potenţiali donatori.",
+        "subpunctul_c": "Completaţi problema de la punctul B cu o altă cerinţă pe care o formulaţi voi; rezolvaţi cerinţa pe care aţi propus-o."
+      }
+    },
+    "barem": {
+      "exercitiul_A": "a) precizarea: - unui tip de ARN implicat în procesul de sinteză a proteinelor; 2 puncte - rolului îndeplinit de acest tip de ARN; 2 puncte b) - secvenţa de nucleotide din catena de ADN 5’-3’ complementară: CGCTTA; 2 puncte - corelaţia dintre cantitatea de citozină conţinută de acest fragment de ADN şi gradul lui de stabilitate, la acţiunea unor agenţi mutageni; 2 puncte - numărul de nucleotide cu timină conţinute de fragmentul de ADN bicatenar – etapele rezolvării: - stabilirea numărului de nucleotide care conţin citozină (1020); 1 punct - stabilirea numărului de nucleotide care conţin citozină + guanină (2040); 1 punct - stabilirea numărului de nucleotide care conţin adenină + timină (316); 1 punct - stabilirea numărului de nucleotide care conţin timină (158); 1 punct - numărul legăturilor triple din fragmentul de ADN bicatenar (1020). 2 puncte Notă Pentru raţionamentul corect, neînsoţit de calcule, se acordă jumătate din punctajul repartizat etapelor calculării numărului de nucleotide cu timină. c) - formularea cerinţei; 2 puncte - rezolvarea cerinţei. 2 puncte",
+      "exercitiul_B": "a) grupa de sânge a persoanei care are nevoie de transfuzie (AB); 2 puncte - un tip de aglutinogene/antigene de pe suprafaţa hematiilor din sângele acestei persoane; 2 puncte b) două exemple de grupe de sânge ale unor potenţiali donatori; 2 x 2p.= 4 puncte c) formularea cerinţei; 2 puncte - rezolvarea cerinţei. 2 puncte"
+    }
+  },
+  "subiectul_3": {
+    "subiect": {
+      "exercitiul_1": "Schimbul de gaze dintre organism şi mediul înconjurător se realizează cu participarea sistemului respirator. a) Reprezentaţi, cu ajutorul unei scheme, schimbul de gaze la nivel pulmonar. b) Explicaţi afirmaţia următoare: „Diafragma are rol în realizarea respiraţiei”. c) Construiţi patru enunţuri afirmative, câte două pentru fiecare conţinut, utilizând limbajul ştiinţific adecvat. Folosiţi, în acest scop, informaţii referitoare la următoarele conţinuturi: - Inspiraţia. - Afecţiuni ale sistemului respirator.",
+      "exercitiul_2": "Reproducerea este o funcţie fundamentală a organismelor vii prin care se realizează perpetuarea speciei. a) Enumeraţi trei componente ale sistemului reproducător feminin sau trei componente ale sistemului reproducător masculin (la alegere). b) Explicaţi importanţa cunoaşterii şi respectării unor noţiuni elementare de igienă a sistemului reproducător şi reproducerii. c) Alcătuiţi un minieseu intitulat „Fiziologia sistemelor reproducătoare feminin şi masculin – asemănări şi deosebiri”, folosind informaţia ştiinţifică adecvată. În acest scop, respectaţi următoarele etape: - enumerarea a şase noţiuni specifice acestei teme; - construirea, cu ajutorul acestora, a unui text coerent, format din maximum trei-patru fraze, folosind corect şi în corelaţie noţiunile enumerate."
+    },
+    "barem": {
+      "exercitiul_1": "14 puncte a) reprezentarea, cu ajutorul unei scheme, a schimbului de gaze la nivel pulmonar; 3 puncte b) explicarea corectă; 3 puncte c) construirea a patru enunţuri afirmative, utilizând limbajul ştiinţific adecvat, folosind, în acest scop, informaţii referitoare la conţinuturile indicate. 4 x 2p. = 8 puncte",
+      "exercitiul_2": "16 puncte a) enumerarea a trei componente ale sistemului reproducător feminin sau a trei componente ale sistemului reproducător masculin (la alegere); 3 x 1p.= 3 puncte b) explicarea corectă; 3 puncte c) alcătuirea minieseului, folosindu-se informaţia ştiinţifică adecvată, respectându-se cerinţele: - pentru fiecare noţiune enumerată, specifică temei, se acordă câte 1p. 6 x 1p.= 6 puncte - pentru coerenţa textului, de maximum trei-patru fraze, în alcătuirea căruia fiecare noţiune este folosită corect, în corelaţie cu celelalte noţiuni, se acordă 4 p. 4 puncte"
+    }
+  }
+}

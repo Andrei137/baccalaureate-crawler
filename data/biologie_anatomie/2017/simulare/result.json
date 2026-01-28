@@ -1,0 +1,59 @@
+{
+  "subiectul_1": {
+    "subiect": {
+      "exercitiul_A": "Scrieţi, pe foaia de examen, noţiunile cu care trebuie să completaţi spaţiile libere din afirmaţia următoare, astfel încât aceasta să fie corectă. Sistemele osos, ............ şi ............ participă la realizarea funcţiilor de relaţie.",
+      "exercitiul_B": "Numiţi două tipuri de contracţii musculare. Asociaţi fiecare tip de contracţie musculară numită cu o caracteristică a ei.",
+      "exercitiul_C": {
+        "enunt": "Scrieţi, pe foaia de examen, litera corespunzătoare răspunsului corect. Este corectă o singură variantă de răspuns.",
+        "subpunctul_1": "Humerusul este os al: a) capului b) membrului inferior c) membrului superior d) trunchiului",
+        "subpunctul_2": "Cistita este afecţiune a sistemului: a) circulator b) digestiv c) excretor d) reproducător",
+        "subpunctul_3": "Ficatul: a) are rol în secreţia bilei b) este componentă a tubului digestiv c) participă la digestia gastrică a alimentelor d) secretă un suc digestiv bogat în enzime",
+        "subpunctul_4": "Glandă endocrină este: a) prostata b) rinichiul c) stomacul d) tiroida",
+        "subpunctul_5": "Din ventriculul stâng al inimii, sângele oxigenat trece în: a) artera aortă b) artera pulmonară c) vena cavă d) vena pulmonară"
+      },
+      "exercitiul_D": {
+        "enunt": "Citiţi, cu atenţie, afirmaţiile următoare. Dacă apreciaţi că afirmaţia este adevărată, scrieţi, pe foaia de examen, în dreptul cifrei corespunzătoare afirmaţiei, litera A. Dacă apreciaţi că afirmaţia este falsă, scrieţi, pe foaia de examen, în dreptul cifrei corespunzătoare afirmaţiei, litera F şi modificaţi parţial afirmaţia pentru ca aceasta să devină adevărată. Nu se acceptă folosirea negaţiei.",
+        "subpunctul_1": "Spre deosebire de expiraţie, în timpul unei inspiraţii normale diafragma se relaxează.",
+        "subpunctul_2": "Urina se formează la nivelul nefronului.",
+        "subpunctul_3": "Sternocleidomastoidienii sunt muşchi ai capului."
+      }
+    },
+    "barem": {
+      "exercitiul_A": "Se acordă câte 2p. pentru fiecare noţiune corectă. 2 x 2p.= 4 puncte",
+      "exercitiul_B": "- numirea a două tipuri de contracţii musculare; 2 x 1p.= 2 puncte - asocierea fiecărui tip de contracţie musculară cu o caracteristică a ei. 2 x 2p.= 4 puncte",
+      "exercitiul_C": "Se acordă câte 2p. pentru fiecare răspuns corect: 1c; 2c; 3a; 4d; 5a. 5 x 2p.= 10 puncte",
+      "exercitiul_D": "Se acordă câte 2p. pentru fiecare răspuns corect: 1F; 2A; 3F. 3 x 2p.= 6 puncte Se acordă câte 2p. pentru modificarea corectă a fiecărei afirmaţii false. 2 x 2p.= 4 puncte"
+    }
+  },
+  "subiectul_2": {
+    "subiect": {
+      "exercitiul_A": {
+        "enunt": "Acizii nucleici reprezintă materialul genetic al virusurilor, procariotelor şi eucariotelor.",
+        "subpunctul_a": "Precizaţi două deosebiri dintre procariote şi eucariote, privind organizarea materialului genetic al acestora.",
+        "subpunctul_b": "Sinteza unei proteine plasmatice se realizează pe baza informaţiei conţinute de un fragment de ADN bicatenar, alcătuit din 162 nucleotide dintre care 64 conţin guanină. Stabiliţi următoarele: - numărul nucleotidelor cu timină din fragmentul de ADN bicatenar (scrieţi toate etapele necesare rezolvării acestei cerinţe); - numărul legăturilor duble si al legăturilor triple din fragmentul de ADN bicatenar; - numărul codonilor din ARN-ul mesager format prin procesul de transcripţie.",
+        "subpunctul_c": "Completaţi problema de la punctul b) cu o altă cerinţă pe care o formulaţi voi, folosind informaţii ştiinţifice specifice biologiei; rezolvaţi cerinţa pe care aţi propus-o."
+      },
+      "exercitiul_B": {
+        "enunt": "O persoană cu grupa sanguină A şi Rh pozitiv este supusă unei intervenţii chirurgicale. Este necesară realizarea unei transfuzii cu o cantitate mică de sânge. În spital există rezerve de sânge aparţinând următoarelor grupe: O şi Rh pozitiv, B şi Rh pozitiv, A şi Rh negativ. Stabiliţi:",
+        "subpunctul_a": "grupele sângelui care poate fi folosit de medici pentru transfuzie, din rezervele de sânge ale spitalului;",
+        "subpunctul_b": "tipul de aglutinină (anticorp) caracteristică grupei sanguine A;",
+        "subpunctul_c": "consecinţa unei transfuzii cu sânge din grupa AB şi Rh pozitiv, în acest caz.",
+        "subpunctul_d": "Completaţi această problemă cu o altă cerinţă pe care o formulaţi voi, folosind informaţii ştiinţifice specifice biologiei; rezolvaţi cerinţa pe care aţi propus-o."
+      }
+    },
+    "barem": {
+      "exercitiul_A": "a) precizarea a două deosebiri dintre procariote şi eucariote, privind organizarea materialului genetic al acestora; 2 x 2p.= 4 puncte b)- numărul nucleotidelor cu timină din fragmentul de ADN bicatenar – etapele rezolvării: - stabilirea numărului de nucleotide care conţin citozină (64); 1 punct - stabilirea numărului de nucleotide care conţin citozină + guanină (128); 1 punct - stabilirea numărului de nucleotide care conţin adenină + timină (34); 1 punct - stabilirea numărului de nucleotide care conţin timină (17); 1 punct - numărul legăturilor duble din fragmentul de ADN bicatenar (17); 2 puncte - numărul legăturilor triple din fragmentul de ADN bicatenar (64). 2 puncte - numărul codonilor din ARN-ul mesager format prin procesul de transcripţie: 27. 2 puncte Notă Pentru raţionamentul corect, neînsoţit de calcule, se acordă jumătate din punctajul repartizat etapelor calculării numărului de nucleotide cu timină. c) - formularea cerinţei; 2 puncte - rezolvarea cerinţei. 2 puncte",
+      "exercitiul_B": "a) grupele sângelui care poate fi folosit de medici pentru transfuzie, din rezervele de sânge ale spitalului (O şi Rh pozitiv; A şi Rh negativ); 2 x 2p.= 4 puncte b) tipul de aglutinină (anticorp) caracteristică grupei sanguine A; 2 puncte c) consecinţa unei transfuzii cu sânge din grupa AB şi Rh pozitiv, în acest caz. 2 puncte d) formularea cerinţei; 2 puncte - rezolvarea cerinţei. 2 puncte"
+    }
+  },
+  "subiectul_3": {
+    "subiect": {
+      "exercitiul_1": "Reproducerea este funcţia organismului prin care se asigură perpetuarea speciei. a) Numiţi trei componente ale sistemului reproducător masculin. b) Explicaţi relaţia funcţională dintre ovar şi hipofiză. c) Construiţi patru enunţuri afirmative, câte două pentru fiecare conţinut, utilizând limbajul ştiinţific adecvat. Folosiţi, în acest scop, informaţii referitoare la următoarele conţinuturi: - Sistemul reproducător - noţiuni elementare de igienă şi de patologie. - Planificarea familială.",
+      "exercitiul_2": "Analizatorii informează sistemul nervos despre modificările din mediul de viaţă al unui organism. a) Numiţi un segment al analizatorului vizual; precizaţi rolul îndeplinit de segmentul numit. b) Scrieţi un argument în favoarea afirmaţiei următoare: „Leziuni la nivelul urechii interne pot provoca surditatea”. c) Alcătuiţi un minieseu intitulat „Funcţia de conducere a măduvei spinării”, folosind informaţia ştiinţifică adecvată. În acest scop, respectaţi următoarele etape: - enumerarea a şase noţiuni specifice acestei teme; - construirea, cu ajutorul acestora, a unui text coerent, format din maximum trei-patru fraze, folosind corect şi în corelaţie noţiunile enumerate."
+    },
+    "barem": {
+      "exercitiul_1": "14 puncte a) numirea a trei componente ale sistemului reproducător masculin; 3 x 1p.= 3 puncte b) explicarea corectă; 3 puncte c) construirea a patru enunţuri afirmative, utilizând limbajul ştiinţific adecvat, folosind, în acest scop, informaţii referitoare la conţinuturile indicate. 4 x 2p. = 8 puncte",
+      "exercitiul_2": "16 puncte a) numirea unui segment al analizatorului vizual; 1 punct - precizarea rolului îndeplinit de segmentul numit; 2 puncte b) scrierea unui argument; 3 puncte c) alcătuirea minieseului, folosindu-se informaţia ştiinţifică adecvată, respectându-se cerinţele: - pentru fiecare noţiune enumerată, specifică temei, se acordă câte 1p. 6 x 1p.= 6 puncte - pentru coerenţa textului, de maximum trei-patru fraze, în alcătuirea căruia fiecare noţiune este folosită corect, în corelaţie cu celelalte noţiuni, se acordă 4 p. 4 puncte"
+    }
+  }
+}

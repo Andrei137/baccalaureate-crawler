@@ -1,0 +1,37 @@
+{
+  "subiectul_1": {
+    "subiect": "Scrieţi pe foaia de examen litera corespunzătoare răspunsului corect, pentru fiecare dintre situaţiile de mai jos. Este corectă o singură variantă de răspuns. 1. Organizaţiile care reprezintă alternative la instituțiile publice sunt: a. primăriile b. școlile de stat c. ministerele d. ONG-urile 2. Forma instituțională a religiei este: a. biserica b. profanul c. sacrul d. comunitatea 3. Principiul supremației constituționale, ca principiu al statului democratic, se referă la: a. domnia legii b. dreptul statului de a fi autonom c. separarea puterilor în stat d. consacrarea drepturilor omului 4. Practica prin care o persoană este dezavantajată în societate din cauza apartenenței acesteia la o minoritate religioasă, este o formă de: a. normalitate b. solidaritate c. misoginism d. discriminare 5. O formă ușoară de infracţiune în rândul minorilor este: a. furtişagul b. traficul de droguri de mare risc c. obţinerea de profit d. terorismul 6. Luarea de mită de către un funcţionar public este un act de: a. dreptate b. sărăcie c. corupţie d. impietate 7. Învățarea voluntară sau involuntară generată de interacțiunea individului cu cei din jur (familie, prieteni, TV. etc.) este considerată ca fiind parte a educației: a. formale b. informale c. non-formale d. oficiale 8. Suveranitatea naţională, ca principiu al statului democratic, se referă la: a. dreptul statului de a-şi fixa propriile reguli b. separarea puterilor în stat c. consacrarea drepturilor fundamentale ale omului d. domnia legii 9. Organizațiile care se bazează pe proprietatea privată, dar care urmăresc realizarea unor scopuri publice sunt: a. microorganizații b. instituții ale statului c. instituții de învățământ d. organizații nonguvernamentale 10. Infracționalitatea este fapta care prezintă un pericol social săvârșită cu vinovăție și sancționată de: a. legea socială b. legea penală c. legea etică d. legea morală",
+    "barem": "câte 3 puncte pentru fiecare răspuns corect, astfel: 1-d, 2-a, 3-a, 4-d, 5-a, 6-c, 7-b, 8-a, 9-d, 10-b 10x3p= 30 puncte"
+  },
+  "subiectul_2": {
+    "subiect": {
+      "exercitiul_A": "În coloana din stânga sunt enumerate concepte privitoare la probleme sociale, iar în coloana din dreapta sunt numerotate enunţuri adevărate referitoare la acestea. Scrieţi pe foaia de examen asocierile corecte dintre fiecare literă din coloana din stânga şi cifra corespunzătoare din coloana din dreapta.",
+      "exercitiul_a": "Discriminarea",
+      "exercitiul_b": "Conflictul",
+      "exercitiul_c": "Corupția",
+      "exercitiul_d": "Sărăcia 1. Constă în obținerea unor avantaje sau foloase necuvenite în urma unor relații de complicitate stabilite între două sau mai multe persoane. 2. Reprezintă situația în care individului îi lipsesc resursele necesare traiului. 3. Constă într-un comportament incorect ce duce la tratarea celorlalți ca fiind diferiți, separați, inferiori. 4. Face referire la absența unui ghid de conduită care să permită indivizilor să se orienteze în acțiunile lor după anumite standarde bine definite. 5. Apare ca urmare a existenței unor competiții desfășurate la nivel economic, politic, etnic etc.",
+      "exercitiul_B": "Citiți, cu atenție, textul de mai jos: Din perspectivă sociologică, educația poate fi înțeleasă ca un caz particular al proceselor de socializare, constând în trasmiterea și reproducerea intergenerațională a conținuturilor și instrumentelor culturale ale societății. Prin socializare, indivizii interiorizează valorile și normele unei culturi, adecvându-și comportamentele la cerințele sociale. Pornind de la textul dat, răspundeți următoarelor cerințe: 1. Formulați ideea principală a textului. 2. Explicaţi, în aproximativ o jumătate de pagină, modul specific în care interacţionează două concepte sociologice la care face referire textul. 3. Construiţi un argument care să confirme sau să infirme ipoteza potrivit căreia familia poate contribui la perpetuarea sau depășirea unor standarde de viață prin alegerea școlii. 4. Prezentaţi un punct de vedere personal referitor la semnificaţia socială a instituțiilor totale."
+    },
+    "barem": {
+      "exercitiul_A": "câte 3 puncte pentru fiecare asociere corectă, astfel: a-3 b-5 c-1 d-2 4x3p=12 puncte",
+      "exercitiul_B": "1. formularea ideii principale a textului 2 puncte 2. - câte 1 punct pentru menționarea fiecăruia dintre cele două concepte sociologice la care face referire textul 2x1p=2 puncte - explicarea modului specific în care interacţionează conceptele menționate 4 puncte - coerenţa textului redactat 2 puncte - încadrarea în limita de spaţiu precizată 2 puncte 3. construirea unui argument care să confirme sau să infirme ipoteza dată 3 puncte 4. prezentarea unui punct de vedere personal referitor la semnificaţia socială a instituțiilor totale 3 puncte"
+    }
+  },
+  "subiectul_3": {
+    "subiect": {
+      "enunt": "Răspundeţi fiecăreia dintre următoarele cerinţe:",
+      "exercitiul_1": "Precizaţi înțelesul noţiunii de status social.",
+      "exercitiul_2": "Menționați două caracteristici ale grupului de referință.",
+      "exercitiul_3": "Evidenţiaţi o corelaţie existentă între termenii relaţii informale şi grup de similaritate sau de egali, redactând un text coerent, de o jumătate de pagină, în care să îi utilizaţi în sensul specific sociologiei.",
+      "exercitiul_4": "Ilustraţi, printr-un exemplu concret, modul în care se manifestă conflictul de rol.",
+      "exercitiul_5": "Argumentaţi, în aproximativ zece rânduri, afirmaţia potrivit căreia în societatea democratică statusul dobândit este mai relevant decât cel atribuit sau înnăscut."
+    },
+    "barem": {
+      "exercitiul_1": "precizarea înţelesului noţiunii de status social 4 puncte",
+      "exercitiul_2": "câte 3 puncte pentru menţionarea oricăror două caracteristici ale grupului de referință 2x3p= 6 puncte",
+      "exercitiul_3": "- câte 1 punct pentru utilizarea fiecăruia dintre termenii daţi în sensul specific sociologiei 2x1p= 2 puncte - evidenţierea unei corelaţii existente între termenii daţi 4 puncte - coerenţa textului redactat 2 puncte - încadrarea în limita de spaţiu precizată 2 puncte",
+      "exercitiul_4": "ilustrarea, printr-un exemplu concret, a modului în care se manifestă conflictul de rol 4 puncte",
+      "exercitiul_5": "- argumentarea afirmaţiei potrivit căreia în societatea democratică statusul dobândit este mai relevant decât cel atribuit sau înnăscut 4 puncte - încadrarea în limita de spaţiu precizată 2 puncte"
+    }
+  }
+}

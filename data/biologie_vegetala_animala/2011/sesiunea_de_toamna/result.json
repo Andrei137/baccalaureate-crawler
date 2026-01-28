@@ -1,0 +1,57 @@
+{
+  "subiectul_1": {
+    "subiect": {
+      "exercitiul_A": "Scrieţi, pe foaia de examen, noţiunile cu care trebuie să completaţi spaţiile libere din afirmaţia următoare, astfel încât aceasta să fie corectă. Urechea ............ comunică cu ............ prin trompa lui Eustachio.",
+      "exercitiul_B": "Daţi două exemple de grupe de animale vertebrate; scrieţi, în dreptul fiecărei grupe, câte un exemplu reprezentativ.",
+      "exercitiul_C": {
+        "enunt": "Scrieţi, pe foaia de examen, litera corespunzătoare răspunsului corect. Este corectă o singură variantă de răspuns.",
+        "subpunctul_1": "Boală a sistemului nervos central la om este: a) ateroscleroza b) astmul bronşic c) litiaza urinară d) scleroza în plăci",
+        "subpunctul_2": "Aparţin regnului Animale: a) algele b) bacteriile c) insectele d) monocotiledonatele",
+        "subpunctul_3": "Ureterele: a) au formă de pâlnie b) conţin nefroni cu glomerul c) sunt conducte genitale masculine d) se continuă cu vezica urinară",
+        "subpunctul_4": "Fotosinteza: a) are loc în celulele animalelor nevertebrate b) constă în sinteza de substanţe minerale c) necesită prezenţa pigmenţilor asimilatori d) reprezintă modul de nutriţie specific fungilor",
+        "subpunctul_5": "Retina este: a) componentă a sistemului optic b) înveliş extern al globului ocular c) lentilă convergentă d) sediul receptorilor vizuali"
+      },
+      "exercitiul_D": {
+        "enunt": "Citiţi, cu atenţie, afirmaţiile următoare. Dacă apreciaţi că afirmaţia este adevărată, scrieţi, pe foaia de examen, în dreptul cifrei corespunzătoare afirmaţiei, litera A. Dacă apreciaţi că afirmaţia este falsă, scrieţi, pe foaia de examen, în dreptul cifrei corespunzătoare afirmaţiei, litera F şi modificaţi parţial afirmaţia pentru ca aceasta să devină adevărată. Folosiţi, în acest scop, informaţia ştiinţifică adecvată. Nu se acceptă folosirea negaţiei.",
+        "subpunctul_1": "Ovarele conţin numeroase tuburi seminifere.",
+        "subpunctul_2": "Ficatul, pancreasul, glandele salivare sunt componente ale tubului digestiv al mamiferelor.",
+        "subpunctul_3": "Mediul poate influenţa ereditatea organismelor."
+      }
+    },
+    "barem": {
+      "exercitiul_A": "Se acordă câte 2p. pentru fiecare noţiune corectă. 2 x 2p. = 4 puncte",
+      "exercitiul_B": "- două exemple de grupe de animale vertebrate; 2 x 1p. = 2 puncte - câte un exemplu reprezentativ pentru fiecare grupă. 2 x 2p. = 4 puncte",
+      "exercitiul_C": "Se acordă câte 2p. pentru fiecare răspuns corect: 1d; 2c; 3d; 4c; 5d. 5 x 2p. = 10 puncte",
+      "exercitiul_D": "Se acordă câte 2p. pentru fiecare răspuns corect: 1F; 2F; 3A. 3 x 2p.= 6 puncte Se acordă 2p. pentru modificarea corectă a afirmaţiei false. 2 x 2p.= 4 puncte"
+    }
+  },
+  "subiectul_2": {
+    "subiect": {
+      "exercitiul_A": {
+        "enunt": "Sângele este unul dintre componentele mediului intern al mamiferelor.",
+        "subpunctul_a": "Prezentaţi comparativ două tipuri de elemente figurate ale sângelui, precizând pentru fiecare: denumirea, câte o caracteristică, rolul îndeplinit.",
+        "subpunctul_b": "Explicaţi necesitatea prezenţei miocardului în structura inimii.",
+        "subpunctul_c": "Calculaţi conţinutul în apă al plasmei sângelui unei persoane, ştiind următoarele: - volumul sangvin reprezintă 7% din masa corpului; - plasma reprezintă 55% din volumul sangvin; - apa reprezintă 90% din compoziţia plasmei sangvine; - persoana cântăreşte 78 de Kg.",
+        "subpunctul_d": "Completaţi această problemă cu o altă cerinţă pe care o formulaţi voi. Rezolvaţi cerinţa pe care aţi propus-o. Scrieţi toate etapele rezolvării problemei."
+      },
+      "exercitiul_B": {
+        "enunt": "Se încrucişează două soiuri de petunii: unul cu flori albe şi mari, heterozigot pentru ambele caractere şi unul cu flori galbene şi mici. Genele sunt: „A”, „a” pentru culoare, respectiv „M”, „m” pentru mărimea florilor. Florile albe şi mari sunt caractere dominante. Stabiliţi următoarele:",
+        "subpunctul_a": "genotipurile celor două soiuri de petunii;",
+        "subpunctul_b": "tipurile de gameţi formaţi de genitorul heterozigot pentru ambele caractere;",
+        "subpunctul_c": "genotipul şi fenotipul descendenţilor din F 1 , homozigoţi pentru culoare şi heterozigoţi pentru mărimea florii;",
+        "subpunctul_d": "completaţi această problemă cu o altă cerinţă pe care o formulaţi voi; rezolvaţi cerinţa pe care aţi propus-o. Scrieţi toate etapele rezolvării problemei."
+      }
+    },
+    "barem": "A 18 p. a) prezentarea comparativă a două tipuri de elemente figurate ale sângelui, precizând pentru fiecare: - denumirea; 2 x 1p. = 2 puncte - câte o caracteristică; 2 x 1p. = 2 puncte - rolul îndeplinit; 2 x 1p. = 2 puncte b) explicaţia corectă; 2 puncte c) - calcularea volumului sangvin al persoanei; 2 puncte 78 x 7 : 100 = 5,46 l; - calcularea valorii plasmei sangvine; 2 puncte 5,46 x 55 : 100 = 3,003 l; - calcularea conţinutului în apă al plasmei sangvine; 2 puncte 3,003 x 90 : 100 = 2,7027 l. d) - formularea cerinţei; 2 puncte - rezolvarea cerinţei. 2 puncte Notă Se punctează oricare altă modalitate de rezolvare a problemei. Pentru raţionamentul corect, neînsoţit de calcule, se acordă jumătate din punctajul repartizat rezolvării problemei."
+  },
+  "subiectul_3": {
+    "subiect": {
+      "exercitiul_1": "Diviziunea celulară indirectă se realizează prin mitoză şi meioză. a) Enumeraţi cele patru faze ale diviziunii mitotice. b) Stabiliţi o deosebire între diviziunea celulară mitotică şi diviziunea celulară meiotică. c) Construiţi patru enunţuri afirmative, utilizând limbajul ştiinţific adecvat. Folosiţi, în acest scop, informaţii referitoare la următoarele conţinuturi: - Organite celulare; - Factori mutageni. Veţi construi câte două enunţuri din fiecare conţinut.",
+      "exercitiul_2": "Mamiferele au respiraţie aerobă. a) Enumeraţi două componente structurale ale plămânilor mamiferelor. b) Comparaţi respiraţia aerobă cu respiraţia anaerobă, stabilind o asemănare şi o deosebire între ele. c) Alcătuiţi un minieseu intitulat „Mecanismul ventilaţiei pulmonare”, folosind informaţia ştiinţifică adecvată. În acest scop, respectaţi următoarele etape: - enumerarea a şase noţiuni specifice acestei teme; - construirea, cu ajutorul acestora, a unui text coerent, format din maximum trei-patru fraze, folosind corect şi în corelaţie noţiunile enumerate."
+    },
+    "barem": {
+      "exercitiul_1": "14 p. a) enumerarea celor patru faze ale diviziunii mitotice; 4 x 1p. = 4 puncte b) stabilirea unei deosebiri între diviziunea celulară mitotică şi diviziunea celulară meiotică; 2 puncte c) construirea a patru enunţuri afirmative folosind, în acest scop, informaţii referitoare la conţinuturile indicate. 4 x 2p. = 8 puncte",
+      "exercitiul_2": "16 p. a) enumerarea a două componente structurale ale plămânilor mamiferelor; 2 x 1p. = 2 puncte b) stabilirea unei asemănări şi a unei deosebiri între respiraţia aerobă şi respiraţia anaerobă; 2 x 2p. = 4 puncte c) alcătuirea minieseului, folosind informaţia ştiinţifică adecvată: - pentru fiecare noţiune enumerată, specifică temei, se acordă câte 1p. 6 x1p.= 6 puncte - pentru coerenţa textului, de maximum trei-patru fraze, în alcătuirea căruia fiecare noţiune este folosită corect, în corelaţie cu celelalte noţiuni, se acordă 4 p. 4 puncte"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "subiectul_1": {
+    "subiect": {
+      "enunt": "Scrieţi pe foaia de examen litera corespunzătoare răspunsului corect, pentru fiecare dintre situaţiile de mai jos. Este corectă o singură variantă de răspuns.",
+      "exercitiul_1": "În viziunea lui J. P. Sartre: a. scopul existenței ființei umane constă în elucidarea misterului b. natura umană este dată în mod definitiv c. omul este rezultatul alegerilor pe care le face d. sensul existenței ființei umane este cunoașterea limitelor naturii proprii",
+      "exercitiul_2": "Accentul este pus pe valoarea de bine sau rău a unei acțiuni în: a. estetică b. filosofia morală c. empirism d. teoria cunoașterii",
+      "exercitiul_3": "Nu constituie o problemă de etică aplicată: a. condamnarea la moarte b. avortul c. eutanasia d. căutarea adevărului",
+      "exercitiul_4": "Libertatea negativă presupune: a. implicarea în acțiuni dăunătoare altor oameni sau ordinii social-politice b. absența constrângerilor arbitrare impuse de puterea politică sau de alți oameni c. intervenția amplă a statului în sfera vieții individuale, intervenție menită să pună la dispoziția fiecărei persoane mijloacele necesare atingerii scopurilor sale d. existența condițiilor necesare pentru atingerea scopurilor individuale, capacitatea fiecăruia dintre noi de a realiza ceea ce dorim",
+      "exercitiul_5": "În cadrul filosofiei politice, conceptul de libertate a fost adesea corelat cu cel de: a. înclinație social-politică b. responsabilitate social-politică c. spontaneitate politică d. certitudine politică",
+      "exercitiul_6": "Corespunzător concepției lui L. Blaga, sensul existenței umane: a. se află în cultură, întrucât actul revelator ia forma creațiilor culturale b. este dat prin asumarea destinului absurd și prin conștientizarea existenței așa cum este ea c. se întemeiază pe libertatea absolută a ființei umane d. este dat de sociabilitate – înclinația naturală a omului de a trăi într-o comunitate",
+      "exercitiul_7": "Filosofii empiriști consideră că întreaga cunoaștere își are fundamentul în: a. experiență b. estetică c. rațiune d. idei înnăscute",
+      "exercitiul_8": "Conform teoriei adevărului corespondență, un enunț este adevărat dacă: a. este benefic unui număr cât mai mare de persoane b. este în concordanță cu alte enunțuri deja acceptate ca adevărate c. garantează succesul unei acțiuni d. adevărul lui rezultă din confruntarea cu realitatea",
+      "exercitiul_9": "În etica deontologică, o acțiune are valoare morală doar atunci când: a. este conformă cu virtutea b. este guvernată de principii normative care îi asigură necesitatea și universalitatea c. este guvernată de principiul celei mai mari fericiri d. are drept scop înlăturarea durerii din corp și a suferinței din suflet",
+      "exercitiul_10": "Potrivit teoriei pragmatiste a adevărului, o idee poate fi validată numai de: a. teorie b. rațiune c. experiență d. morală"
+    },
+    "barem": "câte 3 puncte pentru fiecare răspuns corect, astfel: 1-c, 2-b, 3-d, 4-b, 5-b, 6-a, 7-a, 8-d, 9-b,10-c 10x3p= 30 puncte"
+  },
+  "subiectul_2": {
+    "subiect": {
+      "exercitiul_A": "În coloana din stânga sunt enumerate concepte specifice teoriei kantiene a cunoaşterii, iar în coloana din dreapta sunt numerotate enunţuri adevărate referitoare la acestea. Scrieţi pe foaia de examen asocierile corecte dintre fiecare literă din coloana din stânga şi cifra corespunzătoare din coloana din dreapta. a. Judecăți a priori b. Judecăți analitice c. Judecăți sintetice d. Judecăți a posteriori 1. Sunt judecăți explicative. 2. Provin din experiență. 3. Judecăți în care subiectul explicitează predicatul. 4. Sunt independente de orice experiență. 5. Judecăți în care predicatul adaugă subiectului o proprietate nouă.",
+      "exercitiul_B": "Argumentați, în aproximativ zece rânduri, în favoarea sau împotriva tezei potrivit căreia cunoașterea este un proces infinit de identificare și eliminare a erorilor.",
+      "exercitiul_C": "Construiți un exemplu de propoziție a cărei valoare de adevăr poate fi stabilită prin confruntarea cu realitatea."
+    },
+    "barem": {
+      "exercitiul_A": "câte 4 puncte pentru fiecare asociere corectă, astfel: a-4 b-1 c-5 d-2 4x4p=16 puncte",
+      "exercitiul_B": "- argumentarea în favoarea sau împotriva tezei potrivit căreia cunoașterea este un proces infinit de identificare și eliminare a erorilor 6 puncte - încadrarea în limita de spaţiu precizată 2 puncte C construirea unui exemplu de propoziție a cărei valoare de adevăr poate fi stabilită prin confruntarea cu realitatea 6 puncte"
+    }
+  },
+  "subiectul_3": {
+    "subiect": {
+      "exercitiul_A": {
+        "enunt": "Citiți, cu atenție, textul de mai jos: Totodată, este clar de ce omul este o ființă mai socială decât orice albină și orice ființă gregară; căci natura nu creează nimic fără scop. Însă grai are numai omul dintre toate vietățile. Vocea (nearticulată) este doar semnul plăcerii și al durerii, și există și la celelalte vietăți, căci natura lor se ridică numai până acolo, să aibă simțirea plăcerii și a durerii și a o semnifica unele altora, pe când limba servește a exprima ce este folositor și ce este vătămător, precum și ce este drept și nedrept. Și această însușire este caracteristică omului, spre deosebire de toate vietățile, așa că singur el are simțirea binelui și a răului, a dreptului și nedreptului și a tuturor celorlalte stări morale. Comunitatea unor ființe cu asemenea însușiri creează familia și statul. (Aristotel, Politica) Răspundeți următoarelor cerințe:",
+        "subpunctul_1": "Menționați, pe baza textului dat, două caracteristici ale ființei umane.",
+        "subpunctul_2": "Evidențiați, în aproximativ o jumătate de pagină, o corelație existentă între termenii natură umană și rațiune, utilizând termenii menționați în sens filosofic.",
+        "subpunctul_3": "Formulați un punct de vedere personal referitor la actualitatea perspectivei filosofice prezentată în textul dat."
+      },
+      "exercitiul_B": {
+        "enunt": "Știind că dreptatea distributivă presupune corectitudinea accesului la resurse, la poziții sociale, la distribuirea unor avantaje între persoane și/sau grupuri:",
+        "subpunctul_1": "Menționați două criterii de realizare ale acesteia.",
+        "subpunctul_2": "Ilustrați, printr-un exemplu concret, un mod în care poate fi realizată dreptatea distributivă."
+      }
+    },
+    "barem": {
+      "exercitiul_A": "1. câte 2 puncte pentru menționarea, pe baza textului dat, a fiecăreia dintre cele două caracteristici ale ființei umane 2x2p = 4 puncte 2. - câte 1 punct pentru utilizarea fiecăruia dintre cei doi termeni daţi în sens filosofic 2x1p = 2 puncte - evidenţierea unei corelaţii existente între termenii dați 4 puncte - coerenţa textului redactat 2 puncte - încadrarea în limita de spaţiu precizată 2 puncte 3. formularea unui punct de vedere personal referitor la actualitatea perspectivei filosofice prezentată în textul dat 6 puncte",
+      "exercitiul_B": "1. câte 3 puncte pentru menționarea fiecăruia dintre cele două criterii de realizare a dreptății distributive 2x3p = 6 puncte 2. ilustrarea, printr-un exemplu concret, a unui mod în care poate fi realizată dreptatea distributivă 4 puncte"
+    }
+  }
+}

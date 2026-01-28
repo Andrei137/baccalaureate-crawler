@@ -1,0 +1,49 @@
+{
+  "subiectul_1": {
+    "subiect": {
+      "enunt": "Scrieţi pe foaia de examen litera corespunzătoare răspunsului corect, pentru fiecare dintre situaţiile de mai jos. Este corectă o singură variantă de răspuns.",
+      "exercitiul_1": "În viziunea lui J. P. Sartre, omul: a. este condamnat să fie constrâns b. este rezultatul alegerilor pe care le face c. este o trestie cugetătoare d. este obligat să aleagă ceea ce nu vrea",
+      "exercitiul_2": "Binele și răul sunt categoriile fundamentale ale filosofiei: a. politice c. analitice b. morale d. critice",
+      "exercitiul_3": "Etica aplicată: a. are drept obiect probleme morale controversate c. derivă principii morale din analiza adevărului b. este o ramură a eticii teleologice d. este varianta modernă a hedonismului",
+      "exercitiul_4": "Libertatea și constrângerea sunt concepte a. independente c. substituibile b. corelative d. spontane",
+      "exercitiul_5": "În cadrul filosofiei politice, conceptul de libertate se corelează cu cel de: a. certitudine politică b. responsabilitate social-politică c. înclinație social-politică d. spontaneitate politică",
+      "exercitiul_6": "Dreptul la proprietate, într-un regim democratic, face parte din categoria drepturilor a. politice c. inalienabile b. pozitive d. culturale",
+      "exercitiul_7": "Pentru R. Descartes, o idee clară și distinctă este: a. înnăscută b. provenită din simțuri c. dependentă de senzație d. empirică",
+      "exercitiul_8": "„O opinie este adevărată când este coerentă cu celelalte opinii pe care le susținem” este: a. o definiție a falsității b. un criteriu al adevărului c. o cunoaștere clară si distinctă d. o teorie etică",
+      "exercitiul_9": "Potrivit lui Aristotel, fericirea este: a. o sumă a plăcerilor prezente b. un scop în sine c. un mijloc de a obține plăcerea d. un mijloc de a deține adevărul",
+      "exercitiul_10": "Sintagma conform căreia „Oamenii se nasc liberi” se referă la un drept: a. pozitiv b. cultural c. natural d. secundar"
+    },
+    "barem": "câte 3 puncte pentru fiecare răspuns corect, astfel: 1-b, 2-b, 3-a, 4-b, 5-b, 6-c, 7-a, 8-b, 9-b, 10-c 10x3p= 30 puncte"
+  },
+  "subiectul_2": {
+    "subiect": {
+      "exercitiul_A": "În coloana din stânga sunt enumerate concepte și teorii specifice politicii moderne, iar în coloana din dreapta sunt numerotate enunţuri adevărate referitoare la acestea. Scrieţi pe foaia de examen asocierile corecte dintre fiecare literă din coloana din stânga şi cifra corespunzătoare din coloana din dreapta. a. Democrația b. Liberalismul c. Legitimitate d. Etatism 1. Teorie conform căreia o acțiune poate să fie considerată dreaptă, bună în măsura în care contribuie la fericirea unui număr cât mai mare de persoane. 2. Teorie care supraevaluează importanța statului în dinamica vieții sociale, considerând indivizii mijloace de înfăptuire a idealurilor comunitare, a scopurilor generale. 3. Regim politic care, potrivit lui Karl R. Popper, trebuie să ofere posibilitatea de schimbare a guvernului fără vărsare de sânge atunci când acesta comite încălcări ale drepturilor individului. 4. Concept potrivit căruia exercitarea puterii se bazează pe încrederea pe care cetățenii au acordat-o guvernanților. 5. Concepție potrivit căreia rolul statului este de a asigura libertatea individului.",
+      "exercitiul_B": "Argumentați, în aproximativ zece rânduri, în favoarea sau împotriva tezei potrivit căreia adevărul sau falsitatea unei opinii depinde întotdeauna de ceva care se află în afara opiniei însăși.",
+      "exercitiul_C": "Construiți un exemplu prin care să evidențiați rolul/importanţa testării autocritice a propriilor teorii în cunoaștere."
+    },
+    "barem": {
+      "exercitiul_A": "câte 4 puncte pentru fiecare asociere corectă, astfel: a-3 b-5 c-4 d-2 4x4p=16 puncte",
+      "exercitiul_B": "- argumentarea în favoarea sau împotriva tezei potrivit căreia adevărul sau falsitatea unei opinii depinde întotdeauna de ceva care se află în afara opiniei însăși: argumentare convingătoare -6p./ argumentare neconvingătoare, superficială -2p. 6 puncte - încadrarea în limita de spațiu precizată 2 puncte",
+      "exercitiul_C": "construirea unui exemplu care evidențiază rolul/importanța testării autocritice a propriilor teorii în cunoaștere (în situația în care candidatul tratează subiectul la nivel teoretic, fără a formula un exemplu, se acordă 2 puncte din cele 6 puncte posibile) 6 puncte"
+    }
+  },
+  "subiectul_3": {
+    "subiect": {
+      "exercitiul_A": {
+        "enunt": "Citiți, cu atenție, textul de mai jos: Omul este o ființă mai socială decât orice albină și orice ființă gregară; căci natura nu creează nimic fără scop. Însă grai are numai omul dintre toate vietățile (...) Și această însușire este caracteristică omului, spre deosebire de toate vietățile, așa că singur el are simțirea binelui și răului, a dreptului și a nedreptului și a tuturor celorlalte stări morale. (Aristotel, Politica) Răspundeți următoarelor cerințe:",
+        "subpunctul_1": "Menționați, pe baza textului dat, două caracteristici ale naturii umane.",
+        "subpunctul_2": "Evidențiați, în aproximativ o jumătate de pagină, o corelație existentă între termenii sociabilitate și simțirea binelui, utilizând termenii menționați în sens filosofic.",
+        "subpunctul_3": "Formulați un punct de vedere personal referitor la actualitatea perspectivei filosofice prezentată în textul dat."
+      },
+      "exercitiul_B": {
+        "enunt": "Astăzi, se susține că, în pofida numeroaselor diferențe între oameni, este drept ca toți oamenii să fie tratați în mod egal, fără discriminare.",
+        "subpunctul_1": "Menționați trei domenii ale vieții sociale în care egalitatea se poate manifesta.",
+        "subpunctul_2": "Ilustrați, printr-un exemplu concret, modul în care poate fi pusă în practică egalitatea de șanse."
+      }
+    },
+    "barem": {
+      "exercitiul_A": "1. câte 2 puncte pentru menționarea, pe baza textului dat, a fiecăreia dintre cele două caracteristici ale naturii umane 2x2p= 4 puncte 2. - câte 1 punct pentru utilizarea fiecăruia dintre cei doi termeni daţi în sens filosofic 2x1p= 2 puncte - evidenţierea unei corelaţii existente între termenii dați 4 puncte - coerenţa textului redactat 2 puncte - încadrarea în limita de spaţiu precizată 2 puncte 3. formularea unui punct de vedere personal referitor la actualitatea perspectivei filosofice prezentată în textul dat (în situația în care candidatul formulează punctul de vedere personal, fără sa-l prezinte adecvat, se acordă 2 puncte din cele 6 puncte posibile) 6 puncte",
+      "exercitiul_B": "1. câte 2 puncte pentru menționarea fiecăruia dintre cele trei domenii ale vieții sociale în care egalitatea se poate manifesta 3x2p= 6 puncte 2. ilustrarea, printr-un exemplu concret, a unui mod în care poate fi pusă în practică egalitatea de șanse (în situația în care candidatul tratează subiectul la nivel teoretic, fără a formula un exemplu concret, se acordă 1 punct din cele 4 puncte posibile) 4 puncte Probă scrisă la filosofie Model Barem de evaluare şi de notare Pagina 1 din 1"
+    }
+  }
+}

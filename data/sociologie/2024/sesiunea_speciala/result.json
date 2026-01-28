@@ -1,0 +1,42 @@
+{
+  "subiectul_1": {
+    "subiect": "Pentru fiecare dintre următorii itemi, scrieți, pe foaia de examen, doar cifra corespunzătoare și notați în dreptul ei doar litera asociată răspunsului corect. Este corectă o singură variantă de răspuns. 1. Atunci când mai multe generații sau rude aparținând aceleași familii, trăiesc în aceași gospodărie, vorbim de o familie: a. nucleară c. monoparentală b. poligamă d. extinsă 2. Din perspectivă sociologică, la nivelul societății religia îndeplinește o serie de funcții, cu excepția: a. coeziunii sociale c. asigurării unui profit b. oferirii unui sens în viață d. internalizării normelor 3. Atitudinea față de o persoană sau față de un grup care nu se bazează pe argumente reale, ci pe stereotipuri cu privire la categoria din care acestea fac parte, poate fi considerată: a. comportament prosocial c. prejudecată b. acceptare d. comportament adecvat 4. Nemulțumirile care apar în cadrul raporturilor de muncă, în general cele legate de contractul de muncă și negocierea salariilor, generează: a. corupție c. dezvoltare b. conflicte industriale d. etichetări 5. Totalitatea influenţelor educaționale cu caracter spontan și neorganizat constituie educaţia: a. informală c. nonformală b. formală d. morală 6. Atunci când statul nu mai depinde de valorile pe care biserica le promovează și le propagă în societate, apare fenomenul de: a. secularizare subiectivă c. schimbare religioasă b. secularizare obiectivă d. supremație constituțională 7. În cazul instituțiilor totale, putem spune că acestea: a. sunt sisteme sociale deschise c. consolidează relațiile cu mediul extern b. generează libertate la nivel individual d. monopolizează viețile membrilor lor 8. Echitatea în sistemul educațional este o consecință a aplicării: a. principiului asigurării egalității de șanse b. principiului suveranității naționale c. principiului inegalității sociale d. principiului separării puterilor în stat 9. Termenul de corupție presupune apariția: a. unei relații de complicitate între persoana care corupe și persoana care se lasă coruptă b. unei relații de conflict între persoana care corupe și persoana care se lasă coruptă c. unei relații de solidaritate între persoana care corupe și persoana care se lasă coruptă d. unei relații de cooperare între persoana care corupe și persoana care se lasă coruptă 10. Elementele constitutive ale unui stat includ următoarele, excepție făcând: a. națiunea c. teritoriul b. războiul d. suveranitatea",
+    "barem": "câte 3 puncte pentru fiecare răspuns corect, astfel: 1-d, 2-c, 3-c, 4-b, 5-a, 6-b, 7-d, 8-a, 9-a, 10-b 10x3p= 30 puncte"
+  },
+  "subiectul_2": {
+    "subiect": {
+      "enunt": "Se dă următorul text: Socializarea este un proces de comunicare interactivă a valorilor, normelor și modelelor de comportament specifice unui grup sau unei societății, desfășurat în evoluția individului pe parcursul întregii sale vieț",
+      "exercitiul_i": "Ființa umană percepe influențele mediului în care trăiește în raport de modul propriu de gândire și de acțiune.",
+      "exercitiul_a": "Formulați, într-un singur enunț, ideea principală a textului.",
+      "exercitiul_b": "Menționați două concepte sociologice din text.",
+      "exercitiul_c": "Precizați înțelesul celor două concepte sociologice, menționate la subpunctul b.",
+      "exercitiul_d": "Explicați, în aproximativ o pagină, modul specific în care interacționează conceptele sociologice menționate la subpunctul b.",
+      "exercitiul_e": "Construiți o ipoteză de cercetare sociologică pornind de la textul dat.",
+      "exercitiul_f": "Argumentați un punct de vedere personal referitor la importanța grupului de prieteni ca agent activ în dezvoltarea socială a copilului."
+    },
+    "barem": {
+      "exercitiul_a": "formularea ideii principale a textului 2 puncte Notă: Punctajul se acordă numai în situația în care ideea principală este formulată într-un singur enunț.",
+      "exercitiul_b": "- câte 1 punct pentru menţionarea oricăror două concepte la care se face referire în text 2x1p=2 puncte",
+      "exercitiul_d": "- explicarea cerută: explicare adecvată cu încadrarea în limita de spațiu precizată(± un sfert de pagină) – 8p./ explicare adecvată fără încadrarea în limita de spațiu precizată-6 p./ explicare superficială, neconvingătoare – 3p. 8puncte",
+      "exercitiul_e": "- construirea ipotezei de cercetare sociologică: construirea oricărei ipoteze de cercetare sociologică pornind de la textul dat, cu respectarea caracterului științific al formulării ipotezei -6 p/ construirea oricărei ipoteze de cercetare sociologică pornind de la textul dat, fără respectarea caracterului științific al formulării ipotezei– 2p 6 puncte",
+      "exercitiul_f": "- argumentarea punctului de vedere personal cerut: argumentare convingătoare – 6p./ argumentare neconvingătoare, superficială – 2p. 6 puncte"
+    }
+  },
+  "subiectul_3": {
+    "subiect": {
+      "enunt": "Răspundeţi fiecăreia dintre următoarele cerinţe:",
+      "exercitiul_1": "Precizaţi înțelesul noţiunii de ipoteză de cercetare.",
+      "exercitiul_2": "Menționați două caracteristici ale experimentului sociologic.",
+      "exercitiul_3": "Evidenţiaţi o corelaţie existentă între termenii de instituție şi grup formal, redactând un text coerent, de o jumătate de pagină, în care să îi utilizaţi în sensul specific sociologiei. Punctajul se acordă pentru: a. utilizarea celor doi termeni în sensul specific sociologiei b. evidențierea corelației cerute c. coerența textului redactat 1 punct d. încadrarea în limita de spațiu precizată",
+      "exercitiul_4": "Ilustraţi, printr-un exemplu concret, modul în care se manifestă conflictul interstatus.",
+      "exercitiul_5": "Argumentaţi afirmaţia potrivit căreia rolurile sunt aşteptări definite din punct de vedere social, pe care le urmează o persoană într-o poziţie socială dată."
+    },
+    "barem": {
+      "exercitiul_1": "precizarea înţelesului noţiunii date 3 puncte",
+      "exercitiul_2": "câte 3 puncte pentru menţionarea oricăror două caracteristici ale termenului dat 2x3p=6 puncte",
+      "exercitiul_3": "a. -câte 1 punct pentru utilizarea fiecăruia dintre cei doi termeni în sensul specific sociologiei 2x1p=2 puncte b. - evidenţierea oricărei corelaţii existente între termenii daţi 4 puncte c. - coerența textului redactat 1 punct d. - încadrarea în limita de spațiu precizată (±2 rânduri) 2 puncte",
+      "exercitiul_4": "ilustrarea cerută: scrierea oricărui exemplu concret, adecvat – 6p./ scrierea unei explicații corecte, dar la nivel teoretic, fără însă a formula un exemplu concret – 2p. 6 puncte",
+      "exercitiul_5": "- argumentarea afirmaţiei date : argumentare convingătoare, cu respectarea caracterului formal al construirii argumentării (premisă, conectori logici, concluzie)– 6p./ argumentare neconvingătoare, superficială – 2p. 6 puncte"
+    }
+  }
+}
