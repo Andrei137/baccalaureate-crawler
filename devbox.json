@@ -1,0 +1,22 @@
+{
+  "packages": [
+    "uv@0.9.21"
+  ],
+  "shell": {
+    "scripts": {
+      "parse": [
+        "uv run -m src.parser.main"
+      ],
+      "scrape": [
+        "uv run -m src.scrape.main"
+      ],
+      "check": [
+        "find data -mindepth 3 -maxdepth 3 -type d ! -exec test -f \"{}/subiect.pdf\" \\; -print",
+        "find data -mindepth 3 -maxdepth 3 -type d ! -exec test -f \"{}/barem.pdf\" \\; -print"
+      ],
+      "clear": [
+        "find data -type f -name \"result.json\" -delete"
+      ]
+    }
+  }
+}
