@@ -1,26 +1,48 @@
 import json
 import re
-import unicodedata
 from io import BytesIO
 from pathlib import Path
 from typing import Any
 
 import pdfplumber
+import pytesseract
 import requests
+from pdf2image import convert_from_path
 from pypdf import PdfWriter
+from utils.regex import subjects
 
-
-def extract_pdf_text(pdf_path: str, normalize: bool = False) -> str:
+def extract_pdf_pdfplumber(pdf_path: str) -> str:
     text = ""
     with pdfplumber.open(pdf_path) as pdf:
         for page in pdf.pages:
             page_text = page.extract_text(use_text_flow=True)
             if page_text:
                 text += page_text + "\n"
-    if normalize:
-        text = unicodedata.normalize("NFC", text)
     text = text.replace("Ń", "ţ")
 
+    return text
+
+
+def extract_pdf_ocr(pdf_path):
+    pages = convert_from_path(pdf_path, dpi=300)
+    all_text = []
+    for page in pages:
+        text = pytesseract.image_to_string(page, lang="ron", config="--oem 3 --psm 6")
+        all_text.append(text)
+    return "\n".join(all_text)
+
+
+def bad_format(text):
+    for subject in subjects:
+        if not re.search(subject, text, re.IGNORECASE):
+            return True
+    return False
+
+
+def extract_pdf_text(pdf_path):
+    text = extract_pdf_pdfplumber(pdf_path)
+    if not text or bad_format(text):
+        return extract_pdf_ocr(pdf_path)
     return text
 
 

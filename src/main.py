@@ -11,6 +11,8 @@ from utils.regex import number, romanian_t, space, subjects
 def flatten_text(text: str) -> str:
     idx = text.find("Ministerul")
     text = text[:idx] if idx != -1 else text
+    idx = text.find("Probă")
+    text = text[:idx] if idx != -1 else text
     return re.sub(rf"{space}\n{space}", " ", text).strip()
 
 
@@ -220,8 +222,8 @@ def process_version(args):
             raise FileNotFoundError(f"Missing subiect/barem in {version_path}")
         result = parse(
             parsers,
-            extract_subjects(extract_pdf_text(subiect_path, normalize=True)),
-            extract_subjects(extract_pdf_text(barem_path, normalize=True)),
+            extract_subjects(extract_pdf_text(subiect_path)),
+            extract_subjects(extract_pdf_text(barem_path)),
         )
         write_to_json(version_result_path, flatten_dict(result))
         return version_path.name, result, "Processed"
@@ -312,14 +314,14 @@ def process_field(field_path: Path, max_workers: int = 4):
 
 def main():
     finished = [
-        "biologie_anatomie",
-        "biologie_vegetala_animala",
-        "economie",
-        "filosofie",
-        "istorie",
-        "logica",
-        "psihologie",
-        "sociologie",
+        # "biologie_anatomie", #
+        # "biologie_vegetala_animala", #
+        # "economie", #
+        # "filosofie", #
+        # "istorie", #
+        # "logica", #
+        # "psihologie", #
+        # "sociologie", #
     ]
     for field_path in Path("data").iterdir():
         if field_path.is_dir():

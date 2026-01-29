@@ -16,6 +16,15 @@
       ],
       "clear": [
         "find data -type f -name \"result.json\" -delete"
+      ],
+      "count:total": [
+        "find . -type f -iname \"subiect.pdf\" | wc -l"
+      ],
+      "count": [
+        "for d in data/*/; do printf \"%s: %d\\n\" \"$(basename \"$d\")\" \"$(find \"$d\" -type f -iname \"subiect.pdf\" | wc -l)\"; done"
+      ],
+      "finish": [
+        "mkdir -p final && for folder in data/*/; do fname=$(basename \"$folder\"); cp \"$folder/result.json\" \"final/$fname.json\"; done"
       ]
     }
   }
