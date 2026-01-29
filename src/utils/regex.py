@@ -5,7 +5,7 @@ dash = rf"{space}(?:-|–){space}"
 romanian_t = r"(?:ţ|ț)"
 roman_I = r"(?:I|!|l|\|)"
 subjects = [
-    rf"Subiectul {roman_I}{fill}\({number} de puncte\)",
-    rf"Subiectul al {roman_I}{roman_I}{dash}lea{fill}\({number} de puncte\)",
-    rf"Subiectul al {roman_I}{roman_I}{roman_I}{dash}lea{fill}\({number} de puncte\)",
+    rf"Subiectul {roman_I}{fill}\(?{number}{fill}de{fill}puncte\)",
+    rf"Subiectul al {roman_I}{roman_I}{fill}{dash}{fill}lea{fill}\(?{number}{fill}de{fill}puncte\)",
+    rf"Subiectul al {roman_I}{roman_I}{roman_I}{fill}{dash}{fill}lea{fill}\(?{number}{fill}de{fill}puncte\)",
 ]

@@ -9,7 +9,7 @@ import pytesseract
 import requests
 from pdf2image import convert_from_path
 from pypdf import PdfWriter
-from utils.regex import subjects
+from .regex import subjects
 
 def extract_pdf_pdfplumber(pdf_path: str) -> str:
     text = ""
@@ -19,7 +19,6 @@ def extract_pdf_pdfplumber(pdf_path: str) -> str:
             if page_text:
                 text += page_text + "\n"
     text = text.replace("Ń", "ţ")
-
     return text
 
 

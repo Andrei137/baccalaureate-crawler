@@ -244,6 +244,16 @@ def process_field(field_path: Path, max_workers: int = 4):
             (parse_subtask_uppercase_no_dot_lowercase, parse_barem_uppercase_no_dot),
             (parse_task, parse_barem),
         ],
+        "chimie_anorganica": [
+            (parse_simple_task, parse_simple_barem),
+            (parse_simple_task, parse_simple_barem),
+            (parse_simple_task, parse_simple_barem),
+        ],
+        "chimie_organica": [
+            (parse_simple_task, parse_simple_barem),
+            (parse_simple_task, parse_simple_barem),
+            (parse_simple_task, parse_simple_barem),
+        ],
         "economie": [
             (parse_subtask, parse_barem),
             (parse_simple_task, parse_simple_barem),
@@ -258,6 +268,11 @@ def process_field(field_path: Path, max_workers: int = 4):
             (parse_task, parse_barem),
             (parse_task_uppercase, parse_barem_uppercase),
             (parse_subtask, parse_barem_uppercase),
+        ],
+        "geografie": [
+            (parse_simple_task, parse_simple_barem),
+            (parse_simple_task, parse_simple_barem),
+            (parse_simple_task, parse_simple_barem),
         ],
         "logica": [
             (parse_simple_task, parse_simple_barem),
@@ -314,14 +329,18 @@ def process_field(field_path: Path, max_workers: int = 4):
 
 def main():
     finished = [
-        # "biologie_anatomie", #
-        # "biologie_vegetala_animala", #
-        # "economie", #
-        # "filosofie", #
-        # "istorie", #
-        # "logica", #
-        # "psihologie", #
-        # "sociologie", #
+        # "biologie_anatomie",
+        # "biologie_vegetala_animala",
+        # "chimie_anorganica",
+        # "chimie_organica",
+        # "economie",
+        # "filosofie",
+        # "istorie",
+        # "geografie",
+        # "logica",
+        # "psihologie",
+        # "sociologie",
+        "fizica",
     ]
     for field_path in Path("data").iterdir():
         if field_path.is_dir():
